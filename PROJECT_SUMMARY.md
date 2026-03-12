@@ -106,7 +106,7 @@ A **curated list of links** organized into categories:
 **Running meeting notes** documenting project team meetings. Key meetings include:
 
 - **6 March 2026 (Full team monthly meeting):** Research updates from Farshad on modeling septic malfunctions under wetter future conditions; discussion of REU summer students examining shallow groundwater impacts; VDH collaboration takeaways including early warning systems and "information to action" pathways; focus on pump-out literacy and education over enforcement; ESCC student involvement in field monitoring; upcoming Climate Collaborative Symposium (May 1); engagement dates including Earth Day (April 25) and Septic Smart Month (September)
-- **10 February 2026 (Meeting with VDH):** VDH's definition of septic failure; concerns about data creating harmful impacts on homeowners; commitment to "do no harm" data practices; sources of failure (age, use, flooding); VDH data on ~90 repairs/year with tax map numbers; discussion of what is monitorable
+- **10 February 2026 (Meeting with VDH):** VDH's definition of septic failure; Jon Richardson (VDH) raised concerns about data creating harmful impacts on homeowners if interventions are identified but funding is limited; team committed to "do no harm" data principles and limiting data access; sources of failure (age, use, flooding, inputs/what is flushed); VDH data on ~90 repairs/year with tax map numbers; acknowledgment that 6-9 sensor units cannot cover Shore-wide variation -- must focus on key factors; "educate and notify rather than enforce" approach to pump-outs; challenges with shared septic systems requiring a funded utility model
 
 ### Project Ideas of Students.docx
 A **table collecting undergraduate research project ideas** from PIs, suitable for UVA and ESCC students (including NSF REU-style projects). Examples:
@@ -123,10 +123,14 @@ A **technical solution proposal from Green Stream Technologies, Inc.** (January 
 - Low-power, autonomous power, resilient communications for challenging field conditions
 
 ### Green Stream Technologies/Copy of Smart Septic Lot Sheet 2026.xlsx
-A **spreadsheet** for tracking individual lot/household details for the pilot deployment.
+A **detailed pricing spreadsheet** from Green Stream with four sheets:
+- **Hypothetical MVP:** Line-item budget totaling **$235,037.75** across 4 phases (Define $18K, Develop $92K, Deploy $44K, Defend $55K) for 5 homes / 15 monitoring locations
+- **Kits:** Product catalog of sensor kit variants ($1,200-$10,200) with LTE, GOES, and Iridium communication options
+- **Cloud Service Plans:** Three tiers (Basic/Pro/Enterprise) with setup fees ($275-$4,500) and annual platform fees ($1,100-$37,500)
+- **Field Services & Labor Rates:** Site assessments ($245/site), installations, training; labor from $70/hr (Junior Field Tech) to $190/hr (Lead Systems Engineer)
 
 ### Team Profile.xlsx
-A **spreadsheet** with team member information and roles.
+Currently **empty** -- placeholder for team member information.
 
 ### Engagement and Education/EPA SmartSeptic/
 A collection of **EPA SepticSmart Week 2025 materials** (September 15-19, 2025):
