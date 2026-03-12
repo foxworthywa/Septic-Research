@@ -199,6 +199,56 @@ The 5 Tier 1 reference stations should be placed in **Parksley** (1-2, where den
 
 ---
 
+## Part 3.5: From Monitoring to Action -- The Response Protocol
+
+Sensors alone are a research tool. **Sensors plus a response protocol are an early warning system.** This is the "information to action" map that Majid flagged in the March 2026 meeting. Without a defined response, the sensor network produces data for papers. With one, it produces value for residents.
+
+### Threshold-Based Alert System
+
+| Condition | Groundwater Depth | Duration | Action |
+|-----------|------------------|----------|--------|
+| **Normal** | > 5 ft | -- | No action needed |
+| **Watch** | 3-5 ft | Any | Log event; no alert to residents |
+| **Warning** | < 3 ft | 24-48 hours | Alert participating homeowners (see below) |
+| **Sustained risk** | < 3 ft | > 1 week | Notify VDH/A-NPDC; recommend pump-out scheduling for area |
+| **Critical** | < 2 ft or rising rapidly | Any | Urgent alert: minimize all water use; contact VDH |
+
+### Homeowner Alert Content
+
+When a sensor detects sustained high groundwater at a participating household:
+
+> **Septic System Alert -- High Water Table This Week**
+>
+> Our sensor at your property shows groundwater is within 3 feet of the surface. This means your septic system's drainage is reduced and your system is under stress. Here's what you can do:
+>
+> - **Spread out water use** -- don't run the dishwasher, washing machine, and showers at the same time
+> - **Avoid heavy laundry days** -- do one load per day instead of several
+> - **Don't flush anything except toilet paper** -- no wipes, no grease, no chemicals
+> - **Watch for signs of backup** -- slow drains, gurgling toilets, standing water in the yard, sewage odor
+> - **If it's been 3+ years since your last pump-out**, call [A-NPDC number] to schedule a free one
+>
+> This alert is based on groundwater data, not an inspection of your system. It's a heads-up, not an emergency. Most systems handle brief high-water periods fine -- the risk is when it's sustained.
+
+### Area-Wide Notifications
+
+When multiple sensors in a neighborhood show sustained high groundwater:
+
+- Notify **VDH Eastern Shore Health District** (Jon Richardson's office) with aggregated data
+- Notify **A-NPDC** to consider mobilizing pump-out resources to the area
+- Post to the **project website/Livability Hub** as a community-level advisory
+- Optionally: **WESR radio spot** during extended high-water events ("If you're on a septic system in the Parksley/Exmore area, here's what to do this week...")
+
+### Connecting Sensors to the Direct-Action Agenda
+
+The sensor network becomes most valuable when it's **integrated with the outreach activities**:
+
+- **Well testing events** can be targeted to neighborhoods where sensors show chronic high groundwater
+- **Door-to-door pump-out enrollment** can prioritize areas with recent sensor alerts
+- **Ditch clearing work days** can target neighborhoods where sensors show the worst drainage
+- **Eastern Shore Post articles** can report on sensor data: "This month, X% of monitored sites exceeded the 3-foot safety threshold after last week's storms"
+
+---
+
 ## Part 4: Comparison with Green Stream Proposal
 
 Green Stream's value is real -- they offer professional engineering, guaranteed uptime, a polished cloud platform, and field support. Their solution makes sense if you need a **small, bulletproof, hands-off deployment**.
