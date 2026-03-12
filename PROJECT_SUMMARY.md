@@ -143,6 +143,54 @@ Both folders are currently **empty** -- placeholder directories for future conte
 
 ---
 
+## External Resource: ArcGIS StoryMap -- "Groundwater Depth and Septic Drainage on the Eastern Shore"
+
+**Source:** [https://storymaps.arcgis.com/stories/bb039401ce4c4b8491e4074dffe64f8e](https://storymaps.arcgis.com/stories/bb039401ce4c4b8491e4074dffe64f8e)
+**Published:** April 27, 2025
+**Co-produced by:** Residents of the Eastern Shore & The Eastern Shore Livability Hub Team
+
+This interactive StoryMap is a public-facing product of the prior NSF CoPe research that the current Climate Collaborative project builds upon. It communicates groundwater depth risks to septic systems using maps, data, and community voices.
+
+### Key Content
+
+**The Problem:**
+- Septic systems need groundwater at least **3 feet below the surface** to drain properly. When soil is saturated, wastewater can't drain by gravity and contaminates groundwater and nearby wells with harmful bacteria.
+- Signs of trouble: standing water in drain fields, sewage smell after rainstorms.
+- Quote from a licensed septic system operator on the Shore (2025): *"When it rains... we get calls [that] people can't flush [the] toilet."*
+
+**Climate-Driven Changes to Groundwater:**
+- Changing rain patterns will shift groundwater depth -- wetter/cooler conditions raise groundwater, impairing drainage; drier/hotter conditions lower it, supporting drainage.
+- Fewer but larger rain events could deepen groundwater overall, but severe storm flooding and saltwater infiltration can damage alternative (anaerobic) septic systems.
+
+**Research & Predictive Mapping:**
+- Uses the **USGS Eastern Shore SEAWAT groundwater model**, modified by UVA researchers (Culver, Hesamfar, Barbosa, Band) to simulate future conditions under climate change.
+- The StoryMap displays a **2040 prediction map** showing groundwater depth by census block, with "Highest Risk" areas where depth to groundwater is less than 3 feet.
+
+**Key Statistic:**
+- Based on 2040 projections, nearly **7,800 residential septic systems** are at-risk (groundwater < 3 feet).
+- **Estimated total replacement cost: $156 million** (at ~$20K/system).
+- Typical septic systems cost $5-10K; engineered alternatives for poor drainage areas cost **$30-40K**.
+
+**Location-Specific Examples:**
+- **Parksley:** Even within a small town, elevation differences and proximity to streams create lot-to-lot variation in groundwater depth.
+- **Exmore:** May require more alternative systems with pre-treatment or raised mounds in the future.
+- **Nassawadox:** High water table; one side of the highway is much higher than the other, requiring creative solutions.
+
+### Adaptation Strategies Highlighted
+
+1. **Swales and Ditches:** Residential drainage features to capture runoff and prevent standing water in drain fields. Targeted ditch maintenance could reduce rainfall-driven flooding by up to 10%.
+2. **Regular Maintenance:** Essential for all wastewater systems to prevent costly failures and protect water resources.
+3. **Raised Septic Systems:** Reduce failure risk and groundwater contamination in areas with high water tables and frequent flooding.
+4. **Community Septic Systems:** Funded and maintained as a public utility to reduce costs for residents of small towns without sewer lines.
+
+### Data Sources
+- U.S. Geological Survey (USGS) -- original SEAWAT model and surface elevation data
+- Virginia Department of Environmental Quality -- groundwater collaboration
+- UVA modifications by Teresa Culver, Farshad Hesamfar, Sergio A. Barbosa, and Lawrence Band (2025)
+- U.S. Census Bureau (2020) -- American Community Survey 5-Year Estimates for population data
+
+---
+
 ## Key Themes Across All Documents
 
 1. **Climate-driven infrastructure failure:** Rising groundwater, sea level rise, and increased flooding are causing septic systems to fail across Virginia's Eastern Shore
