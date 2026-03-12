@@ -237,6 +237,62 @@ Use these in articles, presentations, and conversations:
 
 ---
 
+## Part 8: New Development -- Building in the Problem or Building Past It?
+
+### The HRSD Sewer Expansion (Good News)
+
+Hampton Roads Sanitation District is constructing **~121,000 feet of sewer pipe and four pump stations** to connect Nassawadox, Exmore, Keller, Onley, Onancock, Accomac, and Wachapreague to the Onancock Wastewater Treatment Plant. Cost: ~$34 million (grants, loans, ratepayer fees). Exmore will go from ~350 hookups to 900+. This is a generational infrastructure improvement along the Route 13 corridor.
+
+But development outside these sewer corridors still relies entirely on septic.
+
+### New Construction in At-Risk Areas
+
+Active developments on the Shore include:
+- **New Road Legacy Project (Exmore):** 47 affordable housing units, $3.7M in state grants
+- **Bay Creek Resort (Cape Charles):** Largest planned community on the Shore; ~300 lots sold in 5 years; has its own sewer
+- **Cheriton Cross Road Subdivision:** 54 units using shared septic (VDH approved)
+
+**The critical gap:** There is **no evidence that new subdivision approvals are being cross-referenced against the SEAWAT groundwater model predictions.** New homes may be permitted with septic systems in areas the model flags as < 3ft groundwater by 2040 -- building in failure from day one.
+
+### Regulatory Lag
+
+- The 2021 Virginia legislation (SB 1396) authorized VDH to incorporate climate change into septic regulations
+- VDH opened its first comprehensive regulatory review in 20 years in 2022
+- Draft regulations unveiled **August 2024** -- still not finalized
+- **Subdivision approvals and certification letters currently do not expire** -- permits issued before new rules take effect may allow building in at-risk areas indefinitely
+- Alternative septic systems for high water table areas cost **$30,000-$80,000 per home** -- a massive burden where median home prices are $100K-$300K
+
+### Saxis and the Managed Retreat Question
+
+Saxis represents the hard end of this conversation:
+- Highest point: **8 feet above sea level** (only 3 feet higher than Tangier Island)
+- Shoreline eroding at **~5 feet/year**
+- Sole access road floods **at least once per month**
+- Entirely septic-dependent, no public water system
+- Population ~213, median income $35,417
+- Local officials: *"I wish I could say I thought Saxis would be saved, but there's no way."*
+- VIMS projects **4.5-7 feet of sea level rise by 2100** for the Shore
+
+Continued septic repair investment in places like Saxis may not be the highest use of limited resources. But no managed retreat plan exists.
+
+### Intervention Opportunity: Influence New Construction Standards
+
+The project could have lasting impact by:
+
+1. **Mapping new development permits against SEAWAT risk zones** -- Does the planning commission know which approved lots will have < 3ft groundwater by 2040? This student project (#15 in the projects document) could produce a map that changes local building decisions.
+
+2. **Advocating for mandatory sewer connection** where HRSD expansion makes it available -- HRSD does not have a mandatory connection policy; each locality decides. Some homes may continue using failing septics even when sewer is available next door.
+
+3. **Engaging the planning commissions** -- Present the SEAWAT model data to Accomack and Northampton planning commissions. Make the case that new subdivisions in high-risk zones should require engineered systems or sewer connection, not conventional septic.
+
+4. **Supporting the VDH regulatory process** -- The climate-change septic regulations are still in draft. The project team's data and community engagement experience could inform the final rules.
+
+It's cheaper to build right the first time ($5-10K for appropriate system at construction) than to retrofit later ($30-40K). And it's far cheaper to influence a building code than to replace 7,800 failing systems.
+
+Sources: [HRSD Eastern Shore Sewer Infrastructure](https://www.hrsd.com/eastern-shore-sewer-infrastructure-improvements), [Virginia Mercury (Aug 2024)](https://virginiamercury.com/2024/08/06/virginia-department-of-health-unveils-draft-septic-regulations-to-account-for-climate-change/), [CBF - How Saxis is fighting drowning](https://www.chesapeakebay.net/news/blog/how-one-town-is-determined-not-to-drown), [Virginia Coastal Resilience Master Plan](https://www.dcr.virginia.gov/crmp/plan)
+
+---
+
 ## Note on the 6% Nitrogen Figure
 
 The project proposal states septic systems contribute ~6% of nitrogen loads to the Chesapeake Bay. The current Chesapeake Bay Program model estimates **3.25-3.4%** Bay-wide (~8.3 million pounds/year out of ~300 million). The 6% figure may reflect an older model version, a sub-watershed calculation, or inclusion of indirect pathways. This discrepancy should be verified before using in grant narratives. Either figure represents a significant and addressable source.
