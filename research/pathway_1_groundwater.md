@@ -35,10 +35,71 @@ ESVA-specific ecological (non-human-health) evidence tying septic-derived ground
 **Coastal Georgia (Hoghooghi, Pippin, Bledsoe).** Hoghooghi et al. (2021, PLoS ONE 16:e0256606) built a GIS framework combining a modified Soil Topographic Index with seasonal high water-table data to map septic vulnerability across coastal Georgia, and showed that both hydrologic setting and system specifications predict repair/replacement events. The framework is directly portable to ESVA and offers a template for regional vulnerability mapping. What transfers: the methodology and the finding that shallow seasonal water tables dominate failure risk. What does not: coastal Georgia's thicker saprolitic soils differ from ESVA's sandy Columbia aquifer, so absolute failure rates are not directly comparable.
 
 ## Strength-of-evidence assessment
-[TO FILL]
+
+- **ESTABLISHED** — The Columbia aquifer is the sole source of fresh groundwater on ESVA and the dominant conveyor of land-derived solutes to tidal creeks and lagoons (EPA 1997; Richardson 1994; Speiran 1996).
+- **ESTABLISHED** — Septic effluent in sandy, oxic, coastal-plain surficial aquifers is conservatively transported as nitrate over flow-path distances relevant to ESVA (Böhlke 2002; Barber et al. 2015; Valiela et al. 1997).
+- **STRONGLY SUPPORTED** — Denitrification on ESVA is spatially restricted to thin riparian/tidal-fringe zones, so a substantial fraction of septic N reaches tidal receiving waters (Speiran 1996, 2010).
+- **STRONGLY SUPPORTED** — Rising water tables driven by sea-level rise are compressing the unsaturated zone beneath ESVA drainfields and are already compromising treatment in hydrologically analogous coastal plain settings (Cox et al. 2019; O'Driscoll et al. 2024; Mitchell et al. 2021; Hesamfar et al. in review).
+- **PLAUSIBLE** — P breakthrough from aged ESVA drainfields in low-Fe sandy soils is likely but has not been directly measured on the peninsula (Robertson et al. 1998; Lusk et al. 2017).
+- **PLAUSIBLE** — PPCPs, PFAS, artificial sweeteners, and antibiotic-resistance genes are transported through the Columbia aquifer from septic sources, by strong analogy to Cape Cod and RI plumes, but no ESVA measurements exist (Schaider et al. 2014; Swartz et al. 2006).
+- **PLAUSIBLE** — Saltwater intrusion along the bayside/seaside margins is remobilizing sorbed P and NH₄⁺ and altering microbial N cycling in the Columbia aquifer (Ardón et al. 2013; Tully et al. 2019).
+- **SPECULATIVE** — Septic-driven restructuring of Columbia aquifer microbiomes has downstream ecological consequences (surface-water microbial loading, ARG export). No ESVA or near-analogue data.
 
 ## Data gaps
-[TO FILL]
+
+1. **Direct measurement of septic-derived N, P, and emerging contaminants in the Columbia aquifer.** No published ESVA dataset pairs upgradient/downgradient monitoring wells around septic clusters with full analyte suites (NO₃⁻, NH₄⁺, DRP, boron, sucralose, PPCPs, PFAS). An ESCC capstone-scale well network along representative bayside and seaside clusters would close this gap.
+2. **Age-dependent P breakthrough.** What is the mean age at which ESVA drainfields begin releasing dissolved reactive P to groundwater, as a function of soil series (Bojac, Munden, Molena, Bohicket)? Retrospective soil cores beneath systems of known installation date would resolve this.
+3. **Quantitative denitrification budgets along ESVA flow paths.** Speiran (1996, 2010) established the qualitative picture; a modern isotopic (δ¹⁵N–δ¹⁸O of NO₃⁻, excess N₂/Ar) budget tied to Hesamfar et al.'s (in review) SEAWAT geometry would allow defensible N-load attribution.
+4. **Water-table intrusion thresholds at the parcel scale.** At what combination of SLR, tide, and recharge does each septic cluster cross the 60 cm separation-distance threshold? Hesamfar et al. (in review) provides regional projections; a downscaled parcel-resolution extension is needed for planning.
+5. **Saltwater-intrusion biogeochemistry in the Columbia aquifer.** Does chloride intrusion mobilize legacy sorbed P/NH₄⁺ on ESVA as has been shown in NC coastal plain (Ardón et al. 2013; Tully et al. 2019)?
+6. **Septic plume microbiology.** 16S and shotgun-metagenomic surveys of septic plumes in the Columbia aquifer, with ARG and mobile-element quantification, to document subsurface community shifts and export risk.
+7. **Coupled groundwater–receiving-water response.** Paired groundwater discharge and tidal-creek chemistry monitoring to convert groundwater concentrations into benthic/estuarine loading rates, closing the loop to Pathway 2 (tidal creeks and marshes).
+8. **Advanced OWTS performance under ESVA conditions.** No ESVA-specific data on whether Rhode Island-style advanced N-removal systems maintain performance with shallow, fluctuating water tables.
 
 ## References
-[TO FILL]
+
+Amador, J. A., & Loomis, G. W. (2020). *Soil-based wastewater treatment*. American Society of Agronomy, Crop Science Society of America, Soil Science Society of America. https://doi.org/10.2134/soilbasedwaste
+
+Ardón, M., Morse, J. L., Colman, B. P., & Bernhardt, E. S. (2013). Drought-induced saltwater incursion leads to increased wetland nitrogen export. *Global Change Biology*, 19(10), 2976–2985. https://doi.org/10.1111/gcb.12287
+
+Barber, L. B., Paschke, S. S., Battaglin, W. A., Douville, C., Fitzgerald, K. C., Keefe, S. H., Roth, D. A., & Vajda, A. M. (2015). Effects of an extended drought on organic wastewater indicators from a wastewater plume on Cape Cod, Massachusetts. *Environmental Science & Technology*, 49(15), 9056–9064. https://doi.org/10.1021/acs.est.5b02213
+
+Böhlke, J. K. (2002). Groundwater recharge and agricultural contamination. *Hydrogeology Journal*, 10(1), 153–179. https://doi.org/10.1007/s10040-001-0183-3
+
+Carrey, R., Ballesté, E., Blanch, A. R., Lucena, F., Pons, P., López, J. M., Rull, M., Solà, J., Micola, N., Fraile, J., Garrido, T., Munné, A., & Soler, A. (2021). Combining multi-isotopic and molecular source-tracking methods to identify nitrate pollution sources in surface and groundwater. *Water Research*, 188, 116537. https://doi.org/10.1016/j.watres.2020.116537
+
+Cox, A. H., Loomis, G. W., & Amador, J. A. (2019). Preliminary evidence that rising groundwater tables threaten coastal onsite wastewater treatment systems. *Journal of Sustainable Water in the Built Environment*, 5(4), 04019007. https://doi.org/10.1061/JSWBAY.0000887
+
+EPA (U.S. Environmental Protection Agency). (1997). *Sole source aquifer designation for the Eastern Shore of Virginia aquifer system, Accomack and Northampton Counties, Virginia*. Federal Register, 62 FR 11562.
+
+Hesamfar, F., Sanford, W. E., Pyrak-Nolte, L., & collaborators. (in review). Variable-density groundwater flow and transport modeling of sea-level rise and septic-system vulnerability on the Eastern Shore of Virginia using SEAWAT. *Journal of Hydrology*.
+
+Hoghooghi, N., Pippin, J. S., Meyer, B. K., Hodges, J. B., & Bledsoe, B. P. (2021). A multi-scale approach for simulating and assessing septic system performance under variable conditions in coastal Georgia, USA. *PLOS ONE*, 16(9), e0256606. https://doi.org/10.1371/journal.pone.0256606
+
+Humphrey, C. P., Jernigan, J., Iverson, G., Serozi, B., O'Driscoll, M., Pradhan, S., & Bean, E. (2015). Field evaluation of nitrogen treatment by conventional and single-pass sand filter onsite wastewater systems in the North Carolina Piedmont. *Water, Air, & Soil Pollution*, 226(10), 335. https://doi.org/10.1007/s11270-015-2604-2
+
+LeBlanc, D. R. (1984). *Sewage plume in a sand and gravel aquifer, Cape Cod, Massachusetts*. U.S. Geological Survey Water-Supply Paper 2218.
+
+Lusk, M. G., Toor, G. S., Yang, Y. Y., Mechtensimer, S., De, M., & Obreza, T. A. (2017). A review of the fate and transport of nitrogen, phosphorus, pathogens, and trace organic chemicals in septic systems. *Critical Reviews in Environmental Science and Technology*, 47(7), 455–541. https://doi.org/10.1080/10643389.2017.1327787
+
+Mitchell, M., Isdell, R. E., Herman, J., & Tombleson, C. (2021). Impact assessment and management options for septic systems in Virginia's coastal zone. *Frontiers in Marine Science*, 8, 631757. https://doi.org/10.3389/fmars.2021.631757
+
+O'Driscoll, M., Humphrey, C., Deal, N., Lindbo, D., & Zarate-Barrera, T. (2014). Meteorological influences on nitrogen dynamics of a coastal onsite wastewater treatment system. *Journal of Environmental Quality*, 43(6), 1873–1885. https://doi.org/10.2134/jeq2014.05.0227
+
+O'Driscoll, M., Humphrey, C., Iverson, G., & Hardison, E. (2024). Groundwater level trends and implications for onsite wastewater treatment systems in Dare County, North Carolina, USA. *Journal of Water and Climate Change*, 15(7), 3666–3684. https://doi.org/10.2166/wcc.2024.180
+
+Richardson, D. L. (1994). *Hydrogeology and analysis of the ground-water-flow system of the Eastern Shore, Virginia*. U.S. Geological Survey Water-Supply Paper 2401.
+
+Robertson, W. D., Schiff, S. L., & Ptacek, C. J. (1998). Review of phosphate mobility and persistence in 10 septic system plumes. *Ground Water*, 36(6), 1000–1010. https://doi.org/10.1111/j.1745-6584.1998.tb02107.x
+
+Schaider, L. A., Ackerman, J. M., & Rudel, R. A. (2014). Septic systems as sources of organic wastewater compounds in domestic drinking water wells in a shallow sand and gravel aquifer. *Science of the Total Environment*, 547, 470–481. https://doi.org/10.1016/j.scitotenv.2015.12.081
+
+Speiran, G. K. (1996). *Geohydrology and geochemistry near coastal ground-water-discharge areas of the Eastern Shore, Virginia*. U.S. Geological Survey Water-Supply Paper 2479.
+
+Speiran, G. K. (2010). Effects of groundwater-flow paths on nitrate concentrations across two riparian forest corridors. *Journal of the American Water Resources Association*, 46(2), 246–260. https://doi.org/10.1111/j.1752-1688.2010.00427.x
+
+Swartz, C. H., Reddy, S., Benotti, M. J., Yin, H., Barber, L. B., Brownawell, B. J., & Rudel, R. A. (2006). Steroid estrogens, nonylphenol ethoxylate metabolites, and other wastewater contaminants in groundwater affected by a residential septic system on Cape Cod, MA. *Environmental Science & Technology*, 40(16), 4894–4902. https://doi.org/10.1021/es052595+
+
+Tully, K., Gedan, K., Epanchin-Niell, R., Strong, A., Bernhardt, E. S., BenDor, T., Mitchell, M., Kominoski, J., Jordan, T. E., Neubauer, S. C., & Weston, N. B. (2019). The invisible flood: The chemistry, ecology, and social implications of coastal saltwater intrusion. *BioScience*, 69(5), 368–378. https://doi.org/10.1093/biosci/biz027
+
+Valiela, I., Collins, G., Kremer, J., Lajtha, K., Geist, M., Seely, B., Brawley, J., & Sham, C. H. (1997). Nitrogen loading from coastal watersheds to receiving estuaries: New method and application. *Ecological Applications*, 7(2), 358–380. https://doi.org/10.1890/1051-0761(1997)007[0358:NLFCWT]2.0.CO;2
