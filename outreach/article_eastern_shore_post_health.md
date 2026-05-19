@@ -59,19 +59,19 @@ The first step is finding out what's in yours.
 
 ## Sidebar — "What you can do today"
 
-**1. Get your well water tested — even if you've never had a problem.** First-time testing typically costs about $20 and can be done at home with a kit you mail in, or at one of the free testing events the Eastern Shore Health District and Eastern Shore Community College run several times a year. Earth Day and SepticSmart Week in September are the biggest. You want the test panel that includes nitrate and bacteria, not just pH and hardness.
+**1. Get your well water tested — even if you've never had a problem.** First-time testing typically costs about $20 [4] and can be done at home with a kit you mail in, or at one of the free testing events the Eastern Shore Health District and Eastern Shore Community College run several times a year. Earth Day and SepticSmart Week in September [5] are the biggest. You want the test panel that includes nitrate and bacteria, not just pH and hardness.
 
 **2. Know your number.** If you've never tested, you don't know what's normal for your well. After your first test, anything you do later — switching to bottled water for formula, adding a filter, getting your tank pumped on schedule — is making sense of a baseline. Without the baseline you're guessing.
 
-**3. Pump out your tank.** Every 3–5 years for most households. About $400 out of pocket; free for qualifying low- and moderate-income households through the Accomack–Northampton Planning District Commission. A pump-out prevents the slow leak that eventually contaminates the aquifer your well draws from.
+**3. Pump out your tank.** Every 3–5 years for most households. About $400 out of pocket; free for qualifying low- and moderate-income households through the Accomack–Northampton Planning District Commission [17]. A pump-out prevents the slow leak that eventually contaminates the aquifer your well draws from.
 
-**4. The three P's at the toilet.** Pee, poop, and (toilet) paper. Nothing else. "Flushable" wipes are not flushable. Cooking grease, paint, harsh cleaners — they shorten system life and accelerate the leakage problem.
+**4. The three P's at the toilet.** Pee, poop, and (toilet) paper. Nothing else [18]. "Flushable" wipes are not flushable. Cooking grease, paint, harsh cleaners — they shorten system life and accelerate the leakage problem.
 
-**5. Filter if your test result asks you to.** A simple under-sink reverse-osmosis filter (about $200 installed, around $50/year in replacement membranes) removes nitrate and most bacteria from drinking and cooking water. You don't need it for laundry or dishwashing — just the tap you use for drinking and cooking.
+**5. Filter if your test result asks you to.** A simple under-sink reverse-osmosis filter (about $200 installed, around $50/year in replacement membranes) removes nitrate and most bacteria from drinking and cooking water [10]. You don't need it for laundry or dishwashing — just the tap you use for drinking and cooking.
 
-**6. Apply for septic repair help if you need it.** Virginia's Onsite Sewage Indemnification Fund covers households at up to twice the federal poverty level. Most people who qualify don't know about it. The planning district commission can help with the paperwork.
+**6. Apply for septic repair help if you need it.** Virginia's Onsite Sewage Indemnification Fund covers households at up to twice the federal poverty level [19]. Most people who qualify don't know about it. The planning district commission can help with the paperwork.
 
-**7. Connect to sewer if it ever comes to you.** The Hampton Roads Sanitation District is extending sewer through Nassawadox, Exmore, Keller, Onley, Onancock, Accomac, and Wachapreague. If a line reaches your property, take it — the long-term protection for your family and your neighbors is worth the hookup cost.
+**7. Connect to sewer if it ever comes to you.** The Hampton Roads Sanitation District is extending sewer through Nassawadox, Exmore, Keller, Onley, Onancock, Accomac, and Wachapreague [20]. If a line reaches your property, take it — the long-term protection for your family and your neighbors is worth the hookup cost.
 
 ## Sidebar — "Where to call"
 
@@ -82,7 +82,7 @@ The first step is finding out what's in yours.
 
 ## Sidebar — "If you have a baby or are expecting"
 
-The single most important thing to know is that **boiling water does not remove nitrate — it concentrates it.** The instinct to boil water you're worried about works for bacteria but is exactly the wrong move for nitrate, which infants under four months old are uniquely vulnerable to.
+The single most important thing to know is that **boiling water does not remove nitrate — it concentrates it** [12]. The instinct to boil water you're worried about works for bacteria but is exactly the wrong move for nitrate, which infants under four months old are uniquely vulnerable to [11].
 
 **Safe choices for formula mixing if you have not had your well tested:**
 - Bottled distilled water or bottled "nursery water" sold for infant formula — safe regardless of well status.
