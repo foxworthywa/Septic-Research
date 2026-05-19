@@ -94,6 +94,56 @@ The single most important thing to know is that **boiling water does not remove 
 
 **If your test comes back high.** Call your pediatrician with the actual number before you change anything. Most cases are easily managed with bottled or filtered water for formula and drinking. If nitrate is high enough to require a longer-term fix, that conversation can include treatment options for the household.
 
+## Sources and citations
+
+These citations support every specific factual claim in the article and sidebars. The bracketed numbers [1], [2], etc. in the article correspond to the entries below. Where the original source is paywalled, a freely available alternative or government summary is provided.
+
+**For students:** every claim you'd need to verify or cite in your own version of the article is here. The peer-reviewed papers are the most authoritative; the government and Extension sources are the most accessible. When you write your own article, you can either keep the inline numbers (scientific style) or rephrase claims as "according to a 2018 Danish study of 2.7 million people..." style (journalism style). Either is fine.
+
+**For editors:** if this article runs in the Eastern Shore Post, the inline numbers can be left in place (some papers use them) or stripped without changing the prose. If stripped, this section can be omitted or printed as a sidebar headed "Sources available on request."
+
+[1] **EPA sole-source aquifer designation, 1997.** U.S. Environmental Protection Agency. Eastern Shore of Virginia aquifer system, Accomack and Northampton Counties. *Federal Register* 62 FR 11562, March 12, 1997. <https://www.federalregister.gov/documents/1997/03/12/97-6235/eastern-shore-of-virginia-aquifer-sole-source-aquifer-designation>
+
+[2] **~43 percent of tested Shore wells show contamination.** Compiled from Eastern Shore Health District well testing data and Accomack–Northampton Planning District Commission well sampling reports. See also Bay Journal: "Septic system failures expected to increase in coastal Virginia." <https://www.bayjournal.com/news/pollution/septic-system-failures-expected-to-increase-in-coastal-virginia/article_3fed2079-1b2a-5e5c-a8a0-e1080844cc16.html>
+
+[3] **Virginia does not require private well testing.** Virginia Code §32.1-176.3 (Private Wells); Virginia Department of Health, Office of Environmental Health Services well program. <https://www.vdh.virginia.gov/environmental-health/onsite-sewage-water-services-updated/private-wells/>
+
+[4] **First-time well-test cost (~$20).** Virginia Cooperative Extension Household Water Quality Program; Virginia Tech analytical fees. <https://www.wellwater.bse.vt.edu/>
+
+[5] **Free testing days through ESHD and ESCC; EPA SepticSmart Week.** U.S. EPA SepticSmart Week, held every September. <https://www.epa.gov/septic/septicsmart-week>
+
+[6] **Federal nitrate maximum contaminant level (10 mg/L).** EPA National Primary Drinking Water Regulations, 40 CFR §141.62. <https://www.epa.gov/dwreginfo/national-primary-drinking-water-regulations>
+
+[7] **The 10 mg/L nitrate limit was set in 1962 by the U.S. Public Health Service and has not been updated since.** Walton G. 1951. Survey of literature relating to infant methemoglobinemia due to nitrate-contaminated water. *American Journal of Public Health* 41(8):986–996. PHS 1962 Drinking Water Standards (historical, retained by EPA). For a modern review of the standard's adequacy: Ward MH, Jones RR, Brender JD, de Kok TM, Weyer PJ, Nolan BT, Villanueva CM, van Breda SG. 2018. Drinking water nitrate and human health: An updated review. *International Journal of Environmental Research and Public Health* 15(7):1557. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068531/>
+
+[8] **Danish 2.7-million-person colorectal cancer / nitrate study.** Schullehner J, Hansen B, Thygesen M, Pedersen CB, Sigsgaard T. 2018. Nitrate in drinking water and colorectal cancer risk: A nationwide population-based cohort study. *International Journal of Cancer* 143(1):73–79. <https://doi.org/10.1002/ijc.31306>
+
+[9] **Thyroid disruption at 5 mg/L nitrate (Iowa Women's Health Study).** Ward MH, Kilfoy BA, Weyer PJ, Anderson KE, Folsom AR, Cerhan JR. 2010. Nitrate intake and the risk of thyroid cancer and thyroid disease. *Epidemiology* 21(3):389–395. <https://doi.org/10.1097/EDE.0b013e3181d6201d>. See also Ward et al. 2018 (cited as [7]) for a comprehensive review.
+
+[10] **Reverse-osmosis filter performance and cost for nitrate removal at the tap.** EPA Drinking Water Treatment Technology Resources. <https://www.epa.gov/water-research/drinking-water-treatment-technology-unit-cost-models>. Virginia Cooperative Extension publication 442-908, "Household Water Quality: Reverse Osmosis." <https://www.pubs.ext.vt.edu/442/442-908/>
+
+[11] **Methemoglobinemia (blue baby syndrome) in infants from drinking-water nitrate.** Knobeloch L, Salna B, Hogan A, Postle J, Anderson H. 2000. Blue babies and nitrate-contaminated well water. *Environmental Health Perspectives* 108(7):675–678. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1638204/>. CDC private well health risks fact sheet. <https://www.cdc.gov/healthywater/drinking/private/wells/disease.html>
+
+[12] **Boiling water concentrates nitrate rather than removing it.** EPA Private Wells guidance. <https://www.epa.gov/privatewells>. CDC drinking water treatment guidance. <https://www.cdc.gov/healthywater/drinking/private/wells/treatment.html>. Specifically: "Boiling water does not remove nitrate. Boiling causes some water to evaporate, which actually increases the concentration of nitrate in the remaining water."
+
+[13] **Chincoteague stopped using its own groundwater and pipes water from NASA Wallops Island.** Bay Journal historical coverage; Town of Chincoteague public water history. See Pathway 5 in `research/pathway_5_iconic_species.md` for project-team compiled context.
+
+[14] **Federal law does not regulate private wells.** The Safe Drinking Water Act applies only to public water systems serving 25 or more people for at least 60 days a year. EPA private well overview. <https://www.epa.gov/privatewells/learn-about-private-water-wells>
+
+[15] **Sea-level rise and rising water tables are compromising aging Eastern Shore drainfields.** Mitchell M, Isdell RE, Herman J, Tombleson C. 2021. Impact assessment and management challenges of key rural human health infrastructure under sea level rise. *Frontiers in Marine Science* 8:631757. <https://doi.org/10.3389/fmars.2021.631757>. See also Hesamfar et al. (in review), *Journal of Hydrology* — SEAWAT modeling of ESVA septic vulnerability under sea-level-rise scenarios.
+
+[16] **18,000 Eastern Shore septic systems; ~7,800 projected at-risk by 2040.** UVA Environmental Institute Climate Collaborative proposal, "Co-Producing Equitable Solutions to Septic System Failures" (2026–2028). Eastern Shore Climate Equity StoryMap, April 2025. <https://storymaps.arcgis.com/stories/bb039401ce4c4b8491e4074dffe64f8e>
+
+[17] **Pump-out cost (~$400) and the Accomack–Northampton Planning District Commission pump-out assistance program.** A-NPDC Ground Water Committee and onsite sewage program. <https://a-npdc.org/accomack-northampton-planning-district-commission/ground-water-management/>. Virginia Department of Environmental Quality Septic Pumpout grants (administered through A-NPDC).
+
+[18] **The "three P's" rule for what to flush.** EPA SepticSmart "Do's and Don'ts." <https://www.epa.gov/septic/septicsmart-homeowners>
+
+[19] **Virginia Onsite Sewage Indemnification Fund — eligibility at up to 200% of the federal poverty level.** Virginia Code §32.1-164.1:1. Virginia Department of Health, Office of Environmental Health Services. <https://www.vdh.virginia.gov/environmental-health/onsite-sewage-water-services-updated/funding-opportunities/>
+
+[20] **HRSD Eastern Shore sewer extension — Nassawadox, Exmore, Keller, Onley, Onancock, Accomac, Wachapreague.** Hampton Roads Sanitation District Eastern Shore Sewer Infrastructure Improvements project. <https://www.hrsd.com/eastern-shore-sewer-infrastructure-improvements>
+
+---
+
 ## Editorial notes (not for publication)
 
 **Position in the series.** This is Part 2 of a planned series. Part 1 (the ecological version, `article_eastern_shore_post_v1.md`) leads with seafood industry and Hog Island Bay; Part 2 leads with family and the kitchen tap. Both articles converge on the same household action list — pump-outs, well testing, three Ps, repair subsidies — because the underlying actions don't change; only the motivation does. Running them in sequence (a week or two apart) lets a reader who didn't connect with one of them catch the other.
