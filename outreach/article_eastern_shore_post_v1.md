@@ -67,6 +67,50 @@ The clams in Willis Wharf and the seagrass in Hog Island Bay are not abstraction
 
 ---
 
+## Sources and citations
+
+These citations support the specific factual claims in the article body and sidebars. The bracketed numbers [1], [2], etc. correspond to the entries below. Where the original source is paywalled, a freely available alternative or government summary is provided.
+
+**Note for students:** The citation numbers in this article (Part 1 of the series) are independent of those in the companion health article (Part 2). When you build your own version, renumber as needed. The peer-reviewed papers are the strongest sources; the government, planning-district, and Extension sources are the most accessible.
+
+**Note for editors:** the inline numbers can be left in place, stripped, or replaced with attribution-style references ("according to a 2020 study in *Science Advances*...") without changing the prose.
+
+[1] **Virginia shellfish aquaculture sales ($81 million in 2024), >700 jobs, ~99% of state hard clam from ESVA.** Hudson K. 2024 (and prior annual editions). *Virginia Shellfish Aquaculture Situation and Outlook Report.* VIMS Marine Advisory Program / Virginia Sea Grant. <https://www.vims.edu/research/units/centerspartners/map/aquaculture/index.php>
+
+[2] **World's largest successful seagrass restoration on the ESVA seaside.** Orth RJ, Lefcheck JS, McGlathery KJ, Aoki L, Luckenbach MW, Moore KA, Oreska MPJ, Snyder R, Wilcox DJ, Lusk B. 2020. Restoration of seagrass habitat leads to rapid recovery of coastal ecosystem services. *Science Advances* 6(41):eabc6434. <https://doi.org/10.1126/sciadv.abc6434>
+
+[3] **Bay scallop reintroduction in the restored seaside eelgrass meadow.** VIMS Eastern Shore Laboratory, Bay Scallop Restoration Annual Survey. <https://www.vims.edu/esl/research/bay_scallop_restoration/>. See also Orth et al. 2020 (cited as [2]).
+
+[4] **EPA sole-source aquifer designation, 1997.** U.S. Environmental Protection Agency. Eastern Shore of Virginia aquifer system, Accomack and Northampton Counties. *Federal Register* 62 FR 11562, March 12, 1997. <https://www.federalregister.gov/documents/1997/03/12/97-6235/eastern-shore-of-virginia-aquifer-sole-source-aquifer-designation>
+
+[5] **About 80 percent of Accomack County tidal creek baseflow is groundwater-fed.** Accomack–Northampton Planning District Commission. 2022. *Facts about the Eastern Shore of Virginia's Groundwater.* <https://www.esvaplan.org/wp-content/uploads/2022/03/Facts-about-the-ESVA-Groundwater.pdf>. See also Richardson DL. 1994. *Hydrogeology and analysis of the ground-water-flow system of the Eastern Shore, Virginia.* USGS Water-Supply Paper 2401.
+
+[6] **Spatial overlap of vulnerable septic systems and shellfish closure zones on ESVA.** Mitchell M, Isdell RE, Herman J, Tombleson C. 2021. Impact assessment and management challenges of key rural human health infrastructure under sea level rise. *Frontiers in Marine Science* 8:631757. <https://doi.org/10.3389/fmars.2021.631757>. See also the project's pathway file `research/pathway_4_shellfish.md` for the synthesis tying ESVA closure zones to vulnerable septic clusters at Oyster, Wachapreague, Quinby, Saxis, Chincoteague, and Cape Charles.
+
+[7] **Fecal coliform exceedance rates in tidal waters: ~7% dry days vs. ~37% after ≥1-inch rainfall events.** Zimmer-Faust AG, Thulsiraj V, Lamparello C, Williams M, Jay JA. 2018. Precipitation thresholds for fecal bacterial indicators in the Chesapeake Bay. *Water Research* 139:252–262. <https://doi.org/10.1016/j.watres.2018.03.080>
+
+[8] **Sea-level rise rate on the Eastern Shore among the fastest on the US East Coast.** NOAA Tides and Currents long-term station data (Kiptopeke, VA). <https://tidesandcurrents.noaa.gov/sltrends/sltrends_station.shtml?id=8632200>. Sweet WV, et al. 2022. *Global and Regional Sea Level Rise Scenarios for the United States.* NOAA Technical Report NOS 01. <https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html>
+
+[9] **Sea-level rise progressively compromising ESVA drainfields (with seven-thousand-plus systems projected at-risk by 2040).** Mitchell et al. 2021 (cited as [6]); Hesamfar F, Barbosa SA, Tran TND, Culver T, Band L, Lakshmi V. (in review). Impact of changing recharge on sole-source coastal aquifer: multi-model assessment for Virginia's Eastern Shore. *Journal of Hydrology.* See also the Eastern Shore Climate Equity StoryMap. <https://storymaps.arcgis.com/stories/bb039401ce4c4b8491e4074dffe64f8e>
+
+[10] **Pump-out cost (~$400) versus replacement cost ($20,000–$40,000 on Shore terrain requiring engineered systems).** Eastern Shore Climate Equity StoryMap (cited as [9]). VIMS Pathway 5 / Mitchell et al. 2021. Industry replacement cost ranges from HomeGuide septic-tank-repair cost data and Virginia Department of Health onsite sewage program documentation. <https://www.vdh.virginia.gov/environmental-health/environmental-health-services/onsite-sewage-water-services/>
+
+[11] **A-NPDC pump-out assistance program for qualifying low- and moderate-income households.** Accomack–Northampton Planning District Commission, Ground Water Committee. <https://a-npdc.org/accomack-northampton-planning-district-commission/ground-water-management/>. Virginia DEQ Septic Pumpout grants (administered through A-NPDC).
+
+[12] **The "~25 percent of homeowners respond to VDH pump-out outreach letters" figure.** Eastern Shore Health District, communicated in February 2026 project meeting with Jon Richardson; recorded in the project's `Running Meeting Notes`. (Note for students: this is an internal-source figure for project-team communication; if you cite it in your own article, attribute as "according to the Eastern Shore Health District" and verify with ESHD directly before publishing.)
+
+[13] **The "three P's" rule for septic system inputs.** U.S. EPA SepticSmart Do's and Don'ts. <https://www.epa.gov/septic/septicsmart-homeowners>
+
+[14] **Virginia does not require private well testing.** Virginia Code §32.1-176.3 et seq. Virginia Department of Health, Office of Environmental Health Services, well program. <https://www.vdh.virginia.gov/environmental-health/onsite-sewage-water-services-updated/private-wells/>
+
+[15] **Targeted ditch maintenance can reduce rainfall-driven flooding by up to ~10 percent.** Eastern Shore Climate Equity StoryMap (cited as [9]); project synthesis in `ECOLOGICAL_EFFECTS_SYNTHESIS.md`. The 10-percent figure derives from preliminary modeling of ditch network improvements in Shore communities; treat as an approximate guideline rather than a precise quantitative claim.
+
+[16] **HRSD Route 13 sewer extension — Nassawadox, Exmore, Keller, Onley, Onancock, Accomac, Wachapreague.** Hampton Roads Sanitation District Eastern Shore Sewer Infrastructure Improvements project. <https://www.hrsd.com/eastern-shore-sewer-infrastructure-improvements>
+
+[17] **18,000 Eastern Shore households on septic systems.** UVA Environmental Institute Climate Collaborative proposal, "Co-Producing Equitable Solutions to Septic System Failures" (2026–2028); Mitchell et al. 2021 (cited as [6]).
+
+---
+
 ## Editorial notes (not for publication)
 
 - The version above leans on the **economic** angle (clams, scallops, $81 million, 700 jobs, Hog Island Bay) more than on the abstract ecological angle, because that's what tends to land with Shore readers. The seagrass-restoration story is the strongest single ESVA-specific ecological hook in the entire synthesis and gets a paragraph of its own.
