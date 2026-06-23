@@ -74,7 +74,25 @@ If you don't qualify for assistance or don't want to wait, a routine pump-out fr
 
 ## 3. Getting your septic system inspected or evaluated
 
-[TO FILL]
+If you suspect a problem — slow drains, sewage smell, soggy ground over the drainfield, backups after rain — or you just want to know the condition of an older system, you have a few options.
+
+### Warning signs that mean "call someone now"
+
+- Sewage odor indoors or outdoors, especially after rain
+- Standing water or unusually green, spongy grass over the drainfield
+- Slow drains or toilets backing up
+- Gurgling in the plumbing
+- Well water that suddenly tests positive for bacteria or higher nitrate
+
+### Who can evaluate the system
+
+- **Licensed septic pumper/hauler (quickest, cheapest first look).** When they pump the tank, a good operator can tell you whether the tank itself is failing or whether the problem is in the drainfield. This is often the fastest way to find out what kind of problem you have.
+- **Authorized Onsite Soil Evaluator (AOSE) / Private Onsite Soil Evaluator (OSE).** For anything beyond a routine pump-out — a suspected drainfield failure, a repair, or a planned replacement — you'll need a licensed soil evaluator. **Each Eastern Shore Health District office keeps a list of private OSEs** who can evaluate your existing system, determine what repairs or upgrades are needed, and prepare the permit package that VDH requires before any repair or new installation. Call the health district (Section 5) and ask for the current OSE list.
+- **A licensed onsite system installer/contractor.** For repairs and replacements, a licensed installer works from the OSE's evaluation and the VDH permit.
+
+### The tank-failure vs. drainfield-failure distinction (important)
+
+Not all "septic failures" are the same, and they cost very different amounts to fix. A **tank problem** (cracked tank, broken baffle, full of solids) is often relatively inexpensive. A **drainfield problem** (the soil can no longer absorb the water — common on the Shore as the water table rises) is far more expensive and may require an engineered or alternative system. Ask whoever evaluates your system which one you have, because it determines everything about cost and which assistance programs fit.
 
 ## 4. Financial help for septic repair or replacement
 
