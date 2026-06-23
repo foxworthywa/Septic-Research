@@ -129,12 +129,75 @@ The **VEE Septic Grant** (Virginia Environmental Endowment + Smithfield Foundati
 
 ## 5. Who coordinates all this — the key agencies
 
-[TO FILL]
+Four organizations do most of the coordinating on the Eastern Shore. If you're not sure where to start, **call the A-NPDC or the Eastern Shore Health District first** — between them they can route you to the right program.
+
+### Accomack-Northampton Planning District Commission (A-NPDC)
+The regional planning body and the **administrator of the septic pump-out, repair, and replacement assistance program.** This is the single most useful first call for financial help. They also coordinate housing assistance and connect residents to state and federal programs.
+- **Phone: (757) 787-2936** · Accomac, VA · <https://www.esvaplan.org/>
+
+### Eastern Shore Health District (Virginia Department of Health)
+The **regulator and permit authority** for septic systems and the public-health contact for well water. They issue septic permits, keep the list of licensed soil evaluators (OSEs), handle well-water health questions, and can direct you to the Indemnification Fund and SWAP. The district has offices in both counties.
+- **Accomack office:** 23191 Front Street, Accomac, VA
+- **Northampton office:** 7114 Lankford Highway, Nassawadox, VA
+- **Phone numbers vary by office and program — see the verification note below and confirm before publishing.**
+- Onsite sewage program: <https://www.vdh.virginia.gov/environmental-health/environmental-health-services/onsite-sewage-water-services/>
+
+### Virginia Cooperative Extension (Accomack & Northampton offices)
+Your contact for **well water testing** through the Virginia Household Water Quality Program, plus general homeowner education.
+- **Accomack:** (757) 787-1361 · 23185 Front Street, Accomac
+- **Northampton:** (757) 678-7946
+
+### Eastern Shore Community College — Smart Septic Project
+The local arm of the UVA/EI Climate Collaborative project. Runs **free well-testing events and community education**, and can help residents understand their options and connect with the agencies above. Faculty member Dr. Alex Foxworthy and ESCC students lead this work.
+- ESCC, Melfa, VA
+
+### A note on county departments
+Both counties have offices that touch this work: **Accomack County Department of Environmental Programs** (which oversees the local pump-out-every-5-years rule and supports the assistance program) and **Northampton County's housing/planning office**. They are good secondary contacts if you can't reach A-NPDC.
 
 ## 6. Quick-reference contact list
 
-[TO FILL]
+| Need | Who to call | Phone | Notes |
+|---|---|---|---|
+| **Free/low-cost well water test** | VA Cooperative Extension (Accomack) | (757) 787-1361 | $70, or ~$10 with assistance; 28 substances |
+| **Free/low-cost well water test** | VA Cooperative Extension (Northampton) | (757) 678-7946 | Ask for next drinking-water clinic |
+| **Free well screening event** | ESCC Smart Septic Project | (see Section 5) | Nitrate + bacteria at community events |
+| **Free/discounted pump-out, repair, replacement** | A-NPDC | (757) 787-2936 | Income sliding scale; apply early |
+| **Out-of-pocket pump-out** | Licensed septic hauler | local listings | ~$300–$500 |
+| **Septic permit / soil evaluator list** | Eastern Shore Health District | verify (Section 5) | Ask for the OSE list |
+| **Repair/replacement grant (SWAP)** | VDH SWAP / SERCAP | verify | ≤200% federal poverty; interest form |
+| **Repair/replacement (USDA)** | USDA Rural Development (VA) | verify | Very-low-income; grants for 62+ |
+| **Well-water health concern** | Eastern Shore Health District | verify (Section 5) | Especially infants, illness |
+
+### The one-call starting points
+- **"I want to test my water."** → Virginia Cooperative Extension, Accomack (757) 787-1361 or Northampton (757) 678-7946.
+- **"I need help paying for a pump-out or repair."** → A-NPDC, (757) 787-2936.
+- **"I think my system is failing."** → Eastern Shore Health District for the soil-evaluator list, then A-NPDC for funding.
 
 ## Verification status and notes
 
-[TO FILL]
+*This section is for the project team, not for the public version. Verify everything marked below before this guide is printed or handed to residents.*
+
+**Verified against public sources (June 2026 web research):**
+- Virginia Household Water Quality Program: $70/kit (~$10 with grant assistance), 28 constituents, clinics Feb–Nov through county Extension offices. Source: Virginia Tech VAHWQP, wellwater.bse.vt.edu.
+- VA Cooperative Extension offices: Accomack (757) 787-1361, 23185 Front Street, Accomac; Northampton (757) 678-7946. Source: accomack.ext.vt.edu / northampton.ext.vt.edu.
+- A-NPDC septic pump-out/repair/replacement program, income sliding scale, Bay-watershed funding priority, first-come first-served, **(757) 787-2936**. Sources: Accomack County Environmental Programs page, Northampton County housing page, Eastern Shore Post (Nov 2020), esvaplan.org.
+- Accomack County 5-year mandatory pump-out rule. Source: Accomack County Environmental Programs.
+- VDH SWAP: ≤200% federal poverty guidelines, ARPA-funded, interest-form/pre-screening (not direct application). Source: vdh.virginia.gov/environmental-health/swap.
+- SERCAP administers SWAP funds for ≤200% FPG households in designated districts. Source: sercap.org.
+- VDH Onsite Sewage Indemnification Fund: grants/loans ≤200% FPG; separate negligence reimbursement up to $30,000. Source: Code of Virginia §32.1-164.1:01, VDH.
+- USDA Rural Development Section 504: loans up to ~$40K at 1%, grants up to ~$10K for 62+, combined up to ~$50K. Source: USDA RD.
+- VEE Septic Grant restricted to James River watershed (James City, Isle of Wight, Surry) — NOT the Eastern Shore. Source: vdh.virginia.gov/environmental-health/veesepticgrant.
+
+**MUST be verified by the team before publication (conflicting or uncertain):**
+1. **Eastern Shore Health District phone numbers.** Public sources gave several different numbers: 757-787-5886, 757-787-5880, 757-302-4241 (Accomack); 757-414-6231, 757-442-6228, 757-678-5111 (Northampton). The **addresses** (23191 Front Street, Accomac; 7114 Lankford Highway, Nassawadox) appear consistent. Call and confirm the correct current number for the **environmental health / onsite sewage** desk specifically — the general district number may differ from the septic-permit desk.
+2. **A-NPDC program income thresholds and current funding status.** The "~$40,000 / 80% AMI for full coverage" and "50% cost-share above 120% AMI" figures come from a 2020 Eastern Shore Post article and may have changed. Confirm current cycle, current thresholds, and whether seaside (non-Bay-watershed) properties currently qualify.
+3. **ESCC Smart Septic Project public contact.** Decide what phone/email to publish for resident inquiries (Dr. Foxworthy's office, an ESCC main line, or a project email).
+4. **Licensed septic haulers / installers on the Shore.** I deliberately did not name specific private companies. The team may want to add a short list of currently licensed local operators (e.g., from the VDH licensed-operator list), or point residents to that list rather than naming companies, to stay neutral.
+5. **Out-of-pocket pump-out price range ($300–$500).** A reasonable regional estimate; confirm against current local pricing.
+6. **USDA Rural Development Virginia office contact** for the Eastern Shore service area — add the specific phone/office.
+
+**Suggested next steps for the team:**
+- Make one round of confirming phone calls to A-NPDC, the health district, and Extension, and lock in the numbers.
+- Produce a one-page printable version (the Section 6 table plus the three "one-call starting points") for distribution at events, clinics, and the community college.
+- Consider a Spanish-language version.
+- This guide pairs naturally with the two Eastern Shore Post articles — the articles motivate, this guide tells people exactly where to go.
