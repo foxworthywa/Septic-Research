@@ -96,7 +96,36 @@ Not all "septic failures" are the same, and they cost very different amounts to 
 
 ## 4. Financial help for septic repair or replacement
 
-[TO FILL]
+Replacing a septic system on the Shore can cost anywhere from $5,000–$10,000 for a conventional system to $30,000–$40,000 or more for an engineered/alternative system in a high-water-table area. Several programs exist to help, and **most people who qualify don't know they exist.** The barrier is usually paperwork, not money — and the agencies in Section 5 will help you fill out the applications.
+
+A key thing to understand: most of these programs use the same income threshold — **at or below 200% of the federal poverty guidelines** — and several can be combined. Start by calling one agency (the A-NPDC or the health district); they can route you to whichever program fits.
+
+### A. Eastern Shore Septic Pump-Out Program (A-NPDC)
+Already described in Section 2 — but worth repeating here, because depending on income and location it can fund **not just pump-outs but repairs and full replacements**, sometimes at up to 100%. For many Shore residents this is the first and best place to call. **A-NPDC: (757) 787-2936.**
+
+### B. Virginia Septic and Well Assistance Program (SWAP)
+Run by the Virginia Department of Health, originally funded by federal American Rescue Plan money, to help **low-income homeowners repair or replace failed, failing, or inadequate septic systems and private wells.**
+- **Eligibility:** household income at or below **200% of the federal poverty guidelines**, in a designated health district.
+- **How to apply:** SWAP does not take direct applications. You fill out a **Homeowner SWAP Interest Form** and get pre-screened. Submitting interest is not a guarantee of funding — but it puts you in line and costs nothing.
+- **Often administered through SERCAP** (see below).
+- VDH SWAP: <https://www.vdh.virginia.gov/environmental-health/swap/>
+
+### C. SERCAP (Southeast Rural Community Assistance Project)
+A nonprofit that provides **grants and loans to low-income households for water and wastewater projects**, and is one of the organizations that administers Virginia's SWAP funds. SERCAP has worked directly on the Eastern Shore. They can help homeowners at or below 200% of federal poverty guidelines.
+- SERCAP Virginia SWAP: <https://sercap.org/assistance/individuals/virginia-septic-and-well-assistance-program-swap>
+
+### D. VDH Onsite Sewage Indemnification Fund
+A state fund that provides **grants and loans to property owners at or below 200% of the federal poverty guidelines** to repair failing onsite systems or install systems where there is no adequate sewage disposal. (A separate, narrower part of the fund also reimburses up to $30,000 for systems that failed within 3 years due to VDH error — less commonly relevant.)
+- Ask the Eastern Shore Health District how to apply (Section 5).
+
+### E. USDA Rural Development — Section 504 Home Repair Program
+Federal program for **very-low-income rural homeowners** to fix health-and-safety hazards, which includes septic systems.
+- **Loans** up to about $40,000 at 1% interest, and **grants** up to about $10,000 for homeowners **age 62 and older** who cannot repay a loan; combined assistance up to about $50,000.
+- Eastern Shore residents qualify geographically (the whole Shore is "rural" for USDA purposes).
+- Contact USDA Rural Development's Virginia office, or ask A-NPDC to connect you.
+
+### F. A note on a program that does NOT cover the Shore
+The **VEE Septic Grant** (Virginia Environmental Endowment + Smithfield Foundation) is sometimes mentioned in statewide lists, but it currently funds only the **James River watershed** (James City, Isle of Wight, and Surry Counties) — **not the Eastern Shore.** It's listed here only so residents don't waste time pursuing it.
 
 ## 5. Who coordinates all this — the key agencies
 
