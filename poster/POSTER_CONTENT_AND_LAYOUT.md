@@ -90,15 +90,18 @@ Sans-serif throughout (Source Sans Pro, Segoe UI, Calibri, or Arial).
 
 *Accent color: rust `#a8452a`*
 
-**Intro:** The Eastern Shore is a narrow peninsula where nearly every household treats its own wastewater on its own land, above the **only** aquifer available.
+**Intro:** The Eastern Shore is a narrow peninsula where nearly every household treats its own wastewater on its own land — directly above the groundwater that supplies every well on the Shore.
 
 **Stat block A (rust):**
 > **18,000+**
 > households in Accomack & Northampton counties on decentralized septic systems
 
 **Stat block B (blue):**
-> **1**
-> aquifer — the shallow Columbia, designated a **sole-source aquifer** by EPA in 1997. There is no alternative supply and no backup.
+> **1997**
+> EPA designated the Shore's groundwater a **sole-source aquifer** — the **Columbia** (shallow, unconfined) and **Yorktown–Eastover** (deeper, confined) systems together. There is no alternative supply.
+
+**Paragraph (with health mention, rust emphasis on final sentence):**
+> **Septic effluent enters the shallow Columbia** — the same layer that feeds tidal creeks *and* many older private wells. Most public-supply wells draw from the deeper, better-protected Yorktown–Eastover. **Human health risk from nitrate and pathogens in shallow private wells is real and is addressed in companion project work; this poster follows the ecological pathway.**
 
 **Subhead: Why systems that once worked are failing**
 
@@ -119,22 +122,29 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 
 *Accent color: mid blue `#1d6a8c`*
 
-**Intro:** On the Shore the distance from drainfield to tidal water is unusually short, and the path runs *underground* — not overland.
-
-**DIAGRAM** (see Section 8 for rebuild instructions)
-
-**Caption:** Effluent leaves the drainfield, meets a rising water table, and travels laterally to tidal water. When the unsaturated zone thins, treatment is bypassed.
+**Intro:** Septic effluent is released *below* ground. It therefore enters the **groundwater** system, not the surface-water system — and on the Shore, the groundwater essentially *is* the creek water.
 
 **Stat block (blue):**
 > **~80%**
 > of baseflow in Accomack County's ~30 tidal creeks arrives as **groundwater discharge**, not surface runoff
 
-**Subhead: Why so little is removed en route**
+**Paragraph:** If these creeks were fed mainly by rain running over the land, septic effluent would have no route into them. Because they are groundwater-fed, subsurface disposal becomes a surface-water problem.
 
-- Columbia aquifer sands are **oxic and carbon-poor** — denitrification is limited.
-- Nitrate behaves essentially **conservatively** along these flow paths.
-- Removal is confined to **thin riparian/tidal-fringe bands**; deeper flow paths bypass them entirely (Speiran 1996, 2010).
-- Flow paths are typically **<2 km** — years to decades, not centuries.
+**DIAGRAM** (see Section 8)
+
+**Caption:** Effluent meets a rising water table and travels laterally to tidal water. The confining clay gives the deeper aquifer real protection; the shallow Columbia has none.
+
+**Subhead: What the soil actually does — and doesn't**
+
+| Constituent | Fate in a working drainfield | Failure-driven? |
+|---|---|---|
+| **Pathogens** (bacteria, viruses) | Removed by filtration, adsorption and die-off in unsaturated soil | **YES** (rust) |
+| **Nitrogen** | *Converted* to nitrate, not removed — conventional systems retain only ~10–30% | **PARTLY** (amber) |
+| **Phosphorus** | Binds to soil until binding sites saturate, then "breaks through" | **AGE-DRIVEN** (amber) |
+| **PFAS & pharmaceuticals** | Pass through essentially unaltered | **NO** (gray) |
+
+**Callout box (deep blue, white text):**
+> **Nitrate travels "conservatively"** — it does not stick to sand and is barely consumed, because denitrifying bacteria need low oxygen and a carbon source that these oxygen-rich, carbon-poor sands do not provide. What enters the groundwater arrives at the creek.
 
 ---
 
@@ -148,32 +158,38 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 
 | Pathway | Consequence | ESVA evidence |
 |---|---|---|
-| **1 · Groundwater & aquifer** | Nitrate, phosphorus breakthrough, pharmaceuticals & PFAS enter the sole-source aquifer | STRONGLY SUPPORTED |
-| **2 · Tidal creeks & salt marsh** | Nutrient enrichment; macroalgal blooms; marsh peat decomposition and creek-bank collapse | PLAUSIBLE |
-| **3a · Chesapeake Bay (Bayside)** | Contributes to eutrophication, hypoxia, SAV loss in Bayside creeks & sounds | STRONGLY SUPPORTED |
-| **3b · Seaside lagoons** | Shallow, flushing-limited lagoons flip to turbid/algal states at low N thresholds — the restored eelgrass meadow is the asset at risk | STRONGLY SUPPORTED |
-| **4 · Shellfish & aquaculture** | Fecal-indicator and viral contamination driving harvest closures | STRONGLY SUPPORTED |
-| **5 · Iconic species** | Bay scallop, blue crab, terrapin — habitat-mediated effects via SAV and marsh | PLAUSIBLE |
-| **6 · Drainfield footprint** | Saturated soils, vegetation die-off, *Phragmites* facilitation, mosquito habitat | PLAUSIBLE |
+| **1 · Groundwater & aquifer** | Nitrate reaches the shallow aquifer largely untreated; phosphorus breaks through as soils age | STRONGLY SUPPORTED |
+| **2 · Tidal creeks & salt marsh** | Nutrient enrichment; algal mats; marsh peat breakdown and creek-bank collapse | PLAUSIBLE |
+| **3a · Chesapeake Bay (Bayside)** | Adds to Bay-wide nutrient enrichment, low-oxygen zones and underwater-grass loss | STRONGLY SUPPORTED |
+| **3b · Seaside lagoons** | Shallow bays behind the barrier islands are slow to exchange water, so nutrients accumulate rather than disperse | STRONGLY SUPPORTED |
+| **4 · Shellfish & aquaculture** | Bacteria and viruses from failing systems trigger harvest closures | STRONGLY SUPPORTED |
+| **5 · Species & habitat** | Bay scallop, blue crab, terrapin — indirect effects through loss of grass and marsh habitat | PLAUSIBLE |
+| **6 · Drainfield footprint** | Waterlogged soils, vegetation die-off, *Phragmites* spread, mosquito habitat | PLAUSIBLE |
 
 **Evidence key** (colored chips): ESTABLISHED `#1f6f4a` · STRONGLY SUPPORTED `#2e8b83` · PLAUSIBLE `#c88a2e` · SPECULATIVE `#8b8b8b`
 
-**Key caption:** Labels reflect ESVA-specific attribution, not whether the mechanism is real. Most mechanisms are ESTABLISHED in the general literature.
+**Key caption:** Labels describe *ESVA-specific attribution*, not whether the mechanism is real. Nearly all of these mechanisms are firmly established in the general literature.
+
+**Note:** "SAV" (submerged aquatic vegetation) has been replaced throughout with plain-language **"underwater grasses"** — the term the Chesapeake Bay Program itself uses for public communication.
+
+**Subhead: Why the seaside lagoons are the sensitive case**
+
+The Bay is large, deep and exchanges water freely, so added nutrients disperse. The seaside lagoons sit behind barrier islands and exchange water only through narrow inlets, so **nutrients accumulate**. The same pound of nitrogen does more there.
+
+Shallow bays like these do not degrade gradually. They absorb nutrients for years with little visible change, then **flip** — from clear water with grass on the bottom to cloudy water dominated by algae.
 
 **Callout box (deep blue, white text):**
-> **The honest headline:** the mechanisms are well understood and the ecological stakes are high — but almost no study has yet closed the loop quantitatively *on the Eastern Shore*, from "septic density here" to "ecological change there." That gap is the opportunity.
-
-**Subhead: Bayside ≠ Seaside**
-
-Identical nitrogen loads produce very different outcomes. The Bay is large, deep and well-flushed with established management infrastructure. The seaside lagoons are shallow and flushing-limited, and show **nonlinear regime shifts at surprisingly low nutrient thresholds.**
+> **And the flip is hard to undo.** Once the grass is gone the water stays cloudy, so light cannot reach the bottom, so grass cannot re-establish — even if nutrients fall back to where they started. That is the argument for *prevention* over restoration.
 
 ---
 
-## 6. Column 4 — What Is at Stake
+## 6. Column 4 — What Sits Downstream
 
 *Accent color: marsh green `#4a7c4e`*
 
-**Intro:** The Shore has recovered ecological assets that most of the Atlantic coast lost permanently. Those assets sit downstream of 18,000 septic systems.
+> **Reframed from the first draft.** The original version implied that failing septic systems are currently threatening the seagrass restoration and the aquaculture economy. That overstates the evidence. This version presents the assets, establishes that the system has limited buffer capacity, and states plainly what has not been measured.
+
+**Intro:** The Shore has recovered ecological assets that most of the Atlantic coast lost permanently. They sit downstream of 18,000 septic systems.
 
 **Stat block (teal):**
 > **3,612 ha**
@@ -181,22 +197,27 @@ Identical nitrogen loads produce very different outcomes. The Bay is large, deep
 
 **Stat block (teal):**
 > **~90 yrs**
-> the bay scallop was absent before reintroduction succeeded in the restored meadow — the only such recovery of its kind
+> the bay scallop was absent before reintroduction succeeded in that restored meadow — the only recovery of its kind
 
-**Subhead: An economy attached to water quality**
-
+**Paired stat blocks (green):**
 > **$81M** — Virginia shellfish aquaculture direct sales, 2024 — up **52%** from $53M in 2018
 > **700+** — industry jobs, up from ~480 in 2018 (Hudson/VIMS 2025)
 
-**Subhead: The vulnerability is measurable**
+**Subhead: Why the margin is thin**
 
-- Warming **erodes eelgrass nutrient tolerance** — the safety margin is narrower than ambient nutrient concentrations alone suggest (Lefcheck et al. 2017).
-- The 2015 marine heat wave caused **~50% areal eelgrass loss** in South and Hog Island Bays, with recovery still incomplete.
+These systems are not currently degraded by septic pollution. They are, however, demonstrably *perturbable* — which is what makes an additional and growing stressor consequential.
+
+- The 2015 marine heat wave caused **~50% areal eelgrass loss** in South and Hog Island Bays; recovery is still incomplete.
+- Warming **lowers eelgrass tolerance for nutrients**, narrowing the safe operating range (Lefcheck et al. 2017).
 - Fecal-indicator exceedance in tidal waters rises from **~7% on dry days to ~37%** after ≥1 inch of rain (Zimmer-Faust et al. 2018).
-- Shellfish closure zones and sea-level-vulnerable septic clusters **spatially co-locate** at Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague and Cape Charles.
+- Shellfish closure areas and sea-level-vulnerable septic clusters **occupy the same ground** — Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague, Cape Charles.
 
-**Key-finding box (amber border):**
-> **Management implication:** Bay-wide average loading figures materially understate ESVA exposure. Small unsewered tidal-creek watersheds on sandy, shallow aquifers behave very differently from the watershed average. **Decision-support and permitting should operate at sub-basin resolution.**
+**Limits box (light blue fill, dashed blue border) — "What we cannot yet say":**
+- No ESVA study has apportioned creek or lagoon nitrogen among **septic, agriculture and atmospheric** sources.
+- No ESVA study has traced shellfish closures to **human** versus wildlife or livestock sources.
+- Seaside nutrient concentrations remain **low** by global standards; the documented eelgrass threat to date has been **thermal**, not nutrient.
+
+> **The defensible claim is precautionary, not diagnostic:** a globally significant, inherently sensitive, hard-to-restore system sits downstream of a stressor that is *growing* — and nobody has measured its contribution.
 
 ---
 
@@ -206,20 +227,21 @@ Identical nitrogen loads produce very different outcomes. The Bay is large, deep
 
 ### 7a. Priority Data Gaps — Where Help Is Needed (widest sub-column)
 
-1. **Source attribution for nitrogen in ESVA creeks and lagoons.** Stable isotopes (δ¹⁵N–δ¹⁸O of NO₃⁻) plus wastewater co-tracers (sucralose, acesulfame, caffeine) across a septic-density gradient. *One study design would inform five of six pathways.*
-2. **Microbial source tracking for shellfish closures.** HF183, crAssphage and enteric-virus panels to apportion closure days among septic, wildlife, agricultural and stormwater sources — never quantitatively closed for ESVA.
+1. **Source attribution for nitrogen in ESVA creeks and lagoons.** Stable isotopes (δ¹⁵N–δ¹⁸O of NO₃⁻) plus wastewater co-tracers (sucralose, acesulfame, caffeine) across a septic-density gradient. *One study design would inform five of six pathways — and it is the single measurement that would convert this poster's argument from precautionary to quantitative.*
+2. **Microbial source tracking for shellfish closures.** HF183, crAssphage and enteric-virus panels to apportion closure days among human, wildlife, livestock and stormwater sources — never quantitatively closed for ESVA.
 3. **Direct groundwater monitoring around septic clusters.** Paired up/downgradient wells with a full analyte suite. Current ESVA work is exposure *modeling*, not effects measurement.
 4. **Sub-basin nitrogen mass balance** calibrated to Columbia-aquifer conditions rather than watershed-average coefficients.
-5. **Seagrass safety-margin modeling** coupling groundwater N delivery to eelgrass condition and bay scallop recruitment.
+5. **Nutrient safety-margin modeling** coupling groundwater nitrogen delivery to eelgrass condition and bay scallop recruitment under warming.
 6. **Field ecology of ESVA drainfield footprints** — no vegetation, soil-microbial or adjacent-habitat surveys have been published.
 
 ### 7b. Management Implications
 
-- Failure risk is **climate-driven and progressive** — this is sustained infrastructure investment, not a one-time retrofit.
+- Failure risk is **climate-driven and progressive** — sustained infrastructure investment, not a one-time retrofit.
 - Monitor **precursors** (unsaturated-zone thickness, saturation frequency), not failure events.
-- Target outreach and cost-share to **sub-basins** where septic density and shellfish closure overlap.
+- Conventional systems remove little nitrogen even when working — **nitrogen reduction requires advanced systems or sewer**, not just repair.
+- PFAS and pharmaceutical loading is **not** addressed by septic repair or mound systems.
+- Target cost-share to **sub-basins** where septic density and shellfish closures overlap.
 - Cross-reference **new subdivision approvals** against projected 2040 groundwater depth.
-- Sewer extension benefits are **delayed** by a legacy-loading tail from decommissioned drainfields.
 
 ### 7c. Partnership Opportunities
 
@@ -237,11 +259,15 @@ Tags: VDH — Eastern Shore Health District · VDH Div. of Shellfish Safety · A
 
 The HTML uses an inline SVG cross-section. To rebuild manually:
 
-**Layers, bottom to top:**
-1. **Sky band** (top ~37%) — `#dbeaf2`
-2. **Unsaturated soil band** (next ~22%) — `#e0cfa8`
-3. **Saturated aquifer band** (bottom ~41%) — `#8fc3d8`
-4. **Tidal creek** — right ~25% of frame, water `#4f9dbd`, with a wavy top edge
+**Layers, top to bottom:**
+1. **Sky band** — `#dbeaf2`
+2. **Unsaturated soil band** — `#e0cfa8`
+3. **Columbia aquifer** (saturated, shallow) — `#8fc3d8` — label *COLUMBIA aquifer (shallow, unconfined)*
+4. **Confining clay** (thin band) — `#9c8f7a` — label *confining clay*
+5. **Yorktown–Eastover aquifer** (deeper) — `#6fa8c4` — label *YORKTOWN–EASTOVER (deeper, confined — most public supply)*
+6. **Tidal creek** — right ~25% of frame, water `#4f9dbd`, wavy top edge
+
+> The two-aquifer stack is a **deliberate addition** in v2. It shows why septic contamination is primarily a *shallow* aquifer problem, why shallow private wells are more exposed than deep public-supply wells, and why the confining clay matters. It carries the drinking-water point without needing extra text.
 
 **Objects, left to right:**
 - **House** — white rectangle, rust `#a8452a` roof, black outline; pipe line down to tank
@@ -250,7 +276,7 @@ The HTML uses an inline SVG cross-section. To rebuild manually:
 - **Separation bracket** — rust vertical bracket between drainfield bottom and water table, labeled **"need ≥3 ft / treatment zone"**
 - **Water table** — thick dashed deep-blue horizontal line labeled "water table"
 - **Rising arrow** — rust upward arrow near the water table labeled "rising"
-- **Flow arrows** — two curved deep-blue arrows sweeping from beneath the drainfield rightward into the creek, labeled **"nitrate + bacteria move with groundwater"**
+- **Flow arrows** — two curved deep-blue arrows sweeping from beneath the drainfield rightward into the creek, labeled **"nitrate + pathogens move with the groundwater"**
 - **Creek label** — white "tidal creek" text over the water
 - **Seagrass** — small teal blade shapes at the creek bottom
 
@@ -296,7 +322,9 @@ Ask the printer to confirm the PDF is exactly 36 × 24 in before printing. If it
 | Largest successful seagrass restoration in the world; largest eelgrass habitat NC→Long Island Sound | ✅ Verified | VIMS / UVA / Science Advances coverage |
 | $81M direct sales 2024; +52% from $53M in 2018; 700+ jobs (from ~480) | ✅ Verified | Hudson/VIMS *Situation & Outlook Report*, 2025 |
 | ~3 ft separation required between drainfield and water table | ✅ Verified | Multiple; standard onsite-sewage design criterion |
-| EPA sole-source aquifer designation, 1997 | ✅ Verified | Federal Register 62 FR 11562 |
+| EPA sole-source aquifer designation, 1997, covering **both** the Columbia **and** Yorktown–Eastover aquifer systems (excluding Chincoteague and Tangier islands) | ✅ Verified — **corrected in v2** | *Federal Register* 62(68), April 9, 1997 |
+| Conventional septic systems remove only ~10–30% of nitrogen; drainfields nitrify rather than denitrify | ✅ Verified | Standard onsite-wastewater engineering literature |
+| PFAS and pharmaceuticals pass through septic soil treatment essentially unaltered | ✅ Verified | Consistent across the septic-contaminant literature; also stated in this project's earlier synthesis |
 | ~7% → ~37% fecal indicator exceedance dry vs. post-rain | ✅ Verified | Zimmer-Faust et al. 2018, *Water Research* 139:252–262 |
 
 **Project-internal — cite as project modeling, not peer review (marked † on poster):**
@@ -315,7 +343,35 @@ Ask the printer to confirm the PDF is exactly 36 × 24 in before printing. If it
 
 ---
 
-## 12. Correction made during poster preparation
+## 12. Revision log — v2 changes
+
+Made in response to scientific review. Each addressed a real overstatement or an unexplained term.
+
+| # | Issue | Change |
+|---|---|---|
+| 1 | Poster said the sole-source aquifer was "the shallow Columbia" | **Corrected.** The 1997 designation covers **both** the Columbia and Yorktown–Eastover systems. Column 1 and the diagram now show both, which also carries the drinking-water story. |
+| 2 | Human health not mentioned | **Added** two sentences in Column 1 noting real risk to shallow private wells, with a pointer to companion project work. |
+| 3 | "Nitrate behaves conservatively" was unexplained jargon | **Replaced** with a plain-language callout explaining that nitrate does not stick to sand and is barely consumed. |
+| 4 | Phosphorus source and behavior unexplained | **Added** to the new "What the soil actually does" table: P binds until soil saturates, then breaks through — an *aging* problem, not a failure problem. |
+| 5 | Poster implied PFAS/pharmaceutical entry is a *failure* consequence | **Corrected — this was the most significant error.** These compounds pass through working and failing systems alike. Now shown explicitly as **NO** in the failure-driven column, with a matching management implication: septic repair and mound systems do **not** address them. |
+| 6 | "SAV" unexplained | **Replaced** throughout with "underwater grasses." |
+| 7 | "Flushing-limited" and "nonlinear regime shifts at low N thresholds" were jargon | **Rewritten** in plain language: lagoons exchange water only through narrow inlets so nutrients accumulate; shallow bays don't degrade gradually, they *flip*; and **the flip is hard to undo** (new hysteresis point — the strongest argument for prevention). |
+| 8 | Conventional systems implied to remove nitrogen | **Corrected.** Drainfields *convert* ammonium to nitrate; they don't remove nitrogen. Retention is only ~10–30%. Added as a management implication: nitrogen reduction needs advanced systems or sewer, not just repair. |
+| 9 | Column 4 implied septic is currently threatening the seagrass and the aquaculture economy | **Reframed.** Retitled "What Sits Downstream." New **"What we cannot yet say"** box states that seaside nutrient levels remain low, the documented eelgrass threat has been *thermal*, and no ESVA study has apportioned sources. The claim is now explicitly **precautionary, not diagnostic**. |
+| 10 | "The vulnerability is measurable" implied septic causation | **Retitled "Why the margin is thin"** with an explicit lead sentence: these systems are not currently degraded by septic pollution, but they are demonstrably perturbable. |
+
+### On whether the assets are "at risk"
+
+The honest position, now reflected on the poster:
+
+- **Defensible:** the shellfish-closure link (mechanistically direct, spatially co-located); the inherent sensitivity of shallow lagoons; and the *rising trajectory* of septic failure under sea-level rise.
+- **Not defensible:** that septic-derived nitrogen is currently damaging the eelgrass restoration. Seaside nutrient concentrations are low by global standards; the documented threat has been thermal; seaside septic density is comparatively low; and agricultural nitrogen likely dominates many sub-basin budgets — unpartitioned.
+
+For an agency audience this reframing is a **strength**. It converts the poster from "here is a problem" into "here is a specific, tractable, fundable question nobody has answered."
+
+---
+
+## 13. Correction made during poster preparation
 
 Earlier drafts in this repository stated the seagrass restoration covered "~4,000–4,800 ha (~10,000 acres) as of 2024–2025." That figure was an **unsourced extrapolation** and has been corrected throughout to the published **3,612 ha** from Orth et al. (2020), which reports the 2018 census. Extent has continued to expand since, but no peer-reviewed updated total was located — so the published figure is used.
 

@@ -6,221 +6,140 @@
 <style>
   /* ============================================================
      36 x 24 inch LANDSCAPE poster.
-     To export: open in Chrome/Edge → Print → Destination "Save as PDF"
-     → Paper size "Custom" 36x24in (or use Scale 100% + Landscape)
+     Export: Chrome/Edge → Print → "Save as PDF" → Custom 36x24in
      → Margins: None → Background graphics: ON
      ============================================================ */
 
   @page { size: 36in 24in; margin: 0; }
-
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --deep:    #0b3c5d;   /* deep bay blue */
-    --mid:     #1d6a8c;   /* mid water */
-    --teal:    #2e8b83;   /* seagrass teal */
-    --green:   #4a7c4e;   /* marsh green */
-    --sand:    #f4efe4;   /* sand background */
-    --sandy:   #e3d9c4;   /* sand accent */
-    --rust:    #a8452a;   /* alert / risk */
-    --amber:   #c88a2e;   /* caution */
-    --ink:     #17242e;   /* body text */
-    --muted:   #5b6b76;
+    --deep:  #0b3c5d;
+    --mid:   #1d6a8c;
+    --teal:  #2e8b83;
+    --green: #4a7c4e;
+    --sand:  #f4efe4;
+    --sandy: #e3d9c4;
+    --rust:  #a8452a;
+    --amber: #c88a2e;
+    --ink:   #17242e;
+    --muted: #5b6b76;
   }
 
   html, body { width: 36in; height: 24in; }
-
   body {
     font-family: "Source Sans Pro", "Segoe UI", Calibri, Arial, sans-serif;
-    background: var(--sand);
-    color: var(--ink);
-    display: grid;
-    grid-template-rows: auto 1fr auto auto;
-    padding: 0.30in;
-    gap: 0.20in;
+    background: var(--sand); color: var(--ink);
+    display: grid; grid-template-rows: auto 1fr auto auto;
+    padding: 0.28in; gap: 0.18in;
   }
 
-  /* ---------------- HEADER ---------------- */
+  /* HEADER */
   header {
     background: linear-gradient(100deg, var(--deep) 0%, var(--mid) 62%, var(--teal) 100%);
-    color: #fff;
-    border-radius: 10px;
-    padding: 0.30in 0.45in;
-    display: grid;
-    grid-template-columns: 1fr auto;
-    align-items: center;
-    gap: 0.4in;
+    color: #fff; border-radius: 10px; padding: 0.26in 0.42in;
+    display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 0.4in;
   }
-  h1 {
-    font-size: 62pt;
-    line-height: 1.02;
-    letter-spacing: -0.5pt;
-    font-weight: 700;
-  }
-  .subtitle {
-    font-size: 27pt;
-    font-weight: 400;
-    opacity: 0.93;
-    margin-top: 0.09in;
-  }
-  .authors { font-size: 20pt; margin-top: 0.16in; line-height: 1.35; }
-  .authors strong { font-weight: 700; }
-  .affil { font-size: 15pt; opacity: 0.85; margin-top: 0.05in; line-height: 1.3; }
+  h1 { font-size: 58pt; line-height: 1.02; letter-spacing: -0.5pt; font-weight: 700; }
+  .subtitle { font-size: 25pt; font-weight: 400; opacity: 0.93; margin-top: 0.07in; }
+  .authors { font-size: 19pt; margin-top: 0.13in; line-height: 1.3; }
+  .affil { font-size: 14pt; opacity: 0.85; margin-top: 0.04in; line-height: 1.28; }
   .logobox {
-    text-align: right;
-    font-size: 13pt;
-    opacity: 0.75;
-    border-left: 2px solid rgba(255,255,255,0.35);
-    padding-left: 0.35in;
-    min-width: 3.1in;
-    line-height: 1.45;
+    text-align: right; font-size: 12.5pt; opacity: 0.78;
+    border-left: 2px solid rgba(255,255,255,0.35); padding-left: 0.32in;
+    min-width: 2.9in; line-height: 1.4;
   }
 
-  /* ---------------- COLUMNS ---------------- */
-  .columns {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 0.20in;
-  }
+  /* COLUMNS */
+  .columns { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.18in; }
   section {
-    background: #fff;
-    border-radius: 9px;
-    border-top: 7px solid var(--mid);
-    padding: 0.24in 0.26in;
-    display: flex;
-    flex-direction: column;
-    gap: 0.13in;
+    background: #fff; border-radius: 9px; border-top: 7px solid var(--mid);
+    padding: 0.20in 0.23in; display: flex; flex-direction: column; gap: 0.11in;
     overflow: hidden;
   }
   section.c1 { border-top-color: var(--rust); }
-  section.c2 { border-top-color: var(--mid); }
   section.c3 { border-top-color: var(--teal); }
   section.c4 { border-top-color: var(--green); }
 
   h2 {
-    font-size: 25pt;
-    font-weight: 700;
-    color: var(--deep);
-    line-height: 1.1;
-    padding-bottom: 0.07in;
-    border-bottom: 2px solid var(--sandy);
+    font-size: 23pt; font-weight: 700; color: var(--deep); line-height: 1.1;
+    padding-bottom: 0.06in; border-bottom: 2px solid var(--sandy);
   }
   h2 .num {
-    display: inline-block;
-    background: var(--deep);
-    color: #fff;
-    width: 0.42in; height: 0.42in;
-    border-radius: 50%;
-    text-align: center;
-    line-height: 0.42in;
-    font-size: 19pt;
-    margin-right: 0.10in;
-    vertical-align: middle;
+    display: inline-block; background: var(--deep); color: #fff;
+    width: 0.38in; height: 0.38in; border-radius: 50%; text-align: center;
+    line-height: 0.38in; font-size: 17pt; margin-right: 0.09in; vertical-align: middle;
   }
   .c1 h2 .num { background: var(--rust); }
   .c3 h2 .num { background: var(--teal); }
   .c4 h2 .num { background: var(--green); }
 
-  h3 {
-    font-size: 16.5pt;
-    font-weight: 700;
-    color: var(--mid);
-    margin-top: 0.04in;
-  }
-  p, li { font-size: 14.5pt; line-height: 1.36; }
-  ul { padding-left: 0.22in; }
-  li { margin-bottom: 0.055in; }
+  h3 { font-size: 15.5pt; font-weight: 700; color: var(--mid); margin-top: 0.03in; }
+  p, li { font-size: 13.5pt; line-height: 1.33; }
+  ul { padding-left: 0.20in; }
+  li { margin-bottom: 0.045in; }
   strong { color: var(--deep); }
 
-  /* ---------------- STAT BLOCKS ---------------- */
-  .stat {
-    background: var(--sand);
-    border-left: 5px solid var(--rust);
-    border-radius: 5px;
-    padding: 0.13in 0.16in;
-  }
-  .stat .big {
-    font-size: 40pt;
-    font-weight: 700;
-    color: var(--rust);
-    line-height: 1;
-    display: block;
-  }
-  .stat .lab { font-size: 13.5pt; line-height: 1.25; display: block; margin-top: 0.05in; }
-  .stat.teal { border-left-color: var(--teal); }
-  .stat.teal .big { color: var(--teal); }
-  .stat.green { border-left-color: var(--green); }
-  .stat.green .big { color: var(--green); }
-  .stat.blue { border-left-color: var(--mid); }
-  .stat.blue .big { color: var(--mid); }
+  /* STATS */
+  .stat { background: var(--sand); border-left: 5px solid var(--rust); border-radius: 5px; padding: 0.11in 0.14in; }
+  .stat .big { font-size: 34pt; font-weight: 700; color: var(--rust); line-height: 1; display: block; }
+  .stat .lab { font-size: 12.5pt; line-height: 1.22; display: block; margin-top: 0.04in; }
+  .stat.teal { border-left-color: var(--teal); } .stat.teal .big { color: var(--teal); }
+  .stat.green { border-left-color: var(--green); } .stat.green .big { color: var(--green); }
+  .stat.blue { border-left-color: var(--mid); } .stat.blue .big { color: var(--mid); }
+  .statrow { display: grid; grid-template-columns: 1fr 1fr; gap: 0.10in; }
+  .statrow .big { font-size: 26pt; }
 
-  .statrow { display: grid; grid-template-columns: 1fr 1fr; gap: 0.12in; }
-  .statrow .big { font-size: 30pt; }
-
-  /* ---------------- PATHWAY TABLE ---------------- */
+  /* TABLES */
   table { width: 100%; border-collapse: collapse; }
-  th {
-    font-size: 12pt; text-align: left; color: #fff; background: var(--teal);
-    padding: 0.07in 0.08in; font-weight: 700;
-  }
-  td {
-    font-size: 12.5pt; padding: 0.075in 0.08in; vertical-align: top;
-    border-bottom: 1px solid var(--sandy); line-height: 1.24;
-  }
-  td.p { font-weight: 700; color: var(--deep); white-space: nowrap; }
-  .ev {
-    font-size: 10pt; font-weight: 700; padding: 0.025in 0.07in;
-    border-radius: 3px; white-space: nowrap; display: inline-block; color:#fff;
-  }
+  th { font-size: 11pt; text-align: left; color: #fff; background: var(--teal); padding: 0.06in 0.07in; font-weight: 700; }
+  td { font-size: 11.5pt; padding: 0.065in 0.07in; vertical-align: top; border-bottom: 1px solid var(--sandy); line-height: 1.22; }
+  td.p { font-weight: 700; color: var(--deep); }
+  .soil th { background: var(--mid); }
+
+  .ev { font-size: 9.5pt; font-weight: 700; padding: 0.02in 0.06in; border-radius: 3px; white-space: nowrap; display: inline-block; color:#fff; }
   .ev.est { background: #1f6f4a; }
   .ev.str { background: var(--teal); }
   .ev.pla { background: var(--amber); }
   .ev.spe { background: #8b8b8b; }
 
-  /* ---------------- DIAGRAM ---------------- */
-  .diagram { background: var(--sand); border-radius: 6px; padding: 0.10in; }
+  .fail { font-size: 9.5pt; font-weight:700; padding: 0.02in 0.06in; border-radius:3px; display:inline-block; color:#fff; white-space:nowrap; }
+  .fail.yes  { background: var(--rust); }
+  .fail.part { background: var(--amber); }
+  .fail.no   { background: #6a7b86; }
+
+  /* DIAGRAM */
+  .diagram { background: var(--sand); border-radius: 6px; padding: 0.08in; }
   svg { width: 100%; height: auto; display: block; }
-  .cap { font-size: 11.5pt; color: var(--muted); line-height: 1.28; font-style: italic; }
+  .cap { font-size: 10.5pt; color: var(--muted); line-height: 1.25; font-style: italic; }
 
-  /* ---------------- CALLOUT ---------------- */
-  .callout {
-    background: var(--deep); color: #fff; border-radius: 6px;
-    padding: 0.15in 0.18in;
-  }
-  .callout p { font-size: 15pt; line-height: 1.32; }
+  /* BOXES */
+  .callout { background: var(--deep); color: #fff; border-radius: 6px; padding: 0.13in 0.16in; }
+  .callout p { font-size: 13.5pt; line-height: 1.3; }
   .callout strong { color: #ffd9a0; }
+  .keyfind { background: #fff5e8; border: 2px solid var(--amber); border-radius: 6px; padding: 0.11in 0.14in; }
+  .keyfind p { font-size: 13pt; line-height: 1.3; }
+  .limits { background: #eef3f6; border: 2px dashed var(--mid); border-radius: 6px; padding: 0.11in 0.14in; }
+  .limits p, .limits li { font-size: 12.5pt; line-height: 1.28; }
+  .limits h3 { color: var(--deep); margin-bottom: 0.04in; }
 
-  .keyfind {
-    background: #fff5e8; border: 2px solid var(--amber); border-radius: 6px;
-    padding: 0.13in 0.16in;
-  }
-  .keyfind p { font-size: 14pt; line-height: 1.32; }
-
-  /* ---------------- BOTTOM BANDS ---------------- */
+  /* BOTTOM */
   .gaps {
     background: #fff; border-radius: 9px; border-top: 7px solid var(--amber);
-    padding: 0.22in 0.30in;
-    display: grid; grid-template-columns: 1.55fr 1fr 1fr; gap: 0.34in;
+    padding: 0.20in 0.28in; display: grid; grid-template-columns: 1.55fr 1fr 1fr; gap: 0.32in;
   }
   .gaps h2 { border-bottom: none; padding-bottom: 0.02in; }
   .gaps h2 .num { background: var(--amber); }
-  .gaps ol { padding-left: 0.26in; }
-  .gaps li { font-size: 13.5pt; margin-bottom: 0.05in; }
-  .gaps p { font-size: 13.5pt; }
-  .tag {
-    display: inline-block; background: var(--sandy); color: var(--deep);
-    font-size: 11pt; font-weight: 700; padding: 0.03in 0.09in;
-    border-radius: 3px; margin: 0.03in 0.04in 0.03in 0;
-  }
+  .gaps ol { padding-left: 0.24in; }
+  .gaps li { font-size: 12.5pt; margin-bottom: 0.04in; }
+  .gaps p { font-size: 12.5pt; }
+  .tag { display:inline-block; background: var(--sandy); color: var(--deep); font-size: 10.5pt; font-weight:700; padding: 0.025in 0.08in; border-radius:3px; margin: 0.025in 0.035in 0.025in 0; }
 
-  footer {
-    background: #fff; border-radius: 8px; padding: 0.16in 0.30in;
-    display: grid; grid-template-columns: 2.6fr 1fr; gap: 0.3in;
-  }
-  footer p, footer li { font-size: 10.5pt; line-height: 1.32; color: var(--muted); }
-  footer h4 { font-size: 12pt; color: var(--deep); margin-bottom: 0.04in; }
-  .refs { columns: 2; column-gap: 0.3in; }
-  .note { font-size: 10pt; font-style: italic; }
+  footer { background:#fff; border-radius:8px; padding: 0.14in 0.28in; display:grid; grid-template-columns: 2.6fr 1fr; gap:0.28in; }
+  footer p, footer li { font-size: 10pt; line-height: 1.3; color: var(--muted); }
+  footer h4 { font-size: 11.5pt; color: var(--deep); margin-bottom: 0.03in; }
+  .refs { columns: 2; column-gap: 0.28in; }
+  .note { font-size: 9.5pt; font-style: italic; }
 </style>
 </head>
 <body>
@@ -229,10 +148,8 @@
 <header>
   <div>
     <h1>When the Water Table Comes Up to Meet the Drainfield</h1>
-    <div class="subtitle">Ecological consequences of failing septic systems on Virginia's Eastern Shore</div>
-    <div class="authors">
-      <strong>[Student Name]</strong><sup>1</sup> &nbsp;·&nbsp; W. Alex Foxworthy, Ph.D.<sup>1</sup>
-    </div>
+    <div class="subtitle">Ecological consequences of failing septic systems on Virginia's Eastern Shore &mdash; what we know, and what nobody has measured yet</div>
+    <div class="authors"><strong>[Student Name]</strong><sup>1</sup> &nbsp;·&nbsp; W. Alex Foxworthy, Ph.D.<sup>1</sup></div>
     <div class="affil">
       <sup>1</sup>Eastern Shore Community College, Melfa, VA &nbsp;|&nbsp;
       In partnership with the UVA Environmental Institute Climate Collaborative
@@ -241,21 +158,19 @@
   </div>
   <div class="logobox">
     ESVA Summer Symposium<br>2026
-    <div style="margin-top:0.14in; font-size:11.5pt;">
-      [ESCC logo]<br>[UVA EI logo]<br>[Partner logos]
-    </div>
+    <div style="margin-top:0.12in; font-size:11pt;">[ESCC logo]<br>[UVA EI logo]<br>[Partner logos]</div>
   </div>
 </header>
 
-<!-- ============ FOUR COLUMNS ============ -->
+<!-- ============ COLUMNS ============ -->
 <div class="columns">
 
-  <!-- ---------- COLUMN 1: SCOPE ---------- -->
+  <!-- ---------- COLUMN 1 ---------- -->
   <section class="c1">
     <h2><span class="num">1</span>Scope of the Problem</h2>
 
-    <p>The Eastern Shore is a narrow peninsula where nearly every household treats its own wastewater
-    on its own land, above the <strong>only</strong> aquifer available.</p>
+    <p>The Eastern Shore is a narrow peninsula where nearly every household treats its own wastewater on its
+    own land &mdash; directly above the groundwater that supplies every well on the Shore.</p>
 
     <div class="stat">
       <span class="big">18,000+</span>
@@ -263,200 +178,197 @@
     </div>
 
     <div class="stat blue">
-      <span class="big">1</span>
-      <span class="lab">aquifer — the shallow Columbia, designated a <strong>sole-source aquifer</strong> by EPA in 1997.
-      There is no alternative supply and no backup.</span>
+      <span class="big">1997</span>
+      <span class="lab">EPA designated the Shore's groundwater a <strong>sole-source aquifer</strong> &mdash; the
+      <strong>Columbia</strong> (shallow, unconfined) and <strong>Yorktown&ndash;Eastover</strong> (deeper, confined)
+      systems together. There is no alternative supply.</span>
     </div>
+
+    <p><strong>Septic effluent enters the shallow Columbia</strong> &mdash; the same layer that feeds tidal creeks
+    <em>and</em> many older private wells. Most public-supply wells draw from the deeper, better-protected
+    Yorktown&ndash;Eastover. <span style="color:var(--rust);"><strong>Human health risk from nitrate and
+    pathogens in shallow private wells is real and is addressed in companion project work; this poster follows
+    the ecological pathway.</strong></span></p>
 
     <h3>Why systems that once worked are failing</h3>
     <p>A conventional drainfield needs roughly <strong>3 feet of unsaturated soil</strong> between the trench and
-    the water table to treat effluent. Relative sea level on the Shore is rising among the fastest rates on
-    the U.S. East Coast, lifting the water table into that treatment zone.</p>
+    the water table to treat effluent. Relative sea level on the Shore is rising among the fastest rates on the
+    U.S. East Coast, lifting the water table into that treatment zone.</p>
 
     <div class="keyfind">
       <p><strong>Central finding:</strong> These systems are not failing because anything about them changed.
       They are failing because <em>the water table came up to meet them.</em> A drainfield fully compliant in
-      1985 can be marginal today and non-functional by 2040 — with no action, error, or neglect by the
+      1985 can be marginal today and non-functional by 2040 &mdash; with no action, error, or neglect by the
       homeowner.</p>
     </div>
 
     <div class="statrow">
       <div class="stat">
         <span class="big">7,800</span>
-        <span class="lab">ESVA systems projected to sit above &lt;3 ft groundwater by 2040<sup>†</sup></span>
+        <span class="lab">ESVA systems projected above &lt;3 ft groundwater by 2040<sup>†</sup></span>
       </div>
       <div class="stat">
         <span class="big">$156M</span>
         <span class="lab">estimated replacement cost at that scale<sup>†</sup></span>
       </div>
     </div>
-    <p class="cap"><sup>†</sup>Project modeling (ESVA Climate Equity StoryMap, 2025; Hesamfar et al., in review),
+    <p class="cap"><sup>†</sup>Project modeling (ESVA Climate Equity StoryMap 2025; Hesamfar et al., in review),
     not independent peer review.</p>
   </section>
 
-  <!-- ---------- COLUMN 2: MECHANISM ---------- -->
-  <section class="c2">
+  <!-- ---------- COLUMN 2 ---------- -->
+  <section>
     <h2><span class="num">2</span>How It Travels</h2>
 
-    <p>On the Shore the distance from drainfield to tidal water is unusually short, and the path runs
-    <em>underground</em> — not overland.</p>
-
-    <div class="diagram">
-      <svg viewBox="0 0 520 300" role="img" aria-label="Cross-section: septic drainfield to tidal creek">
-        <!-- sky -->
-        <rect x="0" y="0" width="520" height="112" fill="#dbeaf2"/>
-        <!-- soil unsaturated -->
-        <rect x="0" y="112" width="520" height="66" fill="#e0cfa8"/>
-        <!-- saturated aquifer -->
-        <rect x="0" y="178" width="520" height="122" fill="#8fc3d8"/>
-        <!-- creek water body right -->
-        <path d="M392,112 L520,112 L520,300 L392,300 Z" fill="#4f9dbd"/>
-        <path d="M392,112 Q420,128 450,120 Q485,110 520,118 L520,112 Z" fill="#dbeaf2"/>
-
-        <!-- house -->
-        <rect x="28" y="66" width="66" height="46" fill="#fff" stroke="#17242e" stroke-width="2.5"/>
-        <path d="M22,66 L61,38 L100,66 Z" fill="#a8452a" stroke="#17242e" stroke-width="2.5"/>
-        <rect x="52" y="88" width="18" height="24" fill="#7e97a5"/>
-
-        <!-- tank -->
-        <rect x="112" y="122" width="52" height="30" rx="4" fill="#c9cfd4" stroke="#17242e" stroke-width="2.5"/>
-        <text x="138" y="142" font-size="12" text-anchor="middle" fill="#17242e" font-weight="700">tank</text>
-        <line x1="94" y1="112" x2="112" y2="130" stroke="#17242e" stroke-width="2.5"/>
-
-        <!-- drainfield -->
-        <g stroke="#17242e" stroke-width="2.5" fill="#b7935e">
-          <rect x="182" y="130" width="88" height="15" rx="3"/>
-        </g>
-        <text x="226" y="124" font-size="12" text-anchor="middle" fill="#17242e" font-weight="700">drainfield</text>
-        <g fill="#6b8f3a">
-          <circle cx="196" cy="153" r="3"/><circle cx="212" cy="158" r="3"/>
-          <circle cx="230" cy="154" r="3"/><circle cx="248" cy="159" r="3"/>
-          <circle cx="262" cy="152" r="3"/>
-        </g>
-
-        <!-- separation bracket -->
-        <line x1="292" y1="145" x2="292" y2="178" stroke="#a8452a" stroke-width="3"/>
-        <line x1="286" y1="145" x2="298" y2="145" stroke="#a8452a" stroke-width="3"/>
-        <line x1="286" y1="178" x2="298" y2="178" stroke="#a8452a" stroke-width="3"/>
-        <text x="304" y="158" font-size="13" fill="#a8452a" font-weight="700">need ≥3 ft</text>
-        <text x="304" y="174" font-size="11" fill="#a8452a">treatment zone</text>
-
-        <!-- water table line + rising arrow -->
-        <line x1="0" y1="178" x2="392" y2="178" stroke="#0b3c5d" stroke-width="3.5" stroke-dasharray="9,5"/>
-        <text x="8" y="194" font-size="12" fill="#0b3c5d" font-weight="700">water table</text>
-        <g stroke="#a8452a" stroke-width="3.5" fill="none">
-          <line x1="350" y1="212" x2="350" y2="186"/>
-          <path d="M343,193 L350,184 L357,193"/>
-        </g>
-        <text x="362" y="206" font-size="11.5" fill="#a8452a" font-weight="700">rising</text>
-
-        <!-- flow arrows to creek -->
-        <g stroke="#0b3c5d" stroke-width="3" fill="none" opacity="0.85">
-          <path d="M228,196 Q300,214 384,206"/>
-          <path d="M228,226 Q302,242 384,232"/>
-        </g>
-        <path d="M378,200 L392,206 L378,212 Z" fill="#0b3c5d" opacity="0.85"/>
-        <path d="M378,226 L392,232 L378,238 Z" fill="#0b3c5d" opacity="0.85"/>
-        <text x="272" y="262" font-size="12.5" fill="#0b3c5d" font-weight="700">nitrate + bacteria move with groundwater</text>
-
-        <!-- creek label -->
-        <text x="456" y="150" font-size="14" text-anchor="middle" fill="#fff" font-weight="700">tidal</text>
-        <text x="456" y="168" font-size="14" text-anchor="middle" fill="#fff" font-weight="700">creek</text>
-        <g fill="#2e8b83">
-          <path d="M420,268 q7,-20 14,0 q-7,7 -14,0"/>
-          <path d="M446,274 q7,-20 14,0 q-7,7 -14,0"/>
-          <path d="M472,266 q7,-20 14,0 q-7,7 -14,0"/>
-        </g>
-      </svg>
-    </div>
-    <p class="cap">Effluent leaves the drainfield, meets a rising water table, and travels laterally to tidal
-    water. When the unsaturated zone thins, treatment is bypassed.</p>
+    <p>Septic effluent is released <em>below</em> ground. It therefore enters the <strong>groundwater</strong>
+    system, not the surface-water system &mdash; and on the Shore, the groundwater essentially <em>is</em> the
+    creek water.</p>
 
     <div class="stat blue">
       <span class="big">~80%</span>
-      <span class="lab">of baseflow in Accomack County's ~30 tidal creeks arrives as <strong>groundwater discharge</strong>,
-      not surface runoff</span>
+      <span class="lab">of baseflow in Accomack County's ~30 tidal creeks arrives as <strong>groundwater
+      discharge</strong>, not surface runoff</span>
     </div>
 
-    <h3>Why so little is removed en route</h3>
-    <ul>
-      <li>Columbia aquifer sands are <strong>oxic and carbon-poor</strong> — denitrification is limited.</li>
-      <li>Nitrate behaves essentially <strong>conservatively</strong> along these flow paths.</li>
-      <li>Removal is confined to <strong>thin riparian/tidal-fringe bands</strong>; deeper flow paths bypass them
-      entirely (Speiran 1996, 2010).</li>
-      <li>Flow paths are typically <strong>&lt;2 km</strong> — years to decades, not centuries.</li>
-    </ul>
+    <p>If these creeks were fed mainly by rain running over the land, septic effluent would have no route into
+    them. Because they are groundwater-fed, subsurface disposal becomes a surface-water problem.</p>
+
+    <div class="diagram">
+      <svg viewBox="0 0 520 348" role="img" aria-label="Cross-section from septic drainfield to tidal creek">
+        <rect x="0" y="0" width="520" height="104" fill="#dbeaf2"/>
+        <rect x="0" y="104" width="520" height="62" fill="#e0cfa8"/>
+        <rect x="0" y="166" width="520" height="106" fill="#8fc3d8"/>
+        <rect x="0" y="272" width="520" height="22" fill="#9c8f7a"/>
+        <rect x="0" y="294" width="520" height="54" fill="#6fa8c4"/>
+        <path d="M392,104 L520,104 L520,272 L392,272 Z" fill="#4f9dbd"/>
+        <path d="M392,104 Q420,120 450,112 Q485,102 520,110 L520,104 Z" fill="#dbeaf2"/>
+
+        <!-- house -->
+        <rect x="26" y="60" width="62" height="44" fill="#fff" stroke="#17242e" stroke-width="2.5"/>
+        <path d="M20,60 L57,34 L94,60 Z" fill="#a8452a" stroke="#17242e" stroke-width="2.5"/>
+        <rect x="48" y="82" width="17" height="22" fill="#7e97a5"/>
+        <!-- tank -->
+        <rect x="106" y="114" width="50" height="28" rx="4" fill="#c9cfd4" stroke="#17242e" stroke-width="2.5"/>
+        <text x="131" y="133" font-size="11.5" text-anchor="middle" fill="#17242e" font-weight="700">tank</text>
+        <line x1="88" y1="104" x2="106" y2="121" stroke="#17242e" stroke-width="2.5"/>
+        <!-- drainfield -->
+        <rect x="174" y="122" width="86" height="14" rx="3" fill="#b7935e" stroke="#17242e" stroke-width="2.5"/>
+        <text x="217" y="116" font-size="11.5" text-anchor="middle" fill="#17242e" font-weight="700">drainfield</text>
+        <g fill="#6b8f3a">
+          <circle cx="188" cy="144" r="2.8"/><circle cx="204" cy="149" r="2.8"/>
+          <circle cx="222" cy="145" r="2.8"/><circle cx="240" cy="150" r="2.8"/><circle cx="254" cy="143" r="2.8"/>
+        </g>
+        <!-- separation bracket -->
+        <line x1="284" y1="136" x2="284" y2="166" stroke="#a8452a" stroke-width="3"/>
+        <line x1="278" y1="136" x2="290" y2="136" stroke="#a8452a" stroke-width="3"/>
+        <line x1="278" y1="166" x2="290" y2="166" stroke="#a8452a" stroke-width="3"/>
+        <text x="296" y="148" font-size="12.5" fill="#a8452a" font-weight="700">need ≥3 ft</text>
+        <text x="296" y="163" font-size="10.5" fill="#a8452a">treatment zone</text>
+        <!-- water table -->
+        <line x1="0" y1="166" x2="392" y2="166" stroke="#0b3c5d" stroke-width="3.5" stroke-dasharray="9,5"/>
+        <text x="6" y="181" font-size="11.5" fill="#0b3c5d" font-weight="700">water table</text>
+        <g stroke="#a8452a" stroke-width="3.5" fill="none">
+          <line x1="346" y1="200" x2="346" y2="174"/><path d="M339,181 L346,172 L353,181"/>
+        </g>
+        <text x="357" y="194" font-size="11" fill="#a8452a" font-weight="700">rising</text>
+        <!-- flow -->
+        <g stroke="#0b3c5d" stroke-width="3" fill="none" opacity="0.85">
+          <path d="M220,186 Q298,204 384,196"/><path d="M220,216 Q300,232 384,222"/>
+        </g>
+        <path d="M378,190 L392,196 L378,202 Z" fill="#0b3c5d" opacity="0.85"/>
+        <path d="M378,216 L392,222 L378,228 Z" fill="#0b3c5d" opacity="0.85"/>
+        <text x="150" y="248" font-size="12" fill="#0b3c5d" font-weight="700">nitrate + pathogens move with the groundwater</text>
+        <!-- aquifer labels -->
+        <text x="8" y="262" font-size="11.5" fill="#0b3c5d" font-weight="700">COLUMBIA aquifer (shallow, unconfined)</text>
+        <text x="8" y="287" font-size="10.5" fill="#3a3226" font-weight="700">confining clay</text>
+        <text x="8" y="322" font-size="11.5" fill="#0b3c5d" font-weight="700">YORKTOWN–EASTOVER (deeper, confined — most public supply)</text>
+        <!-- creek -->
+        <text x="456" y="142" font-size="13.5" text-anchor="middle" fill="#fff" font-weight="700">tidal</text>
+        <text x="456" y="159" font-size="13.5" text-anchor="middle" fill="#fff" font-weight="700">creek</text>
+        <g fill="#2e8b83">
+          <path d="M420,262 q7,-20 14,0 q-7,7 -14,0"/><path d="M446,266 q7,-20 14,0 q-7,7 -14,0"/>
+          <path d="M472,260 q7,-20 14,0 q-7,7 -14,0"/>
+        </g>
+      </svg>
+    </div>
+    <p class="cap">Effluent meets a rising water table and travels laterally to tidal water. The confining clay
+    gives the deeper aquifer real protection; the shallow Columbia has none.</p>
+
+    <h3>What the soil actually does &mdash; and doesn't</h3>
+    <table class="soil">
+      <tr><th style="width:31%">Constituent</th><th>Fate in a working drainfield</th><th style="width:24%">Failure-driven?</th></tr>
+      <tr><td class="p">Pathogens<br>(bacteria, viruses)</td><td>Removed by filtration, adsorption and die-off in unsaturated soil</td><td><span class="fail yes">YES</span></td></tr>
+      <tr><td class="p">Nitrogen</td><td><em>Converted</em> to nitrate, not removed — conventional systems retain only ~10–30%</td><td><span class="fail part">PARTLY</span></td></tr>
+      <tr><td class="p">Phosphorus</td><td>Binds to soil until binding sites saturate, then &ldquo;breaks through&rdquo;</td><td><span class="fail part">AGE-DRIVEN</span></td></tr>
+      <tr><td class="p">PFAS &amp;<br>pharmaceuticals</td><td>Pass through essentially unaltered</td><td><span class="fail no">NO</span></td></tr>
+    </table>
+
+    <div class="callout">
+      <p><strong>Nitrate travels &ldquo;conservatively&rdquo;</strong> — it does not stick to sand and is barely
+      consumed, because denitrifying bacteria need low oxygen and a carbon source that these oxygen-rich,
+      carbon-poor sands do not provide. What enters the groundwater arrives at the creek.</p>
+    </div>
   </section>
 
-  <!-- ---------- COLUMN 3: PATHWAYS ---------- -->
+  <!-- ---------- COLUMN 3 ---------- -->
   <section class="c3">
     <h2><span class="num">3</span>Six Ecological Pathways</h2>
 
-    <p>We synthesized the peer-reviewed and agency literature into six pathways, each labeled by how strong
-    the evidence actually is for <em>the Eastern Shore specifically</em>.</p>
+    <p>We synthesized the peer-reviewed and agency literature into six pathways, each labeled by how strong the
+    evidence is <em>for the Eastern Shore specifically</em>.</p>
 
     <table>
-      <tr><th style="width:31%">Pathway</th><th>Consequence</th><th style="width:22%">ESVA evidence</th></tr>
-      <tr>
-        <td class="p">1 · Groundwater<br>&amp; aquifer</td>
-        <td>Nitrate, phosphorus breakthrough, pharmaceuticals &amp; PFAS enter the sole-source aquifer</td>
-        <td><span class="ev str">STRONG</span></td>
-      </tr>
-      <tr>
-        <td class="p">2 · Tidal creeks<br>&amp; salt marsh</td>
-        <td>Nutrient enrichment; macroalgal blooms; marsh peat decomposition and creek-bank collapse</td>
-        <td><span class="ev pla">PLAUSIBLE</span></td>
-      </tr>
-      <tr>
-        <td class="p">3a · Chesapeake<br>Bay (Bayside)</td>
-        <td>Contributes to eutrophication, hypoxia, SAV loss in Bayside creeks &amp; sounds</td>
-        <td><span class="ev str">STRONG</span></td>
-      </tr>
-      <tr>
-        <td class="p">3b · Seaside<br>lagoons</td>
-        <td>Shallow, flushing-limited lagoons flip to turbid/algal states at low N thresholds — the
-        restored eelgrass meadow is the asset at risk</td>
-        <td><span class="ev str">STRONG</span></td>
-      </tr>
-      <tr>
-        <td class="p">4 · Shellfish &amp;<br>aquaculture</td>
-        <td>Fecal-indicator and viral contamination driving harvest closures</td>
-        <td><span class="ev str">STRONG</span></td>
-      </tr>
-      <tr>
-        <td class="p">5 · Iconic<br>species</td>
-        <td>Bay scallop, blue crab, terrapin — habitat-mediated effects via SAV and marsh</td>
-        <td><span class="ev pla">PLAUSIBLE</span></td>
-      </tr>
-      <tr>
-        <td class="p">6 · Drainfield<br>footprint</td>
-        <td>Saturated soils, vegetation die-off, <em>Phragmites</em> facilitation, mosquito habitat</td>
-        <td><span class="ev pla">PLAUSIBLE</span></td>
-      </tr>
+      <tr><th style="width:30%">Pathway</th><th>Consequence</th><th style="width:20%">ESVA evidence</th></tr>
+      <tr><td class="p">1 · Groundwater<br>&amp; aquifer</td>
+          <td>Nitrate reaches the shallow aquifer largely untreated; phosphorus breaks through as soils age</td>
+          <td><span class="ev str">STRONG</span></td></tr>
+      <tr><td class="p">2 · Tidal creeks<br>&amp; salt marsh</td>
+          <td>Nutrient enrichment; algal mats; marsh peat breakdown and creek-bank collapse</td>
+          <td><span class="ev pla">PLAUSIBLE</span></td></tr>
+      <tr><td class="p">3a · Chesapeake<br>Bay (Bayside)</td>
+          <td>Adds to Bay-wide nutrient enrichment, low-oxygen zones and underwater-grass loss</td>
+          <td><span class="ev str">STRONG</span></td></tr>
+      <tr><td class="p">3b · Seaside<br>lagoons</td>
+          <td>Shallow bays behind the barrier islands are slow to exchange water, so nutrients accumulate rather
+          than disperse</td>
+          <td><span class="ev str">STRONG</span></td></tr>
+      <tr><td class="p">4 · Shellfish &amp;<br>aquaculture</td>
+          <td>Bacteria and viruses from failing systems trigger harvest closures</td>
+          <td><span class="ev str">STRONG</span></td></tr>
+      <tr><td class="p">5 · Species<br>&amp; habitat</td>
+          <td>Bay scallop, blue crab, terrapin — indirect effects through loss of grass and marsh habitat</td>
+          <td><span class="ev pla">PLAUSIBLE</span></td></tr>
+      <tr><td class="p">6 · Drainfield<br>footprint</td>
+          <td>Waterlogged soils, vegetation die-off, <em>Phragmites</em> spread, mosquito habitat</td>
+          <td><span class="ev pla">PLAUSIBLE</span></td></tr>
     </table>
 
     <p class="cap"><span class="ev est">ESTABLISHED</span> <span class="ev str">STRONGLY SUPPORTED</span>
-    <span class="ev pla">PLAUSIBLE</span> <span class="ev spe">SPECULATIVE</span> — labels reflect ESVA-specific
-    attribution, not whether the mechanism is real. Most mechanisms are ESTABLISHED in the general literature.</p>
+    <span class="ev pla">PLAUSIBLE</span> <span class="ev spe">SPECULATIVE</span> — labels describe
+    <em>ESVA-specific attribution</em>, not whether the mechanism is real. Nearly all of these mechanisms are
+    firmly established in the general literature.</p>
+
+    <h3>Why the seaside lagoons are the sensitive case</h3>
+    <p>The Bay is large, deep and exchanges water freely, so added nutrients disperse. The seaside lagoons sit
+    behind barrier islands and exchange water only through narrow inlets, so <strong>nutrients accumulate</strong>.
+    The same pound of nitrogen does more there.</p>
+    <p>Shallow bays like these do not degrade gradually. They absorb nutrients for years with little visible
+    change, then <strong>flip</strong> — from clear water with grass on the bottom to cloudy water dominated by
+    algae.</p>
 
     <div class="callout">
-      <p><strong>The honest headline:</strong> the mechanisms are well understood and the ecological stakes are
-      high — but almost no study has yet closed the loop quantitatively <em>on the Eastern Shore</em>, from
-      &ldquo;septic density here&rdquo; to &ldquo;ecological change there.&rdquo; That gap is the opportunity.</p>
+      <p><strong>And the flip is hard to undo.</strong> Once the grass is gone the water stays cloudy, so light
+      cannot reach the bottom, so grass cannot re-establish — even if nutrients fall back to where they started.
+      That is the argument for <em>prevention</em> over restoration.</p>
     </div>
-
-    <h3>Bayside ≠ Seaside</h3>
-    <p>Identical nitrogen loads produce very different outcomes. The Bay is large, deep and well-flushed with
-    established management infrastructure. The seaside lagoons are shallow and flushing-limited, and show
-    <strong>nonlinear regime shifts at surprisingly low nutrient thresholds.</strong></p>
   </section>
 
-  <!-- ---------- COLUMN 4: STAKES ---------- -->
+  <!-- ---------- COLUMN 4 ---------- -->
   <section class="c4">
-    <h2><span class="num">4</span>What Is at Stake</h2>
+    <h2><span class="num">4</span>What Sits Downstream</h2>
 
-    <p>The Shore has recovered ecological assets that most of the Atlantic coast lost permanently. Those
-    assets sit downstream of 18,000 septic systems.</p>
+    <p>The Shore has recovered ecological assets that most of the Atlantic coast lost permanently. They sit
+    downstream of 18,000 septic systems.</p>
 
     <div class="stat teal">
       <span class="big">3,612 ha</span>
@@ -467,11 +379,10 @@
 
     <div class="stat teal">
       <span class="big">~90 yrs</span>
-      <span class="lab">the bay scallop was absent before reintroduction succeeded in the restored meadow —
-      the only such recovery of its kind</span>
+      <span class="lab">the bay scallop was absent before reintroduction succeeded in that restored meadow —
+      the only recovery of its kind</span>
     </div>
 
-    <h3>An economy attached to water quality</h3>
     <div class="statrow">
       <div class="stat green">
         <span class="big">$81M</span>
@@ -483,27 +394,38 @@
       </div>
     </div>
 
-    <h3>The vulnerability is measurable</h3>
+    <h3>Why the margin is thin</h3>
+    <p>These systems are not currently degraded by septic pollution. They are, however, demonstrably
+    <em>perturbable</em> — which is what makes an additional and growing stressor consequential.</p>
     <ul>
-      <li>Warming <strong>erodes eelgrass nutrient tolerance</strong> — the safety margin is narrower than
-      ambient nutrient concentrations alone suggest (Lefcheck et al. 2017).</li>
       <li>The 2015 marine heat wave caused <strong>~50% areal eelgrass loss</strong> in South and Hog Island
-      Bays, with recovery still incomplete.</li>
+      Bays; recovery is still incomplete.</li>
+      <li>Warming <strong>lowers eelgrass tolerance for nutrients</strong>, narrowing the safe operating range
+      (Lefcheck et al. 2017).</li>
       <li>Fecal-indicator exceedance in tidal waters rises from <strong>~7% on dry days to ~37%</strong> after
       ≥1 inch of rain (Zimmer-Faust et al. 2018).</li>
-      <li>Shellfish closure zones and sea-level-vulnerable septic clusters <strong>spatially co-locate</strong>
-      at Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague and Cape Charles.</li>
+      <li>Shellfish closure areas and sea-level-vulnerable septic clusters <strong>occupy the same
+      ground</strong> — Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague, Cape Charles.</li>
     </ul>
 
-    <div class="keyfind">
-      <p><strong>Management implication:</strong> Bay-wide average loading figures materially understate ESVA
-      exposure. Small unsewered tidal-creek watersheds on sandy, shallow aquifers behave very differently from
-      the watershed average. <strong>Decision-support and permitting should operate at sub-basin resolution.</strong></p>
+    <div class="limits">
+      <h3>What we cannot yet say</h3>
+      <ul>
+        <li>No ESVA study has apportioned creek or lagoon nitrogen among <strong>septic, agriculture and
+        atmospheric</strong> sources.</li>
+        <li>No ESVA study has traced shellfish closures to <strong>human</strong> versus wildlife or livestock
+        sources.</li>
+        <li>Seaside nutrient concentrations remain <strong>low</strong> by global standards; the documented
+        eelgrass threat to date has been <strong>thermal</strong>, not nutrient.</li>
+      </ul>
+      <p style="margin-top:0.06in"><strong>The defensible claim is precautionary, not diagnostic:</strong> a
+      globally significant, inherently sensitive, hard-to-restore system sits downstream of a stressor that is
+      <em>growing</em> — and nobody has measured its contribution.</p>
     </div>
   </section>
 </div>
 
-<!-- ============ GAPS / IMPLICATIONS / PARTNERSHIPS ============ -->
+<!-- ============ GAPS BAND ============ -->
 <div class="gaps">
   <div>
     <h2><span class="num">5</span>Priority Data Gaps — Where Help Is Needed</h2>
@@ -511,40 +433,41 @@
       <li><strong>Source attribution for nitrogen in ESVA creeks and lagoons.</strong> Stable isotopes
       (δ<sup>15</sup>N–δ<sup>18</sup>O of NO<sub>3</sub><sup>−</sup>) plus wastewater co-tracers (sucralose,
       acesulfame, caffeine) across a septic-density gradient. <em>One study design would inform five of six
-      pathways.</em></li>
-      <li><strong>Microbial source tracking for shellfish closures.</strong> HF183, crAssphage and
-      enteric-virus panels to apportion closure days among septic, wildlife, agricultural and stormwater
-      sources — never quantitatively closed for ESVA.</li>
+      pathways — and it is the single measurement that would convert this poster's argument from precautionary
+      to quantitative.</em></li>
+      <li><strong>Microbial source tracking for shellfish closures.</strong> HF183, crAssphage and enteric-virus
+      panels to apportion closure days among human, wildlife, livestock and stormwater sources — never
+      quantitatively closed for ESVA.</li>
       <li><strong>Direct groundwater monitoring around septic clusters.</strong> Paired up/downgradient wells
       with a full analyte suite. Current ESVA work is exposure <em>modeling</em>, not effects measurement.</li>
-      <li><strong>Sub-basin nitrogen mass balance</strong> calibrated to Columbia-aquifer conditions rather
-      than watershed-average coefficients.</li>
-      <li><strong>Seagrass safety-margin modeling</strong> coupling groundwater N delivery to eelgrass
-      condition and bay scallop recruitment.</li>
+      <li><strong>Sub-basin nitrogen mass balance</strong> calibrated to Columbia-aquifer conditions rather than
+      watershed-average coefficients.</li>
+      <li><strong>Nutrient safety-margin modeling</strong> coupling groundwater nitrogen delivery to eelgrass
+      condition and bay scallop recruitment under warming.</li>
       <li><strong>Field ecology of ESVA drainfield footprints</strong> — no vegetation, soil-microbial or
       adjacent-habitat surveys have been published.</li>
     </ol>
   </div>
 
   <div>
-    <h2 style="font-size:21pt">Management Implications</h2>
+    <h2 style="font-size:20pt">Management Implications</h2>
     <ul>
-      <li>Failure risk is <strong>climate-driven and progressive</strong> — this is sustained infrastructure
-      investment, not a one-time retrofit.</li>
+      <li>Failure risk is <strong>climate-driven and progressive</strong> — sustained infrastructure investment,
+      not a one-time retrofit.</li>
       <li>Monitor <strong>precursors</strong> (unsaturated-zone thickness, saturation frequency), not failure
       events.</li>
-      <li>Target outreach and cost-share to <strong>sub-basins</strong> where septic density and shellfish
-      closure overlap.</li>
+      <li>Conventional systems remove little nitrogen even when working — <strong>nitrogen reduction requires
+      advanced systems or sewer</strong>, not just repair.</li>
+      <li>PFAS and pharmaceutical loading is <strong>not</strong> addressed by septic repair or mound systems.</li>
+      <li>Target cost-share to <strong>sub-basins</strong> where septic density and shellfish closures overlap.</li>
       <li>Cross-reference <strong>new subdivision approvals</strong> against projected 2040 groundwater depth.</li>
-      <li>Sewer extension benefits are <strong>delayed</strong> by a legacy-loading tail from decommissioned
-      drainfields.</li>
     </ul>
   </div>
 
   <div>
-    <h2 style="font-size:21pt">Partnership Opportunities</h2>
-    <p>We are actively seeking collaborators for field sampling, data sharing and student placements.</p>
-    <p style="margin-top:0.08in">
+    <h2 style="font-size:20pt">Partnership Opportunities</h2>
+    <p>We are seeking collaborators for field sampling, data sharing and student placements.</p>
+    <p style="margin-top:0.06in">
       <span class="tag">VDH — Eastern Shore Health District</span>
       <span class="tag">VDH Div. of Shellfish Safety</span>
       <span class="tag">A-NPDC</span>
@@ -556,9 +479,9 @@
       <span class="tag">Virginia Cooperative Extension</span>
       <span class="tag">Shellfish growers &amp; watermen</span>
     </p>
-    <p style="margin-top:0.10in"><strong>ESCC students</strong> are available for capstone and internship
-    projects on any of the gaps at left — several are achievable within a single semester using public data.</p>
-    <p style="margin-top:0.10in"><strong>Contact:</strong> [email] · [phone]</p>
+    <p style="margin-top:0.08in"><strong>ESCC students</strong> are available for capstone and internship
+    projects on any of the gaps at left — several are achievable in one semester using public data.</p>
+    <p style="margin-top:0.08in"><strong>Contact:</strong> [email] · [phone]</p>
   </div>
 </div>
 
@@ -567,9 +490,9 @@
   <div>
     <h4>Selected references</h4>
     <div class="refs">
+      <p>EPA. 1997. Sole source aquifer designation, Eastern Shore of Virginia (Columbia and Yorktown–Eastover aquifer systems). <em>Federal Register</em> 62(68), April 9, 1997.</p>
       <p>Hudson, K. 2025. <em>Virginia Shellfish Aquaculture Situation &amp; Outlook Report</em>. VIMS Marine Advisory Program.</p>
       <p>Lefcheck, J.S., et al. 2017. Multiple stressors threaten eelgrass in Chesapeake Bay. <em>Global Change Biology</em> 23:3474–3483.</p>
-      <p>Lefcheck, J.S., et al. 2018. Long-term nutrient reductions lead to unprecedented recovery of a temperate coastal region. <em>PNAS</em> 115:3658–3662.</p>
       <p>Mitchell, M., Isdell, R.E., Herman, J. &amp; Tombleson, C. 2021. Impact assessment and management challenges of key rural human health infrastructure under sea level rise. <em>Frontiers in Marine Science</em> 8:631757.</p>
       <p>Orth, R.J., Lefcheck, J.S., McGlathery, K.J., et al. 2020. Restoration of seagrass habitat leads to rapid recovery of coastal ecosystem services. <em>Science Advances</em> 6:eabc6434.</p>
       <p>Speiran, G.K. 1996. <em>Geohydrology and geochemistry near coastal ground-water-discharge areas of the Eastern Shore, Virginia</em>. USGS WSP 2479.</p>
@@ -579,12 +502,12 @@
   </div>
   <div>
     <h4>Acknowledgments</h4>
-    <p>This work supports the UVA Environmental Institute Climate Collaborative project
-    &ldquo;Co-Producing Equitable Solutions to Septic System Failures: Towards a Regional Resilience Hub&rdquo;
-    (PI M. Shafiee-Jood; Co-PIs B. Brown Wilson, T. Culver, N. Alemazkoor, M. Mitchell, A. Reilly), building on
-    the NSF Coastlines and People ESVA Climate Equity project.</p>
-    <p class="note" style="margin-top:0.08in">Poster prepared for the ESVA Summer Symposium, 2026. Figures marked
-    <sup>†</sup> derive from project modeling rather than independent peer review and are identified as such.</p>
+    <p>Supports the UVA Environmental Institute Climate Collaborative project &ldquo;Co-Producing Equitable
+    Solutions to Septic System Failures: Towards a Regional Resilience Hub&rdquo; (PI M. Shafiee-Jood; Co-PIs
+    B. Brown Wilson, T. Culver, N. Alemazkoor, M. Mitchell, A. Reilly), building on the NSF Coastlines and
+    People ESVA Climate Equity project.</p>
+    <p class="note" style="margin-top:0.06in">ESVA Summer Symposium 2026. Figures marked <sup>†</sup> derive
+    from project modeling rather than independent peer review and are identified as such.</p>
   </div>
 </footer>
 
