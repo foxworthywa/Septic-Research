@@ -125,12 +125,12 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 **Intro:** Septic effluent is released *below* ground. It therefore enters the **groundwater** system, not the surface-water system — and on the Shore, the groundwater essentially *is* the creek water.
 
 **Stat block (blue):**
-> **No rivers**
-> The Shore has **no significant surface streams** — a fact EPA cited in the sole-source designation. Its tidal creeks are fed principally by **groundwater discharge** (Speiran 1996; Richardson 1994).
+> **~80%**
+> of the water supplying **Accomack County's 30 tidal creeks** comes from **groundwater discharge** (Accomack County Regional Water Supply Plan, 2010). Shore-wide there are no significant surface streams — a fact EPA cited in the sole-source designation.
 
 **Paragraph:** If these creeks were fed mainly by rain running over the land, septic effluent would have no route into them. Because they are groundwater-fed, subsurface disposal becomes a surface-water problem — and agricultural runoff is *not* the only thing reaching the water.
 
-> **⚠ Changed in v3 — see §11.** An earlier draft used "~80% of baseflow in Accomack County's ~30 tidal creeks arrives as groundwater discharge." That figure could not be traced to a primary source and the phrasing was technically wrong (baseflow *is* the groundwater-derived component, so the statement was near-tautological). If you can verify a defensible figure before printing, this block can be restored as a number — it is a stronger visual than the qualitative version.
+> **✅ Source resolved in v4 — see §11.** The 80% figure traces to the *Accomack County Regional Water Supply Plan* (April 2010): *"There are a total of thirty tidal creeks in Accomack County, which are largely supplied from groundwater discharge (approximately 80%)."* Two things changed from the earlier draft: the figure is now attributed to its actual primary source rather than to sources that were never checked, and it is described as a share of the creeks' **supply/flow** rather than of **baseflow** (the earlier phrasing was near-tautological). **Scope note: this is an Accomack County figure. Do not present it as Shore-wide.** Northampton's hydrogeologic setting is broadly similar, but no equivalent published figure has been located for it.
 
 **DIAGRAM** (see Section 8)
 
@@ -333,13 +333,13 @@ Ask the printer to confirm the PDF is exactly 36 × 24 in before printing. If it
 | Saturation/anoxia causes reductive dissolution of Fe-oxides, releasing bound phosphorus | ✅ Mechanism verified — **note scope** | Smith et al. 2021, *J. Environ. Qual.* 50:1207. Demonstrated in **agricultural** soil profiles; extension to septic drainfields under rising water tables is a well-founded inference, not a directly cited septic study. Nitrate is a preferred electron acceptor over Fe, so nitrate-rich septic plumes may buffer the reaction. |
 | ~7% → ~37% fecal indicator exceedance dry vs. post-rain | ✅ Verified | Zimmer-Faust et al. 2018, *Water Research* 139:252–262 |
 
-**⚠ REMOVED in v3 — could not be verified:**
+**✅ RESOLVED in v4 — source located:**
 
-| Claim | Problem |
+| Claim | Status |
 |---|---|
-| "~80% of baseflow in Accomack County's ~30 tidal creeks arrives as groundwater discharge" | **Two issues.** (1) *Sourcing:* traces to a web-search snippet from virginiaplaces.org, a secondary educational site — not peer-reviewed or agency-primary. It was cited in `research/pathway_2_tidal_creeks_marshes.md` as "(Richardson 1994; A-NPDC 2022)," but **neither source was actually confirmed to contain the figure**; that citation was inferred, not verified. Attempts to check virginiaplaces.org, the A-NPDC groundwater factsheet, USGS WSP 2401, and a Sanford IAHS paper all returned HTTP 403. (2) *Phrasing:* "80% of baseflow is groundwater-derived" is near-tautological — baseflow is by definition the groundwater component. The meaningful claim would be "groundwater supplies ~80% of **total streamflow**." |
+| "~80% of the water supplying Accomack County's 30 tidal creeks comes from groundwater discharge" | **Verified.** *Accomack County Regional Water Supply Plan*, April 2010: *"There are a total of thirty tidal creeks in Accomack County, which are largely supplied from groundwater discharge (approximately 80%)."* Available via A-NPDC (`a-npdc.org/groundwater/`) and esvaplan.org. **Scope: Accomack County only** — do not extend to Northampton or present as Shore-wide. **Phrasing: a share of creek supply/flow, not of "baseflow"** (baseflow is by definition the groundwater component, so the earlier wording was near-tautological). |
 
-**To restore it:** the likely primary sources are USGS WSP 2401 (Richardson 1994), USGS WSP 2479 (Speiran 1996), or a USGS base-flow separation study for Delmarva. A hydrologist at USGS Virginia–West Virginia Water Science Center or at A-NPDC could confirm quickly. If verified, phrase it as a fraction of *total streamflow*, not of baseflow.
+*History of this figure, kept as a caution:* it first entered the project via a web-search snippet from virginiaplaces.org (a secondary educational site) and was cited in `research/pathway_2_tidal_creeks_marshes.md` as "(Richardson 1994; A-NPDC 2022)" — **sources that were never checked and do not appear to be its origin.** The number was real all along; the failure was citing plausible-sounding sources instead of tracking down the actual one. Alex Foxworthy located the primary source. Treat this as the standard for every other quantitative claim in the repository.
 
 **Project-internal — cite as project modeling, not peer review (marked † on poster):**
 
@@ -371,6 +371,7 @@ Made in response to scientific review. Each addressed a real overstatement or an
 | 7 | "Flushing-limited" and "nonlinear regime shifts at low N thresholds" were jargon | **Rewritten** in plain language: lagoons exchange water only through narrow inlets so nutrients accumulate; shallow bays don't degrade gradually, they *flip*; and **the flip is hard to undo** (new hysteresis point — the strongest argument for prevention). |
 | 8 | Conventional systems implied to remove nitrogen | **Corrected.** Drainfields *convert* ammonium to nitrate; they don't remove nitrogen. Retention is only ~10–30%. Added as a management implication: nitrogen reduction needs advanced systems or sewer, not just repair. |
 | 9 | Column 4 implied septic is currently threatening the seagrass and the aquaculture economy | **Reframed.** Retitled "What Sits Downstream." New **"What we cannot yet say"** box states that seaside nutrient levels remain low, the documented eelgrass threat has been *thermal*, and no ESVA study has apportioned sources. The claim is now explicitly **precautionary, not diagnostic**. |
+| 11 | The ~80% groundwater figure was removed in v3 as unverifiable | **Restored in v4** with its true source — *Accomack County Regional Water Supply Plan* (April 2010) — corrected phrasing (share of creek **supply**, not baseflow), and an explicit **Accomack-only** scope note. |
 | 10a | Phosphorus was labelled **AGE-DRIVEN** in a column headed "Failure-driven?", and Column 3 said P "breaks through as soils age" | **Corrected (v3).** "Age" meant the *septic system's* cumulative operating time, not the geological age of the soil — the original wording implied a process unrelated to septic systems. P is now labelled **NO — use-driven**, with the description clarifying it is *that system's own* binding capacity being exhausted. A note records the one genuine failure link: reductive dissolution of iron oxides under a risen water table can remobilise legacy phosphorus (Smith et al. 2021, *J. Environ. Qual.*, mechanism established in soils generally; nitrate-rich septic plumes may delay it, since nitrate is the preferred electron acceptor). |
 | 10 | "The vulnerability is measurable" implied septic causation | **Retitled "Why the margin is thin"** with an explicit lead sentence: these systems are not currently degraded by septic pollution, but they are demonstrably perturbable. |
 
