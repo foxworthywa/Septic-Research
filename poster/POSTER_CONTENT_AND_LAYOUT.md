@@ -142,8 +142,10 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 |---|---|---|
 | **Pathogens** (bacteria, viruses) | Removed by filtration, adsorption and die-off in unsaturated soil | **YES** (rust) |
 | **Nitrogen** | *Converted* to nitrate, not removed — conventional systems retain only ~10–30% | **PARTLY** (amber) |
-| **Phosphorus** | Binds to soil until binding sites saturate, then "breaks through" | **AGE-DRIVEN** (amber) |
+| **Phosphorus** | Held by the soil until *that system's own* binding capacity is used up after years to decades of operation — then breaks through | **NO** — *use-driven* (gray) |
 | **PFAS & pharmaceuticals** | Pass through essentially unaltered | **NO** (gray) |
+
+**Caption under the table:** Phosphorus is the exception that proves the rule: it is limited by *cumulative use*, not by condition. One failure link does exist — when a rising water table saturates the soil, iron oxides dissolve and can release phosphorus they had been holding for years.
 
 **Callout box (deep blue, white text):**
 > **Nitrate travels "conservatively"** — it does not stick to sand and is barely consumed, because denitrifying bacteria need low oxygen and a carbon source that these oxygen-rich, carbon-poor sands do not provide. What enters the groundwater arrives at the creek.
@@ -160,7 +162,7 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 
 | Pathway | Consequence | ESVA evidence |
 |---|---|---|
-| **1 · Groundwater & aquifer** | Nitrate reaches the shallow aquifer largely untreated; phosphorus breaks through as soils age | STRONGLY SUPPORTED |
+| **1 · Groundwater & aquifer** | Nitrate reaches the shallow aquifer largely untreated; phosphorus breaks through once a drainfield's soil binding capacity is used up | STRONGLY SUPPORTED |
 | **2 · Tidal creeks & salt marsh** | Nutrient enrichment; algal mats; marsh peat breakdown and creek-bank collapse | PLAUSIBLE |
 | **3a · Chesapeake Bay (Bayside)** | Adds to Bay-wide nutrient enrichment, low-oxygen zones and underwater-grass loss | STRONGLY SUPPORTED |
 | **3b · Seaside lagoons** | Shallow bays behind the barrier islands are slow to exchange water, so nutrients accumulate rather than disperse | STRONGLY SUPPORTED |
@@ -327,6 +329,8 @@ Ask the printer to confirm the PDF is exactly 36 × 24 in before printing. If it
 | EPA sole-source aquifer designation, 1997, covering **both** the Columbia **and** Yorktown–Eastover aquifer systems (excluding Chincoteague and Tangier islands) | ✅ Verified — **corrected in v2** | *Federal Register* 62(68), April 9, 1997 |
 | Conventional septic systems remove only ~10–30% of nitrogen; drainfields nitrify rather than denitrify | ✅ Verified | Standard onsite-wastewater engineering literature |
 | PFAS and pharmaceuticals pass through septic soil treatment essentially unaltered | ✅ Verified | Consistent across the septic-contaminant literature; also stated in this project's earlier synthesis |
+| Phosphorus is retarded by soil sorption until that system's finite binding capacity is exhausted, then breaks through; plumes advance ~1 m/yr (retardation ≈20×) and can extend 70+ m from long-used systems in sandy soil; loading persists for years after decommissioning | ✅ Verified | Robertson et al., *Groundwater* (1999, 2008); review of P attenuation across 24 septic plumes, *Sci. Total Environ.* (2020) |
+| Saturation/anoxia causes reductive dissolution of Fe-oxides, releasing bound phosphorus | ✅ Mechanism verified — **note scope** | Smith et al. 2021, *J. Environ. Qual.* 50:1207. Demonstrated in **agricultural** soil profiles; extension to septic drainfields under rising water tables is a well-founded inference, not a directly cited septic study. Nitrate is a preferred electron acceptor over Fe, so nitrate-rich septic plumes may buffer the reaction. |
 | ~7% → ~37% fecal indicator exceedance dry vs. post-rain | ✅ Verified | Zimmer-Faust et al. 2018, *Water Research* 139:252–262 |
 
 **⚠ REMOVED in v3 — could not be verified:**
@@ -367,6 +371,7 @@ Made in response to scientific review. Each addressed a real overstatement or an
 | 7 | "Flushing-limited" and "nonlinear regime shifts at low N thresholds" were jargon | **Rewritten** in plain language: lagoons exchange water only through narrow inlets so nutrients accumulate; shallow bays don't degrade gradually, they *flip*; and **the flip is hard to undo** (new hysteresis point — the strongest argument for prevention). |
 | 8 | Conventional systems implied to remove nitrogen | **Corrected.** Drainfields *convert* ammonium to nitrate; they don't remove nitrogen. Retention is only ~10–30%. Added as a management implication: nitrogen reduction needs advanced systems or sewer, not just repair. |
 | 9 | Column 4 implied septic is currently threatening the seagrass and the aquaculture economy | **Reframed.** Retitled "What Sits Downstream." New **"What we cannot yet say"** box states that seaside nutrient levels remain low, the documented eelgrass threat has been *thermal*, and no ESVA study has apportioned sources. The claim is now explicitly **precautionary, not diagnostic**. |
+| 10a | Phosphorus was labelled **AGE-DRIVEN** in a column headed "Failure-driven?", and Column 3 said P "breaks through as soils age" | **Corrected (v3).** "Age" meant the *septic system's* cumulative operating time, not the geological age of the soil — the original wording implied a process unrelated to septic systems. P is now labelled **NO — use-driven**, with the description clarifying it is *that system's own* binding capacity being exhausted. A note records the one genuine failure link: reductive dissolution of iron oxides under a risen water table can remobilise legacy phosphorus (Smith et al. 2021, *J. Environ. Qual.*, mechanism established in soils generally; nitrate-rich septic plumes may delay it, since nitrate is the preferred electron acceptor). |
 | 10 | "The vulnerability is measurable" implied septic causation | **Retitled "Why the margin is thin"** with an explicit lead sentence: these systems are not currently degraded by septic pollution, but they are demonstrably perturbable. |
 
 ### On whether the assets are "at risk"
