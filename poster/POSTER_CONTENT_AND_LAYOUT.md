@@ -125,10 +125,12 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 **Intro:** Septic effluent is released *below* ground. It therefore enters the **groundwater** system, not the surface-water system — and on the Shore, the groundwater essentially *is* the creek water.
 
 **Stat block (blue):**
-> **~80%**
-> of baseflow in Accomack County's ~30 tidal creeks arrives as **groundwater discharge**, not surface runoff
+> **No rivers**
+> The Shore has **no significant surface streams** — a fact EPA cited in the sole-source designation. Its tidal creeks are fed principally by **groundwater discharge** (Speiran 1996; Richardson 1994).
 
-**Paragraph:** If these creeks were fed mainly by rain running over the land, septic effluent would have no route into them. Because they are groundwater-fed, subsurface disposal becomes a surface-water problem.
+**Paragraph:** If these creeks were fed mainly by rain running over the land, septic effluent would have no route into them. Because they are groundwater-fed, subsurface disposal becomes a surface-water problem — and agricultural runoff is *not* the only thing reaching the water.
+
+> **⚠ Changed in v3 — see §11.** An earlier draft used "~80% of baseflow in Accomack County's ~30 tidal creeks arrives as groundwater discharge." That figure could not be traced to a primary source and the phrasing was technically wrong (baseflow *is* the groundwater-derived component, so the statement was near-tautological). If you can verify a defensible figure before printing, this block can be restored as a number — it is a stronger visual than the qualitative version.
 
 **DIAGRAM** (see Section 8)
 
@@ -327,13 +329,20 @@ Ask the printer to confirm the PDF is exactly 36 × 24 in before printing. If it
 | PFAS and pharmaceuticals pass through septic soil treatment essentially unaltered | ✅ Verified | Consistent across the septic-contaminant literature; also stated in this project's earlier synthesis |
 | ~7% → ~37% fecal indicator exceedance dry vs. post-rain | ✅ Verified | Zimmer-Faust et al. 2018, *Water Research* 139:252–262 |
 
+**⚠ REMOVED in v3 — could not be verified:**
+
+| Claim | Problem |
+|---|---|
+| "~80% of baseflow in Accomack County's ~30 tidal creeks arrives as groundwater discharge" | **Two issues.** (1) *Sourcing:* traces to a web-search snippet from virginiaplaces.org, a secondary educational site — not peer-reviewed or agency-primary. It was cited in `research/pathway_2_tidal_creeks_marshes.md` as "(Richardson 1994; A-NPDC 2022)," but **neither source was actually confirmed to contain the figure**; that citation was inferred, not verified. Attempts to check virginiaplaces.org, the A-NPDC groundwater factsheet, USGS WSP 2401, and a Sanford IAHS paper all returned HTTP 403. (2) *Phrasing:* "80% of baseflow is groundwater-derived" is near-tautological — baseflow is by definition the groundwater component. The meaningful claim would be "groundwater supplies ~80% of **total streamflow**." |
+
+**To restore it:** the likely primary sources are USGS WSP 2401 (Richardson 1994), USGS WSP 2479 (Speiran 1996), or a USGS base-flow separation study for Delmarva. A hydrologist at USGS Virginia–West Virginia Water Science Center or at A-NPDC could confirm quickly. If verified, phrase it as a fraction of *total streamflow*, not of baseflow.
+
 **Project-internal — cite as project modeling, not peer review (marked † on poster):**
 
 | Claim | Note |
 |---|---|
 | 7,800 systems at risk by 2040 | ESVA Climate Equity StoryMap (2025); Hesamfar et al. (in review) |
 | $156M replacement cost | Same source; derived from ~$20K/system |
-| ~80% of Accomack creek baseflow is groundwater | A-NPDC groundwater factsheet (2022) + Richardson 1994 USGS WSP 2401 |
 
 **Deliberately NOT used on this poster:**
 
