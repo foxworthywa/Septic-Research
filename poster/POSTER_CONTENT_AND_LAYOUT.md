@@ -110,6 +110,14 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 **Key-finding box (amber border):**
 > **Central finding:** These systems are not failing because anything about them changed. They are failing because *the water table came up to meet them.* A drainfield fully compliant in 1985 can be marginal today and non-functional by 2040 — with no action, error, or neglect by the homeowner.
 
+**Subhead: Three things compound it**
+
+- **Age.** Many Shore systems date to the 1970s–80s. Installers report age and what gets flushed as the leading causes of failure they see.
+- **No reliable inventory.** Virginia has no complete record of where septic systems are, how old they are, or what condition they are in. State databases are sparsely populated for the Shore, so neither agencies nor owners can target maintenance.
+- **Information and cost barriers.** Nationally only **~32%** of owners meet recommended inspection intervals, and **~60%** of systems over 20 years old have **never been inspected**. A pump-out runs $250–500 — a genuine barrier at Shore incomes, and assistance programs are under-used.
+
+**Caption:** Rising groundwater makes failure *progressive and unavoidable*; age, records and maintenance determine *which systems fail first*. Both are systemic, not individual, failings.
+
 **Paired stat blocks:**
 > **7,800** — ESVA systems projected to sit above <3 ft groundwater by 2040†
 > **$156M** — estimated replacement cost at that scale†
@@ -142,7 +150,7 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 |---|---|---|
 | **Pathogens** (bacteria, viruses) | Removed by filtration, adsorption and die-off in unsaturated soil | **YES** (rust) |
 | **Nitrogen** | *Converted* to nitrate, not removed — conventional systems retain only ~10–30% | **PARTLY** (amber) |
-| **Phosphorus** | Held by the soil until *that system's own* binding capacity is used up after years to decades of operation — then breaks through | **NO** — *use-driven* (gray) |
+| **Phosphorus** | Held by the soil until *that system's own* binding capacity is used up after years to decades of operation — then breaks through | **NO** (gray) |
 | **PFAS & pharmaceuticals** | Pass through essentially unaltered | **NO** (gray) |
 
 **Caption under the table:** Phosphorus is the exception that proves the rule: it is limited by *cumulative use*, not by condition. One failure link does exist — when a rising water table saturates the soil, iron oxides dissolve and can release phosphorus they had been holding for years.
@@ -162,8 +170,8 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 
 | Pathway | Consequence | ESVA evidence |
 |---|---|---|
-| **1 · Groundwater & aquifer** | Nitrate reaches the shallow aquifer largely untreated; phosphorus breaks through once a drainfield's soil binding capacity is used up | STRONGLY SUPPORTED |
-| **2 · Tidal creeks & salt marsh** | Nutrient enrichment; algal mats; marsh peat breakdown and creek-bank collapse | PLAUSIBLE |
+| **1 · Groundwater & aquifer** | Nitrate reaches the shallow aquifer largely untreated. **The aquifer is the delivery system** — what enters here arrives in the creeks, where nitrogen is the nutrient that drives coastal algal growth | STRONGLY SUPPORTED |
+| **2 · Tidal creeks & salt marsh** | Algal mats; and — counter-intuitively — **marsh loss**: enrichment grows more leaf but *fewer* bank-holding roots, so creek banks slump into the channel | PLAUSIBLE |
 | **3a · Chesapeake Bay (Bayside)** | Adds to Bay-wide nutrient enrichment, low-oxygen zones and underwater-grass loss | STRONGLY SUPPORTED |
 | **3b · Seaside lagoons** | Shallow bays behind the barrier islands are slow to exchange water, so nutrients accumulate rather than disperse | STRONGLY SUPPORTED |
 | **4 · Shellfish & aquaculture** | Bacteria and viruses from failing systems trigger harvest closures | STRONGLY SUPPORTED |
@@ -181,6 +189,12 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 The Bay is large, deep and exchanges water freely, so added nutrients disperse. The seaside lagoons sit behind barrier islands and exchange water only through narrow inlets, so **nutrients accumulate**. The same pound of nitrogen does more there.
 
 Shallow bays like these do not degrade gradually. They absorb nutrients for years with little visible change, then **flip** — from clear water with grass on the bottom to cloudy water dominated by algae.
+
+**Subhead: Why marshes collapse when fertilised**
+
+A creek bank is held together not by the stems you can see but by the dense mat of **roots and rhizomes** beneath it. Given abundant nitrogen, marsh grass stops investing in deep roots and puts growth into leaves instead — while the extra nitrogen also speeds microbial **decay of the peat** itself. The marsh looks greener above while losing its structure below, and banks crack and slump into the channel (Deegan et al. 2012).
+
+*(Place this after the callout box below.)*
 
 **Callout box (deep blue, white text):**
 > **And the flip is hard to undo.** Once the grass is gone the water stays cloudy, so light cannot reach the bottom, so grass cannot re-establish — even if nutrients fall back to where they started. That is the argument for *prevention* over restoration.
@@ -212,9 +226,9 @@ Shallow bays like these do not degrade gradually. They absorb nutrients for year
 These systems are not currently degraded by septic pollution. They are, however, demonstrably *perturbable* — which is what makes an additional and growing stressor consequential.
 
 - The 2015 marine heat wave caused **~50% areal eelgrass loss** in South and Hog Island Bays; recovery is still incomplete.
-- Warming **lowers eelgrass tolerance for nutrients**, narrowing the safe operating range (Lefcheck et al. 2017).
+- Warming **lowers eelgrass tolerance for nutrients** (Lefcheck et al. 2017). The link is **light**: warm water forces the plant to respire faster, so it needs *more* light to break even — while nutrients feed a film of algae on the blades and in the water that delivers *less*. The two stressors squeeze from opposite sides.
 - Fecal-indicator exceedance in tidal waters rises from **~7% on dry days to ~37%** after ≥1 inch of rain (Zimmer-Faust et al. 2018).
-- Shellfish closure areas and sea-level-vulnerable septic clusters **occupy the same ground** — Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague, Cape Charles.
+- Sea-level-vulnerable septic systems concentrate in the low-lying shoreline parcels that sit **directly above classified shellfish waters**. Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague and Cape Charles are named as particularly exposed (Mitchell et al. 2021; Va. Wastewater Infrastructure Working Group, RD883, 2021).
 
 **Limits box (light blue fill, dashed blue border) — "What we cannot yet say":**
 - No ESVA study has apportioned creek or lagoon nitrogen among **septic, agriculture and atmospheric** sources.
@@ -333,6 +347,17 @@ Ask the printer to confirm the PDF is exactly 36 × 24 in before printing. If it
 | Saturation/anoxia causes reductive dissolution of Fe-oxides, releasing bound phosphorus | ✅ Mechanism verified — **note scope** | Smith et al. 2021, *J. Environ. Qual.* 50:1207. Demonstrated in **agricultural** soil profiles; extension to septic drainfields under rising water tables is a well-founded inference, not a directly cited septic study. Nitrate is a preferred electron acceptor over Fe, so nitrate-rich septic plumes may buffer the reaction. |
 | ~7% → ~37% fecal indicator exceedance dry vs. post-rain | ✅ Verified | Zimmer-Faust et al. 2018, *Water Research* 139:252–262 |
 
+**Added and verified in v5:**
+
+| Claim | Status | Source |
+|---|---|---|
+| Nutrient enrichment increases above-ground leaf biomass, **decreases** below-ground bank-stabilising root biomass, and increases microbial decomposition — reducing geomorphic stability and causing creek-bank collapse | ✅ Verified | Deegan et al. 2012, *Nature* 490:388–392 (9-yr whole-ecosystem experiment). **Caveat retained:** loading was ~10× ambient; operation at current ESVA loading is PLAUSIBLE, not established. |
+| Warming raises eelgrass light requirement (faster respiration → more light needed for positive carbon balance) while nutrients reduce light via epiphytes on the blades and water-column algae | ✅ Verified | Lefcheck et al. 2017, *Glob. Change Biol.* 23:3474–3483; corroborated by the seagrass–eutrophication literature (Burkholder et al. 2007). Mechanism is **light limitation**, not direct nutrient toxicity. |
+| ~32% of owners meet recommended inspection intervals; ~60% of systems >20 yrs old never inspected; pump-out $250–500 | ✅ Verified — **scope note** | Center for Rural Pennsylvania homeowner survey; EPA guidance. **These are rural-analogue/national figures, not ESVA-specific.** Label them as such on the poster if challenged. |
+| ESVA septic vulnerability concentrates in shoreline-proximal, low-elevation parcels above classified shellfish waters; Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague, Cape Charles named as particularly exposed | ✅ Verified — **phrasing tightened** | Mitchell et al. 2021 (parcel-level vulnerability mapping); Va. Wastewater Infrastructure Policy Working Group, RD883 (2021) (town list). **An earlier draft said closure areas and septic clusters "occupy the same ground."** The sources support *vulnerability concentrating adjacent to classified shellfish waters*; they do **not** publish a joint overlay of DSS closure areas against septic vulnerability. See the student-project note below. |
+
+> **★ Student project opportunity.** The stronger version of that last claim — an actual overlay of VDH Division of Shellfish Safety closure areas against Mitchell's septic-vulnerability layer — **has not been published and both datasets are public.** Doing that overlay would (a) make the claim citable as "this study," (b) produce a genuine figure for the poster, and (c) be a real, semester-scale contribution with the student as first author. This is the highest-value single addition available to this poster.
+
 **✅ RESOLVED in v4 — source located:**
 
 | Claim | Status |
@@ -371,6 +396,11 @@ Made in response to scientific review. Each addressed a real overstatement or an
 | 7 | "Flushing-limited" and "nonlinear regime shifts at low N thresholds" were jargon | **Rewritten** in plain language: lagoons exchange water only through narrow inlets so nutrients accumulate; shallow bays don't degrade gradually, they *flip*; and **the flip is hard to undo** (new hysteresis point — the strongest argument for prevention). |
 | 8 | Conventional systems implied to remove nitrogen | **Corrected.** Drainfields *convert* ammonium to nitrate; they don't remove nitrogen. Retention is only ~10–30%. Added as a management implication: nitrogen reduction needs advanced systems or sewer, not just repair. |
 | 9 | Column 4 implied septic is currently threatening the seagrass and the aquaculture economy | **Reframed.** Retitled "What Sits Downstream." New **"What we cannot yet say"** box states that seaside nutrient levels remain low, the documented eelgrass threat has been *thermal*, and no ESVA study has apportioned sources. The claim is now explicitly **precautionary, not diagnostic**. |
+| 12 | Failure framed as driven solely by the rising water table | **Broadened (v5).** Added "Three things compound it": age, absence of any reliable septic inventory, and information/cost barriers (~32% meet inspection intervals; ~60% of 20-yr-old systems never inspected). Framed as *systemic*, not individual, failings so the "not your fault" message survives. |
+| 13 | Pathway 1 gave mechanism but never said why it matters | **Fixed.** Now: "The aquifer is the delivery system — what enters here arrives in the creeks, where nitrogen is the nutrient that drives coastal algal growth." |
+| 14 | "Marsh peat breakdown and creek-bank collapse" was opaque | **Explained.** New Column 3 block: banks are held by the below-ground root/rhizome mat, not visible stems; nitrogen shifts growth to leaves and speeds peat decay, so the marsh looks greener above while losing structure below. This is exactly the intuition Deegan et al. 2012 overturned. |
+| 15 | "Warming lowers eelgrass tolerance for nutrients" unexplained | **Explained.** The mechanism is **light**, not toxicity or resource competition: warming raises the light requirement; nutrients grow algae on the blades and in the water that lower light delivered. |
+| 16 | Shellfish/septic overlap had no citation | **Cited and tightened** (Mitchell et al. 2021; RD883 2021), with the claim narrowed to what those sources actually support. Flagged as a student-project opportunity. |
 | 11 | The ~80% groundwater figure was removed in v3 as unverifiable | **Restored in v4** with its true source — *Accomack County Regional Water Supply Plan* (April 2010) — corrected phrasing (share of creek **supply**, not baseflow), and an explicit **Accomack-only** scope note. |
 | 10a | Phosphorus was labelled **AGE-DRIVEN** in a column headed "Failure-driven?", and Column 3 said P "breaks through as soils age" | **Corrected (v3).** "Age" meant the *septic system's* cumulative operating time, not the geological age of the soil — the original wording implied a process unrelated to septic systems. P is now labelled **NO — use-driven**, with the description clarifying it is *that system's own* binding capacity being exhausted. A note records the one genuine failure link: reductive dissolution of iron oxides under a risen water table can remobilise legacy phosphorus (Smith et al. 2021, *J. Environ. Qual.*, mechanism established in soils generally; nitrate-rich septic plumes may delay it, since nitrate is the preferred electron acceptor). |
 | 10 | "The vulnerability is measurable" implied septic causation | **Retitled "Why the margin is thin"** with an explicit lead sentence: these systems are not currently degraded by septic pollution, but they are demonstrably perturbable. |
