@@ -102,6 +102,8 @@
   .ev.str { background: var(--teal); }
   .ev.pla { background: var(--amber); }
   .ev.spe { background: #8b8b8b; }
+  .mech { font-size: 9pt; font-weight:700; color:#1f6f4a; display:block; }
+  .attr { font-size: 9pt; font-weight:700; color:#a8452a; display:block; margin-top:0.02in; }
 
   .fail { font-size: 9.5pt; font-weight:700; padding: 0.02in 0.06in; border-radius:3px; display:inline-block; color:#fff; white-space:nowrap; }
   .fail.yes  { background: var(--rust); }
@@ -191,9 +193,10 @@
     the ecological pathway.</strong></span></p>
 
     <h3>Why systems that once worked are failing</h3>
-    <p>A conventional drainfield needs roughly <strong>3 feet of unsaturated soil</strong> between the trench and
-    the water table to treat effluent. Relative sea level on the Shore is rising among the fastest rates on the
-    U.S. East Coast, lifting the water table into that treatment zone.</p>
+    <p>Conventional drainfields depend on an <strong>unsaturated, oxygenated zone beneath the trenches</strong>;
+    Virginia sets the required separation by system type and effluent quality. Relative sea level on the Shore is
+    rising among the fastest rates on the U.S. East Coast. As the water table rises that zone thins, and once
+    groundwater reaches the trench, soil treatment is bypassed.</p>
 
     <div class="keyfind">
       <p><strong>Central finding:</strong> Many of these systems are not failing because anything about them
@@ -209,18 +212,18 @@
       <li><strong>No reliable inventory.</strong> Virginia has no complete record of where septic systems are,
       how old they are, or what condition they are in. State databases are sparsely populated for the Shore, so
       neither agencies nor owners can target maintenance.</li>
-      <li><strong>Information and cost barriers.</strong> Nationally only <strong>~32%</strong> of owners meet
-      recommended inspection intervals, and <strong>~60%</strong> of systems over 20 years old have
-      <strong>never been inspected</strong>. A pump-out runs $250&ndash;500 &mdash; a genuine barrier at Shore
-      incomes, and assistance programs are under-used.</li>
+      <li><strong>Information and cost barriers.</strong> In a rural-homeowner survey, only <strong>~32%</strong>
+      met recommended inspection intervals and <strong>~60%</strong> of systems over 20 years old had
+      <strong>never been inspected</strong> (rural Pennsylvania; no ESVA equivalent exists). A pump-out runs
+      $250&ndash;500 &mdash; a genuine barrier at Shore incomes, and assistance programs are under-used.</li>
     </ul>
-    <p class="cap">Rising groundwater makes failure <em>progressive and unavoidable</em>; age, records and
+    <p class="cap">Rising groundwater makes failure <em>progressive without adaptation</em>; age, records and
     maintenance determine <em>which systems fail first</em>. Both are systemic, not individual, failings.</p>
 
     <div class="statrow">
       <div class="stat">
         <span class="big">7,800</span>
-        <span class="lab">ESVA systems projected above &lt;3 ft groundwater by 2040<sup>†</sup></span>
+        <span class="lab">ESVA parcels where <em>modelled</em> groundwater is &lt;3 ft below land surface by 2040<sup>†</sup></span>
       </div>
       <div class="stat">
         <span class="big">$156M</span>
@@ -317,7 +320,7 @@
       <tr><td class="p">Pathogens<br>(bacteria, viruses)</td><td>Removed by filtration, adsorption and die-off in unsaturated soil</td><td><span class="fail yes">YES</span></td></tr>
       <tr><td class="p">Nitrogen</td><td><em>Converted</em> to nitrate, not removed — conventional systems retain only ~10–30%</td><td><span class="fail part">PARTLY</span></td></tr>
       <tr><td class="p">Phosphorus</td><td>Held by the soil until <em>that system's own</em> binding capacity is used up after years to decades of operation &mdash; then breaks through</td><td><span class="fail no">NO</span></td></tr>
-      <tr><td class="p">PFAS &amp;<br>pharmaceuticals</td><td>Pass through essentially unaltered</td><td><span class="fail no">NO</span></td></tr>
+      <tr><td class="p">PFAS &amp;<br>pharmaceuticals</td><td>Incompletely removed; mobility varies by compound. None measured beneath ESVA septic clusters</td><td><span class="fail no">NO</span></td></tr>
     </table>
 
     <p class="cap">Phosphorus is the exception that proves the rule: it is limited by <em>cumulative use</em>, not by
@@ -327,7 +330,7 @@
     <div class="callout">
       <p><strong>Nitrate travels &ldquo;conservatively&rdquo;</strong> — it does not stick to sand and is barely
       consumed, because denitrifying bacteria need low oxygen and a carbon source that these oxygen-rich,
-      carbon-poor sands do not provide. What enters the groundwater arrives at the creek.</p>
+      carbon-poor sands do not provide. Because denitrification is spatially limited in these sandy sediments, a substantial &mdash; but locally unquantified &mdash; fraction reaches tidal water.</p>
     </div>
   </section>
 
@@ -339,40 +342,45 @@
     evidence is <em>for the Eastern Shore specifically</em>.</p>
 
     <table>
-      <tr><th style="width:30%">Pathway</th><th>Consequence</th><th style="width:20%">ESVA evidence</th></tr>
-      <tr><td class="p">1 · Groundwater<br>&amp; aquifer</td>
-          <td>Nitrate reaches the shallow aquifer largely untreated. <strong>The aquifer is the delivery system</strong> &mdash; what enters here arrives in the creeks, where nitrogen is the nutrient that drives coastal algal growth</td>
-          <td><span class="ev str">STRONG</span></td></tr>
-      <tr><td class="p">2 · Tidal creeks<br>&amp; salt marsh</td>
-          <td>Algal mats; and &mdash; counter-intuitively &mdash; <strong>marsh loss</strong>: enrichment grows more leaf but <em>fewer</em> bank-holding roots, so creek banks slump into the channel</td>
-          <td><span class="ev pla">PLAUSIBLE</span></td></tr>
-      <tr><td class="p">3a · Chesapeake<br>Bay (Bayside)</td>
-          <td>Adds to Bay-wide nutrient enrichment, low-oxygen zones and underwater-grass loss</td>
-          <td><span class="ev str">STRONG</span></td></tr>
-      <tr><td class="p">3b · Seaside<br>lagoons</td>
-          <td>Shallow bays behind the barrier islands are slow to exchange water, so nutrients accumulate rather
-          than disperse</td>
-          <td><span class="ev str">STRONG</span></td></tr>
-      <tr><td class="p">4 · Shellfish &amp;<br>aquaculture</td>
-          <td>Bacteria and viruses from failing systems trigger harvest closures</td>
-          <td><span class="ev str">STRONG</span></td></tr>
-      <tr><td class="p">5 · Species<br>&amp; habitat</td>
-          <td>Bay scallop, blue crab, terrapin — indirect effects through loss of grass and marsh habitat</td>
-          <td><span class="ev pla">PLAUSIBLE</span></td></tr>
-      <tr><td class="p">6 · Drainfield<br>footprint</td>
-          <td>Waterlogged soils, vegetation die-off, <em>Phragmites</em> spread, mosquito habitat</td>
-          <td><span class="ev pla">PLAUSIBLE</span></td></tr>
+      <tr><th style="width:27%">Link</th><th>What happens</th><th style="width:27%">Mechanism / ESVA attribution</th></tr>
+
+      <tr><td class="p">Shallow groundwater carries wastewater nitrate</td>
+          <td>Nitrate reaches the Columbia aquifer largely untreated. <strong>The aquifer is the delivery
+          system</strong> &mdash; what enters here reaches the creeks, where nitrogen drives coastal algal growth</td>
+          <td><span class="mech">ESTABLISHED</span><span class="attr">load unquantified</span></td></tr>
+
+      <tr><td class="p">High groundwater impairs pathogen treatment</td>
+          <td>Loss of the unsaturated zone lets bacteria and viruses reach groundwater before soil can remove them</td>
+          <td><span class="mech">ESTABLISHED</span><span class="attr">exposure modelled; frequency unmeasured</span></td></tr>
+
+      <tr><td class="p">Human fecal contamination closes shellfish waters</td>
+          <td>Rain-driven contamination triggers closures across ESVA growing areas</td>
+          <td><span class="mech">ESTABLISHED</span><span class="attr">human/septic share unmeasured</span></td></tr>
+
+      <tr><td class="p">Nutrients stress eelgrass via algae and light</td>
+          <td>Epiphytes and water-column algae cut the light reaching the blades</td>
+          <td><span class="mech">ESTABLISHED</span><span class="attr">septic contribution unmeasured</span></td></tr>
+
+      <tr><td class="p">Enrichment weakens marsh rooting and peat</td>
+          <td>More leaf, <em>fewer</em> bank-holding roots, faster peat decay &rarr; creek banks slump</td>
+          <td><span class="mech">SUPPORTED, context-dependent</span><span class="attr">not demonstrated on ESVA</span></td></tr>
+
+      <tr><td class="p">Drainfield footprint effects</td>
+          <td>Waterlogged soils, vegetation die-off, <em>Phragmites</em>, mosquito habitat</td>
+          <td><span class="mech">PLAUSIBLE / local</span><span class="attr">essentially unmeasured</span></td></tr>
     </table>
 
-    <p class="cap"><span class="ev est">ESTABLISHED</span> <span class="ev str">STRONGLY SUPPORTED</span>
-    <span class="ev pla">PLAUSIBLE</span> <span class="ev spe">SPECULATIVE</span> — labels describe
-    <em>ESVA-specific attribution</em>, not whether the mechanism is real. Nearly all of these mechanisms are
-    firmly established in the general literature.</p>
+    <p class="cap"><span class="mech" style="display:inline">GREEN</span> = how well the mechanism is
+    established in the general literature. <span class="attr" style="display:inline">RED</span> = how well it has
+    been attributed to septic systems <em>on the Eastern Shore</em>. Nearly every mechanism here is established
+    science; what is missing is local source apportionment and effect size.</p>
 
     <h3>Why the seaside lagoons are the sensitive case</h3>
-    <p>The Bay is large, deep and exchanges water freely, so added nutrients disperse. The seaside lagoons sit
-    behind barrier islands and exchange water only through narrow inlets, so <strong>nutrients accumulate</strong>.
-    The same pound of nitrogen does more there.</p>
+    <p>The seaside lagoons are shallow, groundwater-fed and nutrient-sensitive. Water residence is days to weeks
+    in open lagoon interiors but can exceed a month in poorly flushed back-lagoon reaches (Safak et al. 2015).
+    Crucially, <strong>nitrogen is retained longer than water is</strong>: drift-algal mats take it up and release
+    it again as dissolved organic nitrogen, recycling it internally well beyond the flushing time (Tyler,
+    McGlathery &amp; Anderson 2001, 2003).</p>
     <p>Shallow bays like these do not degrade gradually. They absorb nutrients for years with little visible
     change, then <strong>flip</strong> — from clear water with grass on the bottom to cloudy water dominated by
     algae.</p>
@@ -423,8 +431,9 @@
     </div>
 
     <h3>Why the margin is thin</h3>
-    <p>These systems are not currently degraded by septic pollution. They are, however, demonstrably
-    <em>perturbable</em> — which is what makes an additional and growing stressor consequential.</p>
+    <p><strong>No published study has demonstrated</strong> that septic pollution is currently degrading these
+    systems. They are, however, demonstrably <em>perturbable</em> &mdash; which is what makes an additional and
+    growing stressor consequential.</p>
     <ul>
       <li>The 2015 marine heat wave caused <strong>~50% areal eelgrass loss</strong> in South and Hog Island
       Bays; recovery is still incomplete.</li>
@@ -464,9 +473,10 @@
     <ol>
       <li><strong>Source attribution for nitrogen in ESVA creeks and lagoons.</strong> Stable isotopes
       (δ<sup>15</sup>N–δ<sup>18</sup>O of NO<sub>3</sub><sup>−</sup>) plus wastewater co-tracers (sucralose,
-      acesulfame, caffeine) across a septic-density gradient. <em>One study design would inform five of six
-      pathways — and it is the single measurement that would convert this poster's argument from precautionary
-      to quantitative.</em></li>
+      acesulfame, caffeine) across a septic-density gradient. <em>Isotopes alone will not settle it &mdash; septic and manure nitrate signatures overlap, and caffeine
+      degrades. What is needed is one <strong>integrated attribution programme</strong>: isotopes plus conservative
+      human-wastewater tracers, groundwater age and flow paths, HF183/crAssphage, seasonal and post-rain sampling,
+      and Bayesian source apportionment.</em></li>
       <li><strong>Microbial source tracking for shellfish closures.</strong> HF183, crAssphage and enteric-virus
       panels to apportion closure days among human, wildlife, livestock and stormwater sources — never
       quantitatively closed for ESVA.</li>
