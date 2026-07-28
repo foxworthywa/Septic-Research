@@ -48,14 +48,14 @@ Sans-serif throughout (Source Sans Pro, Segoe UI, Calibri, or Arial).
 | Affiliations | 15 pt | Regular |
 | Section headings (H2) | 25 pt | Bold, deep blue |
 | Subheadings (H3) | 16.5 pt | Bold, mid blue |
-| Body text | 14.5 pt | Regular |
+| Body text | 15 pt | Regular |
 | Big stat numbers | 30–40 pt | Bold, colored |
 | Stat labels | 13.5 pt | Regular |
 | Table body | 12.5 pt | Regular |
 | Captions | 11.5 pt | Italic, gray |
 | References | 10.5 pt | Regular |
 
-> **Legibility check:** body text at 14.5 pt on a 36 in poster is readable at roughly 4–5 ft. Do not go below 14 pt for body copy or 10 pt for references.
+> **Legibility check (v7):** body text raised to **15 pt** after review flagged the poster as too dense. Do not go below 14 pt for body copy or 10 pt for references. Column 2 widened to 1.28fr so the cross-section reads as the dominant visual.
 
 ---
 
@@ -146,12 +146,14 @@ A conventional drainfield needs roughly **3 feet of unsaturated soil** between t
 
 **Subhead: What the soil actually does — and doesn't**
 
-| Constituent | Fate in a working drainfield | Failure-driven? |
+| Constituent | Fate in a working drainfield | What increases it |
 |---|---|---|
-| **Pathogens** (bacteria, viruses) | Removed by filtration, adsorption and die-off in unsaturated soil | **YES** (rust) |
-| **Nitrogen** | *Converted* to nitrate, not removed — conventional systems retain only ~10–30% | **PARTLY** (amber) |
-| **Phosphorus** | Held by the soil until *that system's own* binding capacity is used up after years to decades of operation — then breaks through | **NO** (gray) |
-| **PFAS & pharmaceuticals** | Pass through essentially unaltered | **NO** (gray) |
+| **Pathogens** (bacteria, viruses) | Removed by filtration, adsorption and die-off in unsaturated soil | **Hydraulic failure** (rust) |
+| **Nitrogen** | *Converted* to nitrate, not removed — conventional systems retain only ~10–30% | **Always — worse on failure** (amber) |
+| **Phosphorus** | Held by the soil until *that system's own* binding capacity is used up after years to decades of operation — then breaks through | **System age; saturation can remobilise** (amber) |
+| **PFAS & pharmaceuticals** | Incompletely removed; mobility varies by compound. None measured beneath ESVA septic clusters | **Always, regardless of condition** (gray) |
+
+> **v7 change.** The column header was a binary "Failure-driven?", which forced a yes/no onto processes that are not binary. Phosphorus in particular is use-driven but *can* be remobilised by saturation and reducing conditions. Reframing the column as **"What increases it"** resolves the tension between the two review comments without hedging the pathogens-vs-PFAS contrast that makes the table useful.
 
 **Caption under the table:** Phosphorus is the exception that proves the rule: it is limited by *cumulative use*, not by condition. One failure link does exist — when a rising water table saturates the soil, iron oxides dissolve and can release phosphorus they had been holding for years.
 
@@ -396,6 +398,12 @@ Made in response to scientific review. Each addressed a real overstatement or an
 | 7 | "Flushing-limited" and "nonlinear regime shifts at low N thresholds" were jargon | **Rewritten** in plain language: lagoons exchange water only through narrow inlets so nutrients accumulate; shallow bays don't degrade gradually, they *flip*; and **the flip is hard to undo** (new hysteresis point — the strongest argument for prevention). |
 | 8 | Conventional systems implied to remove nitrogen | **Corrected.** Drainfields *convert* ammonium to nitrate; they don't remove nitrogen. Retention is only ~10–30%. Added as a management implication: nitrogen reduction needs advanced systems or sewer, not just repair. |
 | 9 | Column 4 implied septic is currently threatening the seagrass and the aquaculture economy | **Reframed.** Retitled "What Sits Downstream." New **"What we cannot yet say"** box states that seaside nutrient levels remain low, the documented eelgrass threat has been *thermal*, and no ESVA study has apportioned sources. The claim is now explicitly **precautionary, not diagnostic**. |
+| 17 | External scientific review: evidence labels said "STRONG" for ESVA pathways while the same poster said no local apportionment exists | **Fixed (v6) — this was the most important correction.** The pathway table now rates two axes separately: **mechanism** (general literature) and **ESVA septic attribution**. Reads as "established science, unmeasured locally." |
+| 18 | Conflated unsaturated soil beneath the trench with depth to groundwater from land surface | **Fixed.** Virginia sets separation by system type and effluent quality (12VAC5-610 Tables 4.3/4.4); there is no flat 3 ft. The 7,800 figure is now labelled as parcels with *modelled* groundwater <3 ft **below land surface**. |
+| 19 | "What enters the groundwater arrives at the creek"; "not currently degraded by septic"; shellfish closures implied attributed to septic; PFAS "pass through essentially unaltered"; "progressive and unavoidable"; "Nationally ~32%" | **All softened to match the evidence.** Notably "not currently degraded" was absence-of-evidence stated as evidence-of-absence. |
+| 20 | Lagoon flushing claim too categorical | **Fixed, and strengthened.** Residence is days–weeks in open interiors (Safak et al. 2015). Replaced with the better point the reviewer missed: **nitrogen is retained longer than water**, via drift-algal DON uptake and release (Tyler, McGlathery & Anderson 2001, 2003). |
+| 21 | "The single measurement that would convert this argument from precautionary to quantitative" | **Fixed.** Septic and manure nitrate isotopes overlap and caffeine degrades. Reframed as one **integrated attribution programme**: isotopes + conservative human-wastewater tracers + groundwater age/flow paths + HF183/crAssphage + seasonal/post-rain sampling + Bayesian apportionment. |
+| 22 | Poster too dense for 36×24 | **Trimmed (v7).** Body 13.5→15 pt, tables and captions up, column 2 widened for the cross-section. Dropped the drainfield-footprint pathway row and its data gap (weakest link), three partnership tags, two references, and ~15% of prose. |
 | 12 | Failure framed as driven solely by the rising water table | **Broadened (v5).** Added "Three things compound it": age, absence of any reliable septic inventory, and information/cost barriers (~32% meet inspection intervals; ~60% of 20-yr-old systems never inspected). Framed as *systemic*, not individual, failings so the "not your fault" message survives. |
 | 13 | Pathway 1 gave mechanism but never said why it matters | **Fixed.** Now: "The aquifer is the delivery system — what enters here arrives in the creeks, where nitrogen is the nutrient that drives coastal algal growth." |
 | 14 | "Marsh peat breakdown and creek-bank collapse" was opaque | **Explained.** New Column 3 block: banks are held by the below-ground root/rhizome mat, not visible stems; nitrogen shifts growth to leaves and speeds peat decay, so the marsh looks greener above while losing structure below. This is exactly the intuition Deegan et al. 2012 overturned. |

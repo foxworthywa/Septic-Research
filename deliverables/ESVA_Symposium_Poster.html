@@ -51,7 +51,7 @@
   }
 
   /* COLUMNS */
-  .columns { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.18in; }
+  .columns { display: grid; grid-template-columns: 1fr 1.28fr 1.06fr 1fr; gap: 0.18in; }
   section {
     background: #fff; border-radius: 9px; border-top: 7px solid var(--mid);
     padding: 0.20in 0.23in; display: flex; flex-direction: column; gap: 0.11in;
@@ -74,8 +74,8 @@
   .c3 h2 .num { background: var(--teal); }
   .c4 h2 .num { background: var(--green); }
 
-  h3 { font-size: 15.5pt; font-weight: 700; color: var(--mid); margin-top: 0.03in; }
-  p, li { font-size: 13.5pt; line-height: 1.33; }
+  h3 { font-size: 16.5pt; font-weight: 700; color: var(--mid); margin-top: 0.03in; }
+  p, li { font-size: 15pt; line-height: 1.32; }
   ul { padding-left: 0.20in; }
   li { margin-bottom: 0.045in; }
   strong { color: var(--deep); }
@@ -83,7 +83,7 @@
   /* STATS */
   .stat { background: var(--sand); border-left: 5px solid var(--rust); border-radius: 5px; padding: 0.11in 0.14in; }
   .stat .big { font-size: 34pt; font-weight: 700; color: var(--rust); line-height: 1; display: block; }
-  .stat .lab { font-size: 12.5pt; line-height: 1.22; display: block; margin-top: 0.04in; }
+  .stat .lab { font-size: 13pt; line-height: 1.22; display: block; margin-top: 0.04in; }
   .stat.teal { border-left-color: var(--teal); } .stat.teal .big { color: var(--teal); }
   .stat.green { border-left-color: var(--green); } .stat.green .big { color: var(--green); }
   .stat.blue { border-left-color: var(--mid); } .stat.blue .big { color: var(--mid); }
@@ -92,8 +92,8 @@
 
   /* TABLES */
   table { width: 100%; border-collapse: collapse; }
-  th { font-size: 11pt; text-align: left; color: #fff; background: var(--teal); padding: 0.06in 0.07in; font-weight: 700; }
-  td { font-size: 11.5pt; padding: 0.065in 0.07in; vertical-align: top; border-bottom: 1px solid var(--sandy); line-height: 1.22; }
+  th { font-size: 11.5pt; text-align: left; color: #fff; background: var(--teal); padding: 0.06in 0.07in; font-weight: 700; }
+  td { font-size: 12.5pt; padding: 0.065in 0.07in; vertical-align: top; border-bottom: 1px solid var(--sandy); line-height: 1.22; }
   td.p { font-weight: 700; color: var(--deep); }
   .soil th { background: var(--mid); }
 
@@ -102,10 +102,10 @@
   .ev.str { background: var(--teal); }
   .ev.pla { background: var(--amber); }
   .ev.spe { background: #8b8b8b; }
-  .mech { font-size: 9pt; font-weight:700; color:#1f6f4a; display:block; }
-  .attr { font-size: 9pt; font-weight:700; color:#a8452a; display:block; margin-top:0.02in; }
+  .mech { font-size: 10pt; font-weight:700; color:#1f6f4a; display:block; }
+  .attr { font-size: 10pt; font-weight:700; color:#a8452a; display:block; margin-top:0.02in; }
 
-  .fail { font-size: 9.5pt; font-weight:700; padding: 0.02in 0.06in; border-radius:3px; display:inline-block; color:#fff; white-space:nowrap; }
+  .fail { font-size: 10pt; font-weight:700; padding: 0.03in 0.07in; border-radius:3px; display:inline-block; color:#fff; line-height:1.2; }
   .fail.yes  { background: var(--rust); }
   .fail.part { background: var(--amber); }
   .fail.no   { background: #6a7b86; }
@@ -113,16 +113,16 @@
   /* DIAGRAM */
   .diagram { background: var(--sand); border-radius: 6px; padding: 0.08in; }
   svg { width: 100%; height: auto; display: block; }
-  .cap { font-size: 10.5pt; color: var(--muted); line-height: 1.25; font-style: italic; }
+  .cap { font-size: 11.5pt; color: var(--muted); line-height: 1.25; font-style: italic; }
 
   /* BOXES */
   .callout { background: var(--deep); color: #fff; border-radius: 6px; padding: 0.13in 0.16in; }
-  .callout p { font-size: 13.5pt; line-height: 1.3; }
+  .callout p { font-size: 14.5pt; line-height: 1.3; }
   .callout strong { color: #ffd9a0; }
   .keyfind { background: #fff5e8; border: 2px solid var(--amber); border-radius: 6px; padding: 0.11in 0.14in; }
-  .keyfind p { font-size: 13pt; line-height: 1.3; }
+  .keyfind p { font-size: 14pt; line-height: 1.3; }
   .limits { background: #eef3f6; border: 2px dashed var(--mid); border-radius: 6px; padding: 0.11in 0.14in; }
-  .limits p, .limits li { font-size: 12.5pt; line-height: 1.28; }
+  .limits p, .limits li { font-size: 13.5pt; line-height: 1.28; }
   .limits h3 { color: var(--deep); margin-bottom: 0.04in; }
 
   /* BOTTOM */
@@ -133,12 +133,12 @@
   .gaps h2 { border-bottom: none; padding-bottom: 0.02in; }
   .gaps h2 .num { background: var(--amber); }
   .gaps ol { padding-left: 0.24in; }
-  .gaps li { font-size: 12.5pt; margin-bottom: 0.04in; }
-  .gaps p { font-size: 12.5pt; }
+  .gaps li { font-size: 13.5pt; margin-bottom: 0.04in; }
+  .gaps p { font-size: 13.5pt; }
   .tag { display:inline-block; background: var(--sandy); color: var(--deep); font-size: 10.5pt; font-weight:700; padding: 0.025in 0.08in; border-radius:3px; margin: 0.025in 0.035in 0.025in 0; }
 
   footer { background:#fff; border-radius:8px; padding: 0.14in 0.28in; display:grid; grid-template-columns: 2.6fr 1fr; gap:0.28in; }
-  footer p, footer li { font-size: 10pt; line-height: 1.3; color: var(--muted); }
+  footer p, footer li { font-size: 10.5pt; line-height: 1.3; color: var(--muted); }
   footer h4 { font-size: 11.5pt; color: var(--deep); margin-bottom: 0.03in; }
   .refs { columns: 2; column-gap: 0.28in; }
   .note { font-size: 9.5pt; font-style: italic; }
@@ -171,8 +171,7 @@
   <section class="c1">
     <h2><span class="num">1</span>Scope of the Problem</h2>
 
-    <p>The Eastern Shore is a narrow peninsula where nearly every household treats its own wastewater on its
-    own land &mdash; directly above the groundwater that supplies every well on the Shore.</p>
+    <p>Nearly every household on the Shore treats its own wastewater on its own land &mdash; directly above the groundwater that supplies every well.</p>
 
     <div class="stat">
       <span class="big">18,000+</span>
@@ -186,11 +185,7 @@
       systems together. There is no alternative supply.</span>
     </div>
 
-    <p><strong>Septic effluent enters the shallow Columbia</strong> &mdash; the same layer that feeds tidal creeks
-    <em>and</em> many older private wells. Most public-supply wells draw from the deeper, better-protected
-    Yorktown&ndash;Eastover. <span style="color:var(--rust);"><strong>Human health risk from nitrate and
-    pathogens in shallow private wells is real and is addressed in companion project work; this poster follows
-    the ecological pathway.</strong></span></p>
+    <p><strong>Septic effluent enters the shallow Columbia</strong> &mdash; the layer feeding tidal creeks <em>and</em> many older private wells. Public supply mostly draws from the deeper, protected Yorktown&ndash;Eastover. <span style="color:var(--rust);"><strong>Health risk to shallow private wells is real and addressed in companion work; this poster follows the ecological path.</strong></span></p>
 
     <h3>Why systems that once worked are failing</h3>
     <p>Conventional drainfields depend on an <strong>unsaturated, oxygenated zone beneath the trenches</strong>;
@@ -249,9 +244,7 @@
       are no significant surface streams — a fact EPA cited in the sole-source designation.</span>
     </div>
 
-    <p>If these creeks were fed mainly by rain running over the land, septic effluent would have no route into
-    them. Because they are groundwater-fed, subsurface disposal becomes a surface-water problem &mdash; and
-    agricultural runoff is <em>not</em> the only thing reaching the water.</p>
+    <p>Were these creeks fed mainly by rain running over the land, septic effluent would have no route into them. Because they are groundwater-fed, subsurface disposal becomes a surface-water problem.</p>
 
     <div class="diagram">
       <svg viewBox="0 0 520 348" role="img" aria-label="Cross-section from septic drainfield to tidal creek">
@@ -316,11 +309,11 @@
 
     <h3>What the soil actually does &mdash; and doesn't</h3>
     <table class="soil">
-      <tr><th style="width:31%">Constituent</th><th>Fate in a working drainfield</th><th style="width:24%">Failure-driven?</th></tr>
-      <tr><td class="p">Pathogens<br>(bacteria, viruses)</td><td>Removed by filtration, adsorption and die-off in unsaturated soil</td><td><span class="fail yes">YES</span></td></tr>
-      <tr><td class="p">Nitrogen</td><td><em>Converted</em> to nitrate, not removed — conventional systems retain only ~10–30%</td><td><span class="fail part">PARTLY</span></td></tr>
-      <tr><td class="p">Phosphorus</td><td>Held by the soil until <em>that system's own</em> binding capacity is used up after years to decades of operation &mdash; then breaks through</td><td><span class="fail no">NO</span></td></tr>
-      <tr><td class="p">PFAS &amp;<br>pharmaceuticals</td><td>Incompletely removed; mobility varies by compound. None measured beneath ESVA septic clusters</td><td><span class="fail no">NO</span></td></tr>
+      <tr><th style="width:29%">Constituent</th><th>Fate in a working drainfield</th><th style="width:27%">What increases it</th></tr>
+      <tr><td class="p">Pathogens<br>(bacteria, viruses)</td><td>Removed by filtration, adsorption and die-off in unsaturated soil</td><td><span class="fail yes">Hydraulic failure</span></td></tr>
+      <tr><td class="p">Nitrogen</td><td><em>Converted</em> to nitrate, not removed — conventional systems retain only ~10–30%</td><td><span class="fail part">Always &mdash; worse on failure</span></td></tr>
+      <tr><td class="p">Phosphorus</td><td>Held by the soil until <em>that system's own</em> binding capacity is used up after years to decades of operation &mdash; then breaks through</td><td><span class="fail part">System age; saturation can remobilise</span></td></tr>
+      <tr><td class="p">PFAS &amp;<br>pharmaceuticals</td><td>Incompletely removed; mobility varies by compound. None measured beneath ESVA septic clusters</td><td><span class="fail no">Always, regardless of condition</span></td></tr>
     </table>
 
     <p class="cap">Phosphorus is the exception that proves the rule: it is limited by <em>cumulative use</em>, not by
@@ -364,10 +357,6 @@
       <tr><td class="p">Enrichment weakens marsh rooting and peat</td>
           <td>More leaf, <em>fewer</em> bank-holding roots, faster peat decay &rarr; creek banks slump</td>
           <td><span class="mech">SUPPORTED, context-dependent</span><span class="attr">not demonstrated on ESVA</span></td></tr>
-
-      <tr><td class="p">Drainfield footprint effects</td>
-          <td>Waterlogged soils, vegetation die-off, <em>Phragmites</em>, mosquito habitat</td>
-          <td><span class="mech">PLAUSIBLE / local</span><span class="attr">essentially unmeasured</span></td></tr>
     </table>
 
     <p class="cap"><span class="mech" style="display:inline">GREEN</span> = how well the mechanism is
@@ -403,8 +392,7 @@
   <section class="c4">
     <h2><span class="num">4</span>What Sits Downstream</h2>
 
-    <p>The Shore has recovered ecological assets that most of the Atlantic coast lost permanently. They sit
-    downstream of 18,000 septic systems.</p>
+    <p>The Shore has recovered assets most of the Atlantic coast lost permanently. They sit downstream of 18,000 septic systems.</p>
 
     <div class="stat teal">
       <span class="big">3,612 ha</span>
@@ -486,8 +474,6 @@
       watershed-average coefficients.</li>
       <li><strong>Nutrient safety-margin modeling</strong> coupling groundwater nitrogen delivery to eelgrass
       condition and bay scallop recruitment under warming.</li>
-      <li><strong>Field ecology of ESVA drainfield footprints</strong> — no vegetation, soil-microbial or
-      adjacent-habitat surveys have been published.</li>
     </ol>
   </div>
 
@@ -513,12 +499,9 @@
       <span class="tag">VDH — Eastern Shore Health District</span>
       <span class="tag">VDH Div. of Shellfish Safety</span>
       <span class="tag">A-NPDC</span>
-      <span class="tag">Virginia DEQ</span>
       <span class="tag">VIMS</span>
       <span class="tag">Virginia Coast Reserve LTER</span>
       <span class="tag">The Nature Conservancy</span>
-      <span class="tag">Accomack &amp; Northampton counties</span>
-      <span class="tag">Virginia Cooperative Extension</span>
       <span class="tag">Shellfish growers &amp; watermen</span>
     </p>
     <p style="margin-top:0.08in"><strong>ESCC students</strong> are available for capstone and internship
@@ -534,14 +517,12 @@
     <div class="refs">
       <p>EPA. 1997. Sole source aquifer designation, Eastern Shore of Virginia (Columbia and Yorktown–Eastover aquifer systems). <em>Federal Register</em> 62(68), April 9, 1997.</p>
       <p>Accomack County. 2010. <em>Accomack County Regional Water Supply Plan</em> (April 2010). Prepared with the Accomack–Northampton Planning District Commission.</p>
-      <p>Center for Rural Pennsylvania. <em>Assessing Homeowner Perspectives and Barriers to On-Lot Septic System Maintenance</em>. (Rural analogue for inspection and cost barriers.)</p>
       <p>Deegan, L.A., et al. 2012. Coastal eutrophication as a driver of salt marsh loss. <em>Nature</em> 490:388–392.</p>
       <p>Virginia Wastewater Infrastructure Policy Working Group. 2021. <em>Report to the Virginia General Assembly</em>, RD883.</p>
       <p>Hudson, K. 2025. <em>Virginia Shellfish Aquaculture Situation &amp; Outlook Report</em>. VIMS Marine Advisory Program.</p>
       <p>Lefcheck, J.S., et al. 2017. Multiple stressors threaten eelgrass in Chesapeake Bay. <em>Global Change Biology</em> 23:3474–3483.</p>
       <p>Mitchell, M., Isdell, R.E., Herman, J. &amp; Tombleson, C. 2021. Impact assessment and management challenges of key rural human health infrastructure under sea level rise. <em>Frontiers in Marine Science</em> 8:631757.</p>
       <p>Orth, R.J., Lefcheck, J.S., McGlathery, K.J., et al. 2020. Restoration of seagrass habitat leads to rapid recovery of coastal ecosystem services. <em>Science Advances</em> 6:eabc6434.</p>
-      <p>Speiran, G.K. 1996. <em>Geohydrology and geochemistry near coastal ground-water-discharge areas of the Eastern Shore, Virginia</em>. USGS WSP 2479.</p>
       <p>Zimmer-Faust, A.G., et al. 2018. Precipitation thresholds for fecal bacterial indicators in the Chesapeake Bay. <em>Water Research</em> 139:252–262.</p>
       <p class="note">Full six-pathway synthesis and ~120-source bibliography available on request.</p>
     </div>
