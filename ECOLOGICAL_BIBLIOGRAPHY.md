@@ -353,4 +353,4 @@ Weston, N. B. 2014. Declining sediments and rising seas: an unfortunate converge
 
 Young, C. S., C. J. Gobler, and B. G. Heikes. 2010. Coupled N loading, brown tide, and seagrass decline in Long Island lagoons. (Ecological synthesis report.) [P3b]
 
-Zimmer-Faust, A. G., V. Thulsiraj, C. Lamparello, M. Williams, and J. A. Jay. 2018. Precipitation thresholds for fecal bacterial indicators in the Chesapeake Bay. *Water Research* 139: 252–262. [P4]
+Leight, A.K. & R. Hood 2018. Precipitation thresholds for fecal bacterial indicators in the Chesapeake Bay [Maryland shellfish waters; fecal source not apportioned]. *Water Research* 139: 252–262. [P4]
