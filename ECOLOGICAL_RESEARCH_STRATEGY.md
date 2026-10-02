@@ -3,6 +3,8 @@
 **Project:** EI Climate Collaborative — "Co-Producing Equitable Solutions to Septic System Failures: Towards a Regional Resilience Hub" (2026–2028, PI Shafiee-Jood, UVA).
 **Author of this strategy:** Alex Foxworthy (ESCC) with Claude.
 **Status:** Scoping document. Approved by Alex 2026-04-14.
+
+> **October 2026 update.** The synthesis this strategy produced has been audited and corrected; see the evidence-review box at the top of `ECOLOGICAL_EFFECTS_SYNTHESIS.md`. The audit found no published Eastern Shore–specific evidence of current septic-caused ecological harm. The Phase 4 "6% vs. 3.3%" resolution is retained, but the synthesis's additional claim that the local ESVA share is 20–40% has been withdrawn as unsourced. Public outreach now leads with household finances, health (well testing) and legal compliance rather than ecology (`OUTREACH_MESSAGING_REVIEW.md`). The ecological questions remain open, answerable research questions, and are the natural core of the Phase 5 data-gap and capstone work: source attribution, an overlay of closure areas against septic density, and groundwater monitoring around septic clusters.
 **Purpose:** Define a scholarly research synthesis on the **ecological** consequences of failing septic systems on the Eastern Shore of Virginia (ESVA), to feed the broader project's evidence base, ESCC capstone projects, and (later) public outreach adaptations.
 
 ---

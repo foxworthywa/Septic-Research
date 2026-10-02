@@ -1,8 +1,9 @@
 > **SUPERSEDED — October 2026. Do not publish or reuse.** Replaced by `outreach/article_part2_well_testing.md`. The October 2026 evidence review (`OUTREACH_MESSAGING_REVIEW.md`) found several claims here that are wrong or unsupported:
-> - the "43% of tested Shore wells" figure has no traceable source;
-> - the Chincoteague water history is wrong (no septic cause documented);
-> - the thyroid claim misstates Ward et al. 2010;
-> - the Danish cancer study's units are mismatched;
+> - **"43% of tested Shore wells"** is the share of Shore clinic samples above EPA's 20 mg/L *sodium* guidance level, not a contamination rate. The same 2014–2017 Extension clinics found 27% coliform, 4% *E. coli*, and nitrate above the limit in fewer than 5%;
+> - most Shore household wells draw from the deep confined aquifers, not the shallow one, and nitrate above the limit is uncommon in them;
+> - the Chincoteague water history is wrong: the town has drawn its water from mainland wells since the 1950s because island groundwater was limited and brackish, and no septic cause is documented;
+> - the thyroid claim misstates Ward et al. 2010, which found **no** association between drinking-water nitrate and thyroid disease;
+> - the Danish cancer study's units are mismatched (mg/L nitrate vs. nitrate-N), and later meta-analyses find the nitrate–colorectal cancer evidence mixed;
 > - the shallow-aquifer description is wrong (the sole-source aquifer includes the deeper confined aquifers);
 > - it promises free and subsidized testing services that have not been confirmed.
 >
