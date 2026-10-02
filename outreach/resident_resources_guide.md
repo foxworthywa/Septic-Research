@@ -249,7 +249,7 @@ Assistance programs on the Shore open and close as grant money comes and goes. *
 
 **C. VDH Septic and Well Assistance Program (SWAP).** SWAP's main application rounds have closed. VDH is accepting **Homeowner Interest Forms only**, for limited remaining funds.
 
-- Submitting a form is free, costs nothing, and is not an application.
+- Submitting a form is free and is not an application.
 - It is for households at or below 200% of federal poverty guidelines.
 - <https://www.vdh.virginia.gov/environmental-health/swap/> · VDH_SWAP_Grant@vdh.virginia.gov
 

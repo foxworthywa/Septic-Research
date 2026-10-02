@@ -25,6 +25,7 @@ ZIP_NAME="ESVA_Septic_Project_Deliverables.zip"
 # Source markdown, in the order they should appear to a reader.
 # Add new documents here (or they will simply be picked up by the globs).
 SOURCES=(
+  OUTREACH_MESSAGING_REVIEW.md
   ECOLOGICAL_EFFECTS_SYNTHESIS.md
   ECOLOGICAL_BIBLIOGRAPHY.md
   ECOLOGICAL_RESEARCH_STRATEGY.md

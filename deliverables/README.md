@@ -40,12 +40,13 @@ exists specifically to make that failure mode visible.
 
 | File | Built from |
 |---|---|
+| `OUTREACH_MESSAGING_REVIEW.docx` | `OUTREACH_MESSAGING_REVIEW.md`, **start here** for what to say publicly |
 | `ECOLOGICAL_EFFECTS_SYNTHESIS.docx` | `ECOLOGICAL_EFFECTS_SYNTHESIS.md` |
 | `ECOLOGICAL_BIBLIOGRAPHY.docx` | `ECOLOGICAL_BIBLIOGRAPHY.md` |
 | `ECOLOGICAL_RESEARCH_STRATEGY.docx` | `ECOLOGICAL_RESEARCH_STRATEGY.md` |
 | `POSTER_CONTENT_AND_LAYOUT.docx` | `poster/POSTER_CONTENT_AND_LAYOUT.md` |
 | `ESVA_Symposium_Poster.html` | copied from `poster/` |
-| `article_eastern_shore_post_*.docx` | `outreach/` |
+| `article_part1_septic_basics.docx`, `article_part2_well_testing.docx` | `outreach/` (superseded drafts in `outreach/archive/` are deliberately **not** packaged) |
 | `resident_resources_guide.docx` | `outreach/` |
 | `pathway_1` … `pathway_6*.docx` | `research/` |
 | `ESVA_Septic_Project_Deliverables.zip` | all of the above |

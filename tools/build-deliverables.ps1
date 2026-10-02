@@ -32,6 +32,7 @@ $Manifest = Join-Path $Out '.build-manifest'
 
 # Explicit documents, then everything under outreach\ and research\
 $Sources = @(
+    'OUTREACH_MESSAGING_REVIEW.md',
     'ECOLOGICAL_EFFECTS_SYNTHESIS.md',
     'ECOLOGICAL_BIBLIOGRAPHY.md',
     'ECOLOGICAL_RESEARCH_STRATEGY.md',

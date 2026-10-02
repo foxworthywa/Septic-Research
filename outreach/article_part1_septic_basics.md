@@ -68,6 +68,8 @@ There are other practical reasons, too:
 
 Many Shore homeowners don't realize that state law requires septic tanks in Chesapeake Bay Preservation Areas to be pumped out at least once every five years [5]. On the Shore that covers most properties, and the health district can tell you whether it applies at your address. The rule comes from the Chesapeake Bay Preservation Act. Its purpose is to keep systems working, and Virginia counts each reported pump-out toward its Chesapeake Bay cleanup goals [1].
 
+That isn't because the Shore's waters are in trouble. VDH tests the Shore's shellfish waters at nearly 600 sampling stations, each at least six times a year. The great majority of those waters are open for harvest. That matters here: Virginia's shellfish farms sold about $75 million worth of clams and oysters last year, and nearly all of the state's clams come from the Shore [10]. Keeping septic systems working is one of the ordinary ways the Shore keeps it that way.
+
 Two practical tips:
 
 - When your tank is pumped, **ask the company to report it to VDH.** Haulers are required to, but on the Shore many reports are only filed after an owner gets a letter [1].
@@ -176,6 +178,13 @@ Source: Virginia Department of Health. 2023. *Wastewater Infrastructure Needs As
 
 [9] **The "three P's":** U.S. EPA SepticSmart. <https://www.epa.gov/septic/septicsmart-homeowners>
 
+[10] **Shellfish water monitoring and status; aquaculture value:**
+- VDH samples stations at least six times per year and classifies on the 30 most recent samples: VDH, *Classification of Shellfish Growing Areas*. <https://www.vdh.virginia.gov/environmental-health/environmental-health-services/shellfish-safety/classification-of-shellfish-growing-areas/>
+- About 590 active Eastern Shore stations, and roughly 1% of classified Shore acreage condemned: project analysis of VDH's public shellfish GIS layer, October 2026. **Verify with VDH before printing a number.**
+- Closure notices: Accomack <https://www.vdh.virginia.gov/environmental-health/shellfish-safety/shellfish-closures/accomack-county/>; Northampton <https://www.vdh.virginia.gov/environmental-health/shellfish-safety/shellfish-closures/northampton-county/>
+- About $75 million in 2025 farm-gate sales (clams ~$45M, oysters ~$30M): Hudson K. 2026. *Virginia Shellfish Aquaculture Situation and Outlook Report* (2025 data). VIMS Marine Advisory Program. doi:10.21220/AFQ2-YC24
+- 99.9% of Virginia hard clam landings from Accomack and Northampton (2021): Snyder 2021, VIMS Eastern Shore Laboratory Technical Report 10. <https://scholarworks.wm.edu/reports/2657/>
+
 ---
 
 ## Editorial notes (not for publication)
@@ -186,7 +195,10 @@ Source: Virginia Department of Health. 2023. *Wastewater Infrastructure Needs As
 - VDH reports that it is not seeing widespread septic-related shellfish contamination or public-health effects.
 - This article leads instead with what is solid and what VDH asked for: the money, the house, the family, and the law.
 
-**The one ecological sentence is deliberate.** "Virginia counts each reported pump-out toward its Chesapeake Bay cleanup goals" explains *why the law exists* without claiming harm we can't document.
+**The two ecological sentences are deliberate.**
+
+- "Virginia counts each reported pump-out toward its Chesapeake Bay cleanup goals" explains *why the law exists* without claiming harm we can't document.
+- The shellfish paragraph is framed as **pride and prevention**. The Shore's waters are monitored intensively and are among the cleanest in Virginia. Do not reintroduce any claim that septic systems are currently causing closures; no evidence shows that.
 
 **Everything here traces to VDH or the Code.** The single most useful source is VDH's December 2025 report (RD1005), written with the Eastern Shore Health District. Quoting it keeps the article aligned with the agency.
 
