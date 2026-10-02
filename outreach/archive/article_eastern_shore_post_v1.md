@@ -1,3 +1,5 @@
+> **SUPERSEDED — October 2026. Do not publish or reuse.** Replaced by `outreach/article_part1_septic_basics.md`. The October 2026 evidence review (`OUTREACH_MESSAGING_REVIEW.md`) found this draft's central claims unsupported for the Eastern Shore. These include the claim that Shore septic density tracks creek nitrogen, bacteria and shellfish closures, the "unsewered" town list (Cape Charles is sewered), and the "near-complete overlap" attributed to Mitchell et al. 2021, which found the opposite. Its Leight & Hood citation is also garbled. Kept for the record only.
+
 # Article draft: Eastern Shore Post — ecological/behavior version
 
 **Working headline (pick one):**

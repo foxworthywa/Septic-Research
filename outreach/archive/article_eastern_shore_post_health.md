@@ -1,3 +1,13 @@
+> **SUPERSEDED — October 2026. Do not publish or reuse.** Replaced by `outreach/article_part2_well_testing.md`. The October 2026 evidence review (`OUTREACH_MESSAGING_REVIEW.md`) found several claims here that are wrong or unsupported:
+> - the "43% of tested Shore wells" figure has no traceable source;
+> - the Chincoteague water history is wrong (no septic cause documented);
+> - the thyroid claim misstates Ward et al. 2010;
+> - the Danish cancer study's units are mismatched;
+> - the shallow-aquifer description is wrong (the sole-source aquifer includes the deeper confined aquifers);
+> - it promises free and subsidized testing services that have not been confirmed.
+>
+> Kept for the record only.
+
 # Article draft: Eastern Shore Post — health/behavior version (Part 2 of a series)
 
 **Companion piece** to `outreach/article_eastern_shore_post_v1.md` (ecological version, Part 1 of the series).

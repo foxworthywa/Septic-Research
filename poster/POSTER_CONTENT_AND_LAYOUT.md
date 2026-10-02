@@ -1,5 +1,12 @@
 # ESVA Summer Symposium Poster — Content & Layout Specification
 
+> **October 2026 review note.** Two corrections were made to the poster after it was presented.
+>
+> 1. **The seven-town list was misattributed.** The poster credited a list of "exposed" communities (Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague, Cape Charles) to RD883 (2021). **RD883 does not name any of these towns** (checked against the full text, Oct 2026). Cape Charles is also sewered. The HTML poster line now reads: "Low-lying shoreline communities that rely on septic are logical monitoring priorities… a Tidewater-wide study found only one septic/water-quality overlap and urged 'extreme caution' (Mitchell et al. 2021)." The RD883 reference was dropped.
+> 2. **The body sections below are partly out of date.** They predate the v6–v8 revision log in §12, and the HTML poster is the authoritative version. Where they conflict, follow the HTML and the revision log.
+>
+> See `ECOLOGICAL_EFFECTS_SYNTHESIS.md` (October 2026 evidence review) and `OUTREACH_MESSAGING_REVIEW.md`.
+
 **Companion to `ESVA_Symposium_Poster.html`.** Use this to rebuild the poster in PowerPoint, Illustrator, or Canva, or to edit text before printing from the HTML.
 
 **Format:** 36 in wide × 24 in tall (landscape)
@@ -230,7 +237,7 @@ These systems are not currently degraded by septic pollution. They are, however,
 - The 2015 marine heat wave caused **~50% areal eelgrass loss** in South and Hog Island Bays; recovery is still incomplete.
 - Warming **lowers eelgrass tolerance for nutrients** (Lefcheck et al. 2017). The link is **light**: warm water forces the plant to respire faster, so it needs *more* light to break even — while nutrients feed a film of algae on the blades and in the water that delivers *less*. The two stressors squeeze from opposite sides.
 - Fecal-indicator exceedance in tidal waters rises from **~7% on dry days to ~37%** after ≥1 inch of rain (Leight & Hood 2018).
-- Sea-level-vulnerable septic systems concentrate in the low-lying shoreline parcels that sit **directly above classified shellfish waters**. Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague and Cape Charles are named as particularly exposed (Mitchell et al. 2021; Va. Wastewater Infrastructure Working Group, RD883, 2021).
+- **[Oct 2026, corrected]** Septic vulnerability under sea-level rise is greatest in low-lying shoreline parcels, which are logical monitoring priorities. No published analysis shows septic hot spots explain ESVA shellfish closures. Mitchell et al. (2021) found only one septic/water-quality overlap Tidewater-wide. (An earlier version named seven towns and attributed the list to RD883; RD883 does not contain it.)
 
 **Limits box (light blue fill, dashed blue border) — "What we cannot yet say":**
 - No ESVA study has apportioned creek or lagoon nitrogen among **septic, agriculture and atmospheric** sources.
@@ -356,7 +363,7 @@ Ask the printer to confirm the PDF is exactly 36 × 24 in before printing. If it
 | Nutrient enrichment increases above-ground leaf biomass, **decreases** below-ground bank-stabilising root biomass, and increases microbial decomposition — reducing geomorphic stability and causing creek-bank collapse | ✅ Verified | Deegan et al. 2012, *Nature* 490:388–392 (9-yr whole-ecosystem experiment). **Caveat retained:** loading was ~10× ambient; operation at current ESVA loading is PLAUSIBLE, not established. |
 | Warming raises eelgrass light requirement (faster respiration → more light needed for positive carbon balance) while nutrients reduce light via epiphytes on the blades and water-column algae | ✅ Verified | Lefcheck et al. 2017, *Glob. Change Biol.* 23:3474–3483; corroborated by the seagrass–eutrophication literature (Burkholder et al. 2007). Mechanism is **light limitation**, not direct nutrient toxicity. |
 | ~32% of owners meet recommended inspection intervals; ~60% of systems >20 yrs old never inspected; pump-out $250–500 | ✅ Verified — **scope note** | Center for Rural Pennsylvania homeowner survey; EPA guidance. **These are rural-analogue/national figures, not ESVA-specific.** Label them as such on the poster if challenged. |
-| ESVA septic vulnerability concentrates in shoreline-proximal, low-elevation parcels above classified shellfish waters; Oyster, Willis Wharf, Quinby, Wachapreague, Saxis, Chincoteague, Cape Charles named as particularly exposed | ✅ Verified — **phrasing tightened** | Mitchell et al. 2021 (parcel-level vulnerability mapping); Va. Wastewater Infrastructure Policy Working Group, RD883 (2021) (town list). **An earlier draft said closure areas and septic clusters "occupy the same ground."** The sources support *vulnerability concentrating adjacent to classified shellfish waters*; they do **not** publish a joint overlay of DSS closure areas against septic vulnerability. See the student-project note below. |
+| ~~ESVA septic vulnerability concentrates in shoreline-proximal, low-elevation parcels above classified shellfish waters; seven towns named as particularly exposed~~ | ❌ **Withdrawn Oct 2026** | The town list does not appear in RD883 (full text checked), and Cape Charles is sewered. Mitchell et al. 2021 is Tidewater-wide, does not identify ESVA as a hot spot, and found only one septic/water-quality overlap. |
 
 > **★ Student project opportunity.** The stronger version of that last claim — an actual overlay of VDH Division of Shellfish Safety closure areas against Mitchell's septic-vulnerability layer — **has not been published and both datasets are public.** Doing that overlay would (a) make the claim citable as "this study," (b) produce a genuine figure for the poster, and (c) be a real, semester-scale contribution with the student as first author. This is the highest-value single addition available to this poster.
 
