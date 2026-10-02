@@ -36,7 +36,7 @@ This master synthesis is a modular overview. The authoritative technical content
 2. It highlights cross-cutting themes — findings that emerged independently in multiple pathways and are therefore more robust than any single line of evidence.
 3. It provides an integrated strength-of-evidence summary and a consolidated list of the most important data gaps, framed so they can directly feed Expansion Stage grant proposals and ESCC capstone projects.
 
-Every claim cited here is fully documented and sourced in the relevant pathway file. The deduplicated reference list for all six pathways lives in `ECOLOGICAL_BIBLIOGRAPHY.md`. Health-focused findings (cancer, thyroid, pathogens in human drinking water) are covered separately on the `claude/summarize-project-files-9UwoB` branch and are deliberately excluded here; the scope of this synthesis is strictly ecological.
+Claims cited here are documented in the relevant pathway file. **[Oct 2026]** The October 2026 review found that a number of those claims were unsupported or misattributed; they are corrected and marked in both places. The deduplicated reference list for all six pathways lives in `ECOLOGICAL_BIBLIOGRAPHY.md`. Health-focused findings (cancer, thyroid, pathogens in human drinking water) are covered separately on the `claude/summarize-project-files-9UwoB` branch and are deliberately excluded here; the scope of this synthesis is strictly ecological.
 
 ## 1. Context and framing
 

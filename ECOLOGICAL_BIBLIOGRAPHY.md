@@ -5,19 +5,33 @@
 
 Source: `research/pathway_*.md` files. See `ECOLOGICAL_EFFECTS_SYNTHESIS.md` for the cross-pathway synthesis that draws on these references.
 
+> ### October 2026 verification note
+>
+> These entries were compiled with AI assistance. **Treat every entry as unverified unless it is marked [verified Oct 2026].** The October 2026 audit found:
+>
+> - wrong titles and author lists (e.g., Mitchell et al. 2021, Capps et al. 2020);
+> - a garbled citation (Leight & Hood 2018);
+> - a reference that could not be located and appears constructed (the "Bay Journal 2005" Chincoteague item);
+> - duplicated article numbers (Aoki/Berger 2020);
+> - several papers cited for claims they do not make.
+>
+> Before any entry is used in a publication or outreach material, check it against the paper itself, not just its title. "Verified" below means the entry was checked against publisher or Crossref metadata or the abstract. It does not mean the claims cited to it in the pathway files are supported. See the **[Oct 2026]** notes in each pathway file and `ECOLOGICAL_EFFECTS_SYNTHESIS.md`.
+
 ---
 
 ## A–B
 
-A-NPDC (Accomack-Northampton Planning District Commission). 2022. *Facts about the Eastern Shore of Virginia's Groundwater.* <https://www.esvaplan.org/wp-content/uploads/2022/03/Facts-about-the-ESVA-Groundwater.pdf> [P2]
+A-NPDC (Accomack-Northampton Planning District Commission). 2022. *Facts about the Eastern Shore of Virginia's Groundwater.* <https://www.esvaplan.org/wp-content/uploads/2022/03/Facts-about-the-ESVA-Groundwater.pdf> [P2] **[Oct 2026: not the source of the "~80% groundwater" creek figure. That figure comes from the *Accomack County Regional Water Supply Plan* (April 2010), applies to Accomack only, and describes freshwater inflow, not baseflow.]**
+
+Accomack County. 2010. *Accomack County Regional Water Supply Plan* (April 2010). Prepared with the Accomack–Northampton Planning District Commission. <https://www.esvaplan.org/wp-content/uploads/2024/05/Accomack-County-Water-Supply-Plan.pdf> [P2] **[Oct 2026: added; source of the ~80% figure, per project verification]**
 
 Amador, J. A., and G. W. Loomis. 2020. *Soil-based Wastewater Treatment.* American Society of Agronomy, Crop Science Society of America, Soil Science Society of America. [P1]
 
 Anderson, I. C., K. J. McGlathery, and A. C. Tyler. 2003. Microbial mediation of "reactive" nitrogen transformations in a temperate lagoon. *Marine Ecology Progress Series* 246: 73–84. [P3b]
 
-Aoki, L. R., K. J. McGlathery, and M. P. J. Oreska. 2020. Seagrass restoration reestablishes the coastal nitrogen cycle. *Limnology and Oceanography Letters* 5(6): 340–346. [P3b, P5]
+Aoki, L. R., K. J. McGlathery, and M. P. J. Oreska. 2020. Seagrass restoration reestablishes the coastal nitrogen cycle. *Limnology and Oceanography Letters* 5(6): 340–346. [P3b, P5] **[Oct 2026: unverified. P5 cites a different title ("…coastal carbon cycle," 5(6): 465–472) and uses this paper for scallop and faunal data it does not report.]**
 
-Aoki, L. R., K. J. McGlathery, P. L. Wiberg, and A. Al-Haj. 2020. Depth affects seagrass restoration success and resilience to marine heat wave disturbance. *Frontiers in Marine Science* 7: 576784. [P3b]
+Aoki, L. R., K. J. McGlathery, P. L. Wiberg, and A. Al-Haj. 2020. Depth affects seagrass restoration success and resilience to marine heat wave disturbance. *Estuaries and Coasts* 43: 316–328. doi:10.1007/s12237-019-00685-0. [P3b] **[verified Oct 2026 — journal corrected; the earlier entry gave *Front. Mar. Sci.* 7:576784, which is Berger et al.]**
 
 Ardón, M., J. L. Morse, B. P. Colman, and E. S. Bernhardt. 2013. Drought-induced saltwater incursion leads to increased wetland nitrogen export. *Global Change Biology* 19(10): 2976–2985. doi:10.1111/gcb.12287. [P1]
 
@@ -29,9 +43,9 @@ Baker, A. J., P. M. González, T. Piersma, L. J. Niles, et al. 2004. Rapid popul
 
 Barber, L. B., S. S. Paschke, W. A. Battaglin, C. Douville, K. C. Fitzgerald, S. H. Keefe, D. A. Roth, and A. M. Vajda. 2015. Effects of an extended drought on organic wastewater indicators from a wastewater plume on Cape Cod, Massachusetts. *Environmental Science & Technology* 49(15): 9056–9064. [P1]
 
-Bay Journal. 2005. *On Virginia's Chincoteague, piping in water brings relief from septic contamination.* Alliance for the Chesapeake Bay. [P5]
+~~Bay Journal. 2005. *On Virginia's Chincoteague, piping in water brings relief from septic contamination.* Alliance for the Chesapeake Bay. [P5]~~ **[Oct 2026: REMOVED — could not be located and appears constructed. The claim it supported (septic contamination as the cause of Chincoteague's water supply move) is withdrawn. Do not cite.]**
 
-Berger, A. C., K. J. McGlathery, L. R. Aoki, and M. P. J. Oreska. 2020. Seagrass recovery following marine heat wave influences sediment carbon stocks. *Frontiers in Marine Science* 7: 576784. [P3b]
+Berger, A. C., K. J. McGlathery, L. R. Aoki, and M. P. J. Oreska. 2020. Seagrass recovery following marine heat wave influences sediment carbon stocks. *Frontiers in Marine Science* 7: 576784. doi:10.3389/fmars.2020.576784. [P3b] **[verified Oct 2026]**
 
 Bertness, M. D. 1984. Ribbed mussels and *Spartina alterniflora* production in a New England salt marsh. *Ecology* 65(6): 1794–1807. [P5]
 
@@ -47,11 +61,11 @@ Bowen, J. L., and I. Valiela. 2001. The ecological effects of urbanization of co
 
 Bowen, J. L., and I. Valiela. 2008. Using δ¹⁵N to assess coupling between watersheds and estuaries in temperate and tropical regions. *Journal of Coastal Research* 24(3): 804–813. [P2]
 
-Bratton, J. F., J. K. Böhlke, D. E. Krantz, and C. R. Tobias. 2009. Flow and geochemistry of groundwater beneath a back-barrier lagoon: the subterranean estuary at Chincoteague Bay, Maryland, USA. *Marine Chemistry* 113: 78–92. [P3a, P3b]
+Bratton, J. F., J. K. Böhlke, D. E. Krantz, and C. R. Tobias. 2009. Flow and geochemistry of groundwater beneath a back-barrier lagoon: the subterranean estuary at Chincoteague Bay, Maryland, USA. *Marine Chemistry* 113: 78–92. [P3a, P3b] **[Oct 2026: this is a Chincoteague Bay, MD (seaside) study. It was mis-cited in P3a as Bayside evidence.]**
 
 Bricker, S. B., B. Longstaff, W. Dennison, A. Jones, K. Boicourt, C. Wicks, and J. Woerner. 2008. Effects of nutrient enrichment in the nation's estuaries: a decade of change. *Harmful Algae* 8: 21–32. [P3a, P3b]
 
-Burkholder, J. M., and H. B. Glasgow. 2001. History of toxic *Pfiesteria* in North Carolina estuaries from 1991 to the present. *BioScience* 51: 827–841. [P3a]
+Burkholder, J. M., and H. B. Glasgow. 2001. History of toxic *Pfiesteria* in North Carolina estuaries from 1991 to the present. *BioScience* 51: 827–841. [P3a] **[Oct 2026: a North Carolina paper; cited in P3a for the 1997 Pocomoke (MD) events — marked unverified there]**
 
 ## C–D
 
@@ -63,17 +77,17 @@ Campos, C. J. A., J. Avant, N. Gustar, J. Lowther, A. Powell, L. Stockley, and D
 
 Campos, C. J. A., J. Avant, J. Lowther, D. Till, J.-C. Le Saux, R. L. Atmar, and D. N. Lees. 2017. Determination of norovirus concentrations in the digestive tissue of oysters: sampling and handling considerations. *Food and Environmental Virology* 9: 140–147. [P4]
 
-Capps, K. A., J. M. Bateman McDonald, N. Gaur, and R. Parsons. 2020. Assessing the socio-environmental risk of onsite wastewater treatment systems to inform management decisions. *Environmental Science & Technology* 54(23): 14843–14853. doi:10.1021/acs.est.0c03909. [P2, P3a]
+Capps, K. A., J. M. Bateman McDonald, N. Gaur, and R. Parsons. 2020. Assessing the socio-environmental risk of onsite wastewater treatment systems to inform management decisions. *Environmental Science & Technology* 54(23): 14843–14853. doi:10.1021/acs.est.0c03909. [P2, P3a] **[verified Oct 2026 — a single-jurisdiction framework study. It does not identify Delmarva or ESVA as a risk hotspot, as P3a claimed.]**
 
-Capps, K. A., C. N. Bentsen, and A. Ramírez. 2020. Poverty, urbanization, and environmental degradation: urban streams in the developing world. *Environmental Science & Technology* 54: 11732–11743. [P3b, P4]
+Capps, K. A., C. N. Bentsen, and A. Ramírez. 2020. Poverty, urbanization, and environmental degradation: urban streams in the developing world. *Environmental Science & Technology* 54: 11732–11743. [P3b, P4] **[Oct 2026: unverified. It does not support the ESVA claims it was cited for in P3b and P4 (now withdrawn). P4 cited yet another title for "Capps et al. 2020."]**
 
 Cardoso, P. G., M. A. Pardal, A. I. Lillebø, S. M. Ferreira, D. Raffaelli, and J. C. Marques. 2004. Dynamic changes in seagrass assemblages under eutrophication and implications for recovery. *Journal of Experimental Marine Biology and Ecology* 302: 233–248. [P3b]
 
-Carrey, R., E. Ballesté, A. R. Blanch, et al. 2021. Combining multi-isotopic and molecular source-tracking methods to identify nitrate pollution sources in surface and groundwater. *Water Research* 188: 116537. [P1]
+Carrey, R., E. Ballesté, A. R. Blanch, et al. 2021. Combining multi-isotopic and molecular source-tracking methods to identify nitrate pollution sources in surface and groundwater. *Water Research* 188: 116537. [P1] **[verified Oct 2026 — a nitrate source-tracking study; does not support the septic-plume microbiome claim it was cited for in P1]**
 
 Carroll, J., C. J. Gobler, and B. J. Peterson. 2010. Resource-restricted growth of eelgrass in New York estuaries. *Limnology and Oceanography* 55(1): 100–110. [P5]
 
-Carroll, J. M., L. J. Jackson, and B. J. Peterson. 2015. The effect of increasing loads of nitrogen on eelgrass and its ecology. *Environmental Reviews* 23(4): 399–410. [P5]
+Carroll, J. M., L. J. Jackson, and B. J. Peterson. 2015. The effect of increasing loads of nitrogen on eelgrass and its ecology. *Environmental Reviews* 23(4): 399–410. [P5] **[Oct 2026: unverified; not found in Crossref. Cited in P5 for boring sponges, which this title does not cover.]**
 
 Carroll, S., A. Goonetilleke, E. Thomas, M. Hargreaves, R. Frost, and L. Dawes. 2005. Integrated risk framework for onsite wastewater treatment systems. *Environmental Management* 38(2): 286–303. [P2]
 
@@ -105,7 +119,7 @@ Dungan, C. F., K. L. Arens, and W. H. Watson. 2008. *Limulus polyphemus* embryo 
 
 Eastern Shore Climate Equity StoryMap. 2025. *Groundwater depth and septic drainage on the Eastern Shore.* Virginia Climate Equity project. <https://storymaps.arcgis.com/stories/bb039401ce4c4b8491e4074dffe64f8e> [P6]
 
-EPA (U.S. Environmental Protection Agency). 1997. *Sole source aquifer designation for the Eastern Shore of Virginia aquifer system, Accomack and Northampton Counties, Virginia.* Federal Register, 62 FR 11562. [P1]
+EPA (U.S. Environmental Protection Agency). 1997. *Sole source aquifer designation for the Eastern Shore of Virginia aquifer system, Accomack and Northampton Counties, Virginia.* Federal Register, 62 FR 11562. [P1] **[Oct 2026: the designation covers both the Columbia and Yorktown–Eastover aquifer systems and excludes Chincoteague and Tangier islands. Re-check the Federal Register citation; project poster notes cite 62(68), April 9, 1997.]**
 
 FDA / Interstate Shellfish Sanitation Conference. 2019. *National Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish: Model Ordinance.* [P4]
 
@@ -115,7 +129,7 @@ Frankel, L. T., M. A. M. Friedrichs, P. St-Laurent, A. J. Bever, R. N. Lipcius, 
 
 Glibert, P. M., R. Magnien, M. W. Lomas, J. Alexander, C. Fan, E. Haramoto, M. Trice, and T. M. Kana. 2001. Harmful algal blooms in the Chesapeake and coastal bays of Maryland, USA. *Estuaries* 24: 875–883. [P3a]
 
-Glibert, P. M., et al. 2014. Microbial community responses to oxidized and reduced nitrogen substrates. *Frontiers in Marine Science* 1: 17. (Applied to Chesapeake *Prorocentrum* context via 2017 reviews.) [P3a]
+Glibert, P. M., et al. 2014. Microbial community responses to oxidized and reduced nitrogen substrates. *Frontiers in Marine Science* 1: 17. (Applied to Chesapeake *Prorocentrum* context via 2017 reviews.) [P3a] **[Oct 2026: unverified; a San Francisco Bay study cited for a Chesapeake septic-vs-agriculture N:P claim]**
 
 Gobler, C. J., G. E. Boneillo, and C. J. Debenham. 2005. Ecology, phylogeny, and physiology of the harmful brown tide alga, *Aureococcus anophagefferens. Harmful Algae* 4(4): 649–669. [P2, P5]
 
@@ -133,7 +147,7 @@ Grabowski, J. H., R. D. Brumbaugh, R. F. Conrad, A. G. Keeler, J. J. Opaluch, C.
 
 ## H–L
 
-Hanisak, M. D., et al. 2023. *Caulerpa prolifera* expansion and seagrass replacement in the Indian River Lagoon. [P3b]
+Hanisak, M. D., et al. 2023. *Caulerpa prolifera* expansion and seagrass replacement in the Indian River Lagoon. [P3b] **[Oct 2026: unverified; incomplete reference]**
 
 Harding, L. W., C. L. Gallegos, E. S. Perry, W. D. Miller, J. E. Adolf, M. E. Mallonee, and H. W. Paerl. 2016. Long-term trends of nutrients and phytoplankton in Chesapeake Bay. *Estuaries and Coasts* 39: 664–681. [P3a]
 
@@ -143,7 +157,7 @@ Heil, C. A., P. M. Glibert, and C. Fan. 2005. *Prorocentrum minimum* (Pavillard)
 
 Hensel, M. J. S., C. J. Patrick, R. J. Orth, D. J. Wilcox, C. Gurbisz, M. Hannam, J. Kennedy, J. B. Landry, K. A. Moore, R. R. Murphy, J. M. Testa, and J. S. Lefcheck. 2023. Rise of *Ruppia* in Chesapeake Bay: climate change-driven turnover of foundation species creates new threats and management opportunities. *PNAS* 120: e2220678120. [P3a]
 
-Hesamfar, F., S. A. Barbosa, T. N. D. Tran, T. Culver, L. Band, and V. Lakshmi. in review. Impact of changing recharge on sole-source coastal aquifer: multi-model assessment for Virginia's Eastern Shore. *Journal of Hydrology*. [P1, P6] *Note: a minor citation discrepancy exists across pathway files for the author list; the version here matches the original ESVA Climate Equity Project documentation.*
+Hesamfar, F., S. A. Barbosa, T. N. D. Tran, T. Culver, L. Band, and V. Lakshmi. in review. Impact of changing recharge on sole-source coastal aquifer: multi-model assessment for Virginia's Eastern Shore. *Journal of Hydrology*. [P1, P6] *Note: a minor citation discrepancy exists across pathway files for the author list; the version here matches the original ESVA Climate Equity Project documentation.* **[Oct 2026: the discrepancy is not minor. P1 describes a different paper (Hesamfar, Sanford, Pyrak-Nolte; a SEAWAT septic-vulnerability model) with unpublished "preliminary results." Reconcile before citing, and treat all ESVA water-table-in-drainfield figures as unpublished project modeling.]**
 
 Hines, A. H. 2007. Ecology of juvenile and adult blue crabs. In V. S. Kennedy and L. E. Cronin (eds.), *The Blue Crab: Callinectes sapidus.* Maryland Sea Grant. [P5]
 
@@ -155,7 +169,7 @@ Howes, B. L., P. K. Weiskel, D. D. Goehringer, and J. M. Teal. 1996. Interceptio
 
 Hudson, K. 2018, 2024, 2025. *Virginia Shellfish Aquaculture Situation and Outlook Report.* VIMS Marine Advisory Program / Virginia Sea Grant. [P4]
 
-Humphrey, C. P., J. Jernigan, G. Iverson, B. Serozi, M. O'Driscoll, S. Pradhan, and E. Bean. 2015. Field evaluation of nitrogen treatment by conventional and single-pass sand filter onsite wastewater systems in the North Carolina Piedmont. *Water, Air, & Soil Pollution* 226(10): 335. [P1]
+Humphrey, C. P., et al. 2016. Field evaluation of nitrogen treatment by conventional and single-pass sand filter onsite wastewater systems in the North Carolina Piedmont. *Water, Air, & Soil Pollution* 227: 255. doi:10.1007/s11270-016-2958-0. [P1] **[verified Oct 2026 — year, volume and DOI corrected per Crossref (the author list was not re-checked). It is a Piedmont system-performance study and does not support the coastal-watershed "3× TDN" claim it was cited for in P1.]**
 
 Isdell, R. E., R. M. Chambers, D. M. Bilkovic, and M. Leu. 2015. Effects of terrestrial-aquatic connectivity on an estuarine turtle. *Diversity and Distributions* 21(6): 643–653. [P5]
 
@@ -175,7 +189,7 @@ Kirwan, M. L., S. Temmerman, E. E. Skeehan, G. R. Guntenspergen, and S. Fagheraz
 
 Kreeger, D. A., and R. I. E. Newell. 2001. Trophic complexity between producers and invertebrate consumers in salt marshes. In M. P. Weinstein and D. A. Kreeger (eds.), *Concepts and Controversies in Tidal Marsh Ecology.* Kluwer Academic. [P5]
 
-La Peyre, M. K., A. T. Humphries, S. M. Casas, and J. F. La Peyre. 2010. Temporal variation in development of ecosystem services from oyster reef restoration. *Ecological Engineering* 63: 34–44. [P5]
+La Peyre, M. K., A. T. Humphries, S. M. Casas, and J. F. La Peyre. 2014. Temporal variation in development of ecosystem services from oyster reef restoration. *Ecological Engineering* 63: 34–44. doi:10.1016/j.ecoleng.2013.12.001. [P5] **[verified Oct 2026 — year corrected from 2010. It does not address the nutrient–temperature–Dermo interactions it was cited for in P5.]**
 
 Lapointe, B. E., L. W. Herren, D. D. Debortoli, and M. A. Vogel. 2015. Evidence of sewage-driven eutrophication and harmful algal blooms in Florida's Indian River Lagoon. *Harmful Algae* 43: 82–102. [P2, P3a, P3b, P4]
 
@@ -191,7 +205,7 @@ Lefcheck, J. S., D. J. Wilcox, R. R. Murphy, S. R. Marion, and R. J. Orth. 2017.
 
 Lefcheck, J. S., R. J. Orth, W. C. Dennison, D. J. Wilcox, R. R. Murphy, J. Keisman, C. Gurbisz, M. Hannam, J. B. Landry, K. A. Moore, C. J. Patrick, J. Testa, D. E. Weller, and R. A. Batiuk. 2018. Long-term nutrient reductions lead to the unprecedented recovery of a temperate coastal region. *PNAS* 115(14): 3658–3662. [P3a, P3b, P5]
 
-Lefcheck, J. S., B. B. Hughes, A. J. Johnson, B. W. Pfirrmann, D. B. Rasher, A. R. Smyth, B. L. Williams, M. W. Beck, and R. J. Orth. 2019. Are coastal habitats important nurseries? A meta-analysis. *Conservation Letters* 12(4): e12645. [P5]
+Lefcheck, J. S., B. B. Hughes, A. J. Johnson, B. W. Pfirrmann, D. B. Rasher, A. R. Smyth, B. L. Williams, M. W. Beck, and R. J. Orth. 2019. Are coastal habitats important nurseries? A meta-analysis. *Conservation Letters* 12(4): e12645. [P5] **[verified Oct 2026 — a meta-analysis. P5 cited "Lefcheck et al. 2019, PNAS 116:20636" for a Chesapeake SAV–fauna monitoring analysis; no such PNAS paper was found, and that claim is marked unverified.]**
 
 Lindsey, B. D., S. W. Phillips, C. A. Donnelly, G. K. Speiran, L. N. Plummer, J. K. Böhlke, M. J. Focazio, W. C. Burton, and E. Busenberg. 2003. *Residence times and nitrate transport in ground water discharging to streams in the Chesapeake Bay watershed.* USGS WRIR 03-4035. [P3a]
 
@@ -213,9 +227,13 @@ McGlathery, K. J., L. K. Reynolds, L. W. Cole, R. J. Orth, S. R. Marion, and A. 
 
 McGlathery, K. J., K. Sundbäck, and I. C. Anderson. 2007. Eutrophication in shallow coastal bays and lagoons: the role of plants in the coastal filter. *Marine Ecology Progress Series* 348: 1–18. [P2, P3b]
 
-Mitchell, M., R. E. Isdell, J. Herman, and C. Tombleson. 2021. Impact assessment and management challenges of key rural human health infrastructure under sea level rise. *Frontiers in Marine Science* 8: 631757. doi:10.3389/fmars.2021.631757. [P1, P2, P3a, P3b, P4, P6] *Cited in all six pathways — the foundational ESVA-specific reference for the synthesis.*
+Mitchell, M., R. E. Isdell, J. Herman, and C. Tombleson. 2021. Impact assessment and management challenges of key rural human health infrastructure under sea level rise. *Frontiers in Marine Science* 8: 631757. doi:10.3389/fmars.2021.631757. [P1, P2, P3a, P3b, P4, P6] **[verified Oct 2026]** *Cited in all six pathways.* **[Oct 2026]** The earlier note called this "the foundational ESVA-specific reference," which was wrong:
+- It is a **Tidewater-wide** analysis of 2008–2018 VDH septic repair-permit hot spots, prevalent around Richmond and Gloucester County.
+- It does not report Eastern Shore results separately, rank ESVA, use a 1.5-ft sea-level scenario, name ESVA towns, or calculate nitrogen loads.
+- It found "only one incident where a low WQ region overlapped directly with a septic hot spot in Tidewater Virginia" and urged "extreme caution."
+- Pathway files had cited it under three other titles and author lists; those have been corrected.
 
-Mitchell, M., et al. 2021. *Analysis of failed, failing or threatened septic systems in the Coastal Plain.* CBSAG / Virginia Department of Conservation and Recreation report. <https://www.naturalresources.virginia.gov/media/governorvirginiagov/secretary-of-natural-resources/pdf/Septic-CBSAG.pdf> [P3a]
+Mitchell, M., R. Isdell, J. Herman, and C. Tombleson. 2021. *Analysis of failed, failing or threatened septic systems in the Coastal Plain.* Slide presentation, Chesapeake Bay Stakeholder Advisory Group meeting, August 19, 2021. <https://www.naturalresources.virginia.gov/media/governorvirginiagov/secretary-of-natural-resources/pdf/Septic-CBSAG.pdf> [P3a] **[verified Oct 2026 — a slide deck, not a report; contains no ESVA-specific findings]**
 
 Morris, L. J., L. M. Hall, and C. A. Jacoby. 2018. Seagrass in a changing estuary, the Indian River Lagoon, Florida. *Florida Scientist* 81: 50–70. [P3b]
 
@@ -253,7 +271,7 @@ Orth, R. J., J. S. Lefcheck, K. J. McGlathery, L. Aoki, M. W. Luckenbach, K. A. 
 
 Perry, M. C., and A. S. Deller. 1996. Waterfowl population trends in the Chesapeake Bay area. *Proceedings of the Chesapeake Bay Research Conference* 2: 1–11. [P5]
 
-Peterson, C. H., and K. L. Heck Jr. 2001. An experimental test of the mechanism by which suspension feeding bivalves elevate seagrass productivity. *Marine Ecology Progress Series* 218: 115–125. [P5]
+Peterson, C. H., and K. L. Heck Jr. 2001. An experimental test of the mechanism by which suspension feeding bivalves elevate seagrass productivity. *Marine Ecology Progress Series* 218: 115–125. [P5] **[verified Oct 2026 — about mussels facilitating seagrass. It does not support the bay scallop–eelgrass dependency claim it was cited for in P5.]**
 
 Phlips, E. J., S. Badylak, M. A. Lasi, R. Chamberlain, W. C. Green, L. M. Hall, J. A. Hart, J. C. Lockwood, J. D. Miller, L. J. Morris, and J. S. Steward. 2015. From red tides to green and brown tides: bloom dynamics in a restricted subtropical lagoon under shifting climatic conditions. *Estuaries and Coasts* 38: 886–904. [P2, P3a, P3b, P4]
 
@@ -261,7 +279,7 @@ Reiskind, M. H., and M. L. Wilson. 2004. *Culex restuans* (Diptera: Culicidae) o
 
 Richardson, D. L. 1994. *Hydrogeology and analysis of the ground-water-flow system of the Eastern Shore, Virginia.* USGS Water-Supply Paper 2401. [P1, P2, P3a]
 
-Robertson, W. D., J. A. Cherry, and E. A. Sudicky. 1991. Ground-water contamination from two small septic systems on sand aquifers. *Ground Water* 29(1): 82–92. [P6]
+Robertson, W. D., J. A. Cherry, and E. A. Sudicky. 1991. Ground-water contamination from two small septic systems on sand aquifers. *Ground Water* 29(1): 82–92. [P6] **[Oct 2026: unverified for the post-decommissioning legacy-N claim it is cited for in P6]**
 
 Robertson, W. D., S. L. Schiff, and C. J. Ptacek. 1998. Review of phosphate mobility and persistence in 10 septic system plumes. *Ground Water* 36(6): 1000–1010. [P1, P3a]
 
@@ -269,7 +287,7 @@ Roosenburg, W. M. 1991. The diamondback terrapin: population dynamics, habitat r
 
 Rothschild, B. J., J. S. Ault, P. Goulletquer, and M. Héral. 1994. Decline of the Chesapeake Bay oyster population: a century of habitat destruction and overfishing. *Marine Ecology Progress Series* 111: 29–39. [P4]
 
-Russ, E. J., and C. M. Palinkas. 2020. Sedimentary organic matter sources on the seaside of the Delmarva Peninsula. (Coastal geology / biogeochemistry report.) [P3b]
+Russ, E. J., and C. M. Palinkas. 2020. Sedimentary organic matter sources on the seaside of the Delmarva Peninsula. (Coastal geology / biogeochemistry report.) [P3b] **[Oct 2026: unverified; incomplete reference]**
 
 ## S–T
 
@@ -277,21 +295,21 @@ Safak, I., P. L. Wiberg, D. L. Richardson, and M. O. Kurum. 2015. Controls on re
 
 Sanford, W. E., and J. P. Pope. 2013. Quantifying groundwater's role in delaying improvements to Chesapeake Bay water quality. *Environmental Science & Technology* 47: 13330–13338. [P3a]
 
-Schaider, L. A., J. M. Ackerman, and R. A. Rudel. 2014. Septic systems as sources of organic wastewater compounds in domestic drinking water wells in a shallow sand and gravel aquifer. *Science of the Total Environment* 547: 470–481. [P1]
+Schaider, L. A., J. M. Ackerman, and R. A. Rudel. 2016. Septic systems as sources of organic wastewater compounds in domestic drinking water wells in a shallow sand and gravel aquifer. *Science of the Total Environment* 547: 470–481. doi:10.1016/j.scitotenv.2015.12.081. [P1] **[verified Oct 2026 — year corrected from 2014]**
 
-Seitz, R. D., R. N. Lipcius, A. H. Hines, and D. B. Eggleston. 2003. Density-dependent predation, habitat variation, and the persistence of marine bivalve prey. *Ecology* 84(6): 1428–1440. [P5]
+Seitz, R. D., R. N. Lipcius, A. H. Hines, and D. B. Eggleston. 2001. Density-dependent predation, habitat variation, and the persistence of marine bivalve prey. *Ecology* 82(9): 2435–2451. [P5] **[verified Oct 2026 — year and volume corrected from 2003, 84(6): 1428–1440. A bivalve-prey paper; it does not support the crab–SAV abundance claim it was cited for in P5.]**
 
-Shields, C. A., L. E. Band, N. Law, P. M. Groffman, S. S. Kaushal, K. Savvas, G. T. Fisher, and K. T. Belt. 2008. Streamflow distribution of non-point source nitrogen export from urban-rural catchments in the Chesapeake Bay watershed. *Water Resources Research* 44: W09416. [P3a]
+Shields, C. A., L. E. Band, N. Law, P. M. Groffman, S. S. Kaushal, K. Savvas, G. T. Fisher, and K. T. Belt. 2008. Streamflow distribution of non-point source nitrogen export from urban-rural catchments in the Chesapeake Bay watershed. *Water Resources Research* 44: W09416. [P3a] **[Oct 2026: title verified (Baltimore-area urban–rural catchments). The "~9% of Patuxent N from septic" figure cited to it in P3a is unverified.]**
 
 Smith, D. R., H. J. Brockmann, M. A. Beekey, T. L. King, M. J. Millard, and J. Zaldívar-Rae. 2017. Conservation status of the American horseshoe crab, *Limulus polyphemus*: a regional assessment. *Reviews in Fish Biology and Fisheries* 27: 135–175. [P5]
 
-Speiran, G. K. 1996. *Geohydrology and geochemistry near coastal ground-water-discharge areas of the Eastern Shore, Virginia.* USGS Water-Supply Paper 2479. [P1, P2, P3a, P3b]
+Speiran, G. K. 1996. *Geohydrology and geochemistry near coastal ground-water-discharge areas of the Eastern Shore, Virginia.* USGS Water-Supply Paper 2479. [P1, P2, P3a, P3b] **[verified Oct 2026 — the groundwater studied "recharged through agricultural fields." This is an agricultural-nitrate study, not septic.]**
 
 Speiran, G. K. 2010. Effects of groundwater-flow paths on nitrate concentrations across two riparian forest corridors. *Journal of the American Water Resources Association* 46(2): 246–260. [P1, P2]
 
 Sprouse, L., A. Kryston, S. Lebu, C. Muoghalu, C. Woods, and M. Manga. 2024. Septic systems in North Carolina: a neglected half of the state? *PLOS Water* 3(10): e0000304. [P6]
 
-Stanhope, J. W., I. C. Anderson, and W. G. Reay. 2009. Base flow nutrient discharges from lower Delmarva Peninsula watersheds of Virginia, USA. *Journal of Environmental Quality* 38: 2070–2083. [P3b]
+Stanhope, J. W., I. C. Anderson, and W. G. Reay. 2009. Base flow nutrient discharges from lower Delmarva Peninsula watersheds of Virginia, USA. *Journal of Environmental Quality* 38: 2070–2083. doi:10.2134/jeq2008.0358. [P2, P3a, P3b] **[verified Oct 2026 — 14 first-order streams. TDN concentrations tracked % agricultural land; yields also tracked % developed land. It is a baseflow study, not a submarine-groundwater-discharge study as P3b had described it.]**
 
 Swartz, C. H., S. Reddy, M. J. Benotti, H. Yin, L. B. Barber, B. J. Brownawell, and R. A. Rudel. 2006. Steroid estrogens, nonylphenol ethoxylate metabolites, and other wastewater contaminants in groundwater affected by a residential septic system on Cape Cod, MA. *Environmental Science & Technology* 40(16): 4894–4902. [P1]
 
@@ -351,6 +369,6 @@ Webby, R. J., K. S. Carville, M. D. Kirk, G. Greening, R. M. Ratcliff, S. K. Cre
 
 Weston, N. B. 2014. Declining sediments and rising seas: an unfortunate convergence for tidal wetlands. *Estuaries and Coasts* 37(1): 1–23. [P2]
 
-Young, C. S., C. J. Gobler, and B. G. Heikes. 2010. Coupled N loading, brown tide, and seagrass decline in Long Island lagoons. (Ecological synthesis report.) [P3b]
+Young, C. S., C. J. Gobler, and B. G. Heikes. 2010. Coupled N loading, brown tide, and seagrass decline in Long Island lagoons. (Ecological synthesis report.) [P3b] **[Oct 2026: unverified; incomplete reference, possibly constructed]**
 
-Leight, A.K. & R. Hood 2018. Precipitation thresholds for fecal bacterial indicators in the Chesapeake Bay [Maryland shellfish waters; fecal source not apportioned]. *Water Research* 139: 252–262. [P4]
+Leight, A. K., and R. R. Hood. 2018. Precipitation thresholds for fecal bacterial indicators in the Chesapeake Bay. *Water Research* 139: 252–262. [Maryland shellfish waters, 2004–2014; fecal source not apportioned.] [P4] **[verified Oct 2026 — citation corrected; the P4 version had co-authors from an unrelated paper spliced in]**
